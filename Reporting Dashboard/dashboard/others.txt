@@ -1,0 +1,42 @@
+                  fluidRow(
+                    align = "top",
+                    column(
+                      width = 3,
+                      tags$i(class = "fa-solid fa-square fa-2x",
+                             style = 'color: #C0C0C0; margin: 10px;'),
+                      p("Desk", br(), "Research",
+                        style = 'font:Poppins; font-weight: 700; font-size: 14px; line-height: 120%; letter-spacing: 2%; color: #075D04;'),
+                      p("Gathering background information on stakeholders before direct engagement.",
+                        style = 'font:Poppins; font-weight: 500; font-size: 10.89px; line-height: 120%; letter-spacing: 2%; color: #888C95;')
+                    ),
+                    column(
+                      width = 3,
+                      tags$i(class = "fa-solid fa-square fa-2x",
+                             style = 'color: #69CCE5; margin: 10px;'),
+                      p("Initiated", br(), "Engagement",
+                        style = 'font:Poppins; font-weight: 700; font-size: 14px; line-height: 120%; letter-spacing: 2%; color: #075D04;'),
+                      p("First contact made, introducing letters, talking points and objectives.",
+                        style = 'font:Poppins; font-weight: 500; font-size: 10.89px; line-height: 120%; letter-spacing: 2%; color: #888C95;')
+                    ),
+                    column(
+                      width = 3,
+                      tags$i(class = "fa-solid fa-square fa-2x",
+                             style = 'color: #E36A61; margin: 10px;'),
+                      p("Engagement", br(), "Ongoing",
+                        style = 'font:Poppins; font-weight: 700; font-size: 14px; line-height: 120%; letter-spacing: 2%; color: #075D04;'),
+                      p("Active discussions, consultations and collaborations in progress.",
+                        style = 'font:Poppins; font-weight: 500; font-size: 10.89px; line-height: 120%; letter-spacing: 2%; color: #888C95;')
+                    ),
+                    column(
+                      width = 3,
+                      tags$i(class = "fa-solid fa-square fa-2x",
+                             style = 'color: #6BC16E; margin: 10px;'),
+                      p("Engagement", br(), "Completed",
+                        style = 'font:Poppins; font-weight: 700; font-size: 14px; line-height: 120%; letter-spacing: 2%; color: #075D04;'),
+                      p("Stakeholder inputs received, and engagement phase concluded.",
+                        style = 'font:Poppins; font-weight: 500; font-size: 10.89px; line-height: 120%; letter-spacing: 2%; color: #888C95;')
+                    )
+                  )
+                  
+
+

@@ -1,0 +1,45 @@
+region,state,State_2,Estimated Wattage per Household,Estimated Number of Households,Total Estimated Demand (Watts), Total Estimated Demand (MW) , State Grid Transmission Capacity (MW) ,% Tx Capacity to Household Demand,Disco's Metering Rate,MINI GRID,IPP
+South East,Abia,Abia,490.1960784,1152844,565119607.8,565.12,311.86,55,43.46,,141 MW
+North East,Adamawa,Adamawa,758.5411736,774696,587638813,587.64,200,34,14.43,Not Specified,
+South South,Akwa-Ibom,Akwa-Ibom,300.6795358,1248506,375400204.5,375.4,250.74,67,43.46,100kW,572 MW
+South East,Anambra,Anambra,376.1095231,1713594,644499022.1,644.5,411.3,64,46.89,7.5kW,
+North East,Bauchi,Bauchi,317.1742695,1069598,339248964.4,339.25,83,24,33.71,30MW (to be develop),15 MW (Planned)
+South South,Bayelsa,Bayelsa,300.6795358,550511,165527391.9,165.53,96,58,43.46,80kW,"60,000 MW (Planned)"
+North Central,Benue,Benue,233.6230259,1396181,326180029.9,326.18,99,30,33.71,,10 MW (Planned)
+North East,Borno,Borno,341.3435281,913680,311878754.8,311.88,55.83,18,14.43,Not Specified,
+South South,Cross-River,Cross River,188.7415612,1122317,211827862.8,211.83,192,91,43.46,60kWp,
+South South,Delta,Delta,332.4007162,1776886,590638179,590.64,342.2,58,49.14,200MW (Ongoing development),2.5 MVA (Planned)
+South South,Ebonyi,Ebonyi,261.3969051,711750,186049247.2,186.05,87.8,47,46.89,,
+South South,Edo,Edo,446.6838193,1255751,560923652.8,560.92,300.7,54,49.14,,461 MW
+South West,Ekiti,Ekiti,268.0102916,1055334,282840373.1,282.84,89.7,32,19,,3.6 MW
+South East,Enugu,Enugu,350.140056,1322573,463085784.3,463.09,275.1,59,46.89,up to 300MW (Planned),Not Specified
+North East,Gombe,Gombe,86.84173961,739754,64241524.25,64.24,74,115,33.71,85 kW,250 MW
+South East,Imo,Imo,300.120048,1441264,432552220.9,432.55,250.9,58,46.89,,338 MW (Planned)
+North West,Jigawa,Jigawa,205.72322,946958,194811248.9,194.81,85.31,44,24.29,1 GW (Planned),1300 MW (Planned)
+North West,Kaduna,Kaduna,538.7931034,1382772,745028017.2,745.03,171.51,23,24.89,"100kWp (Commissioned)
+80MW (Ongoing) 
+180 MW(Planned)",360 MW (Planned)
+North West,Kano,Kano,233.5248237,2292461,535346550.8,535.35,282.63,53,24.29,,
+North West,Katsina,Katsina,318.4429414,1342046,427365075.7,427.37,132.85,31,24.29,Not Specified,
+North West,Kebbi,Kebbi,508.0049261,890447,452351462.4,452.35,33.98,8,24.89,98.8 kW,174 MW (Planned)
+North Central,Kogi,Kogi,255.9246558,1063944,272289502,272.29,50.33,18,70.97,,"434 MW
+2400 MW (Planned)"
+North Central,Kwara,Kwara,664.9378283,874664,581597180.7,581.6,258.7,44,43.16,Not Specified,
+South West,Lagos,Lagos,647.1525289,4044329,2617297740,"2,617.30","1,736.40",66,69.73,,
+North Central,Nasarawa,Nasarawa,497.6312751,571107,284200704.6,284.2,104.17,37,70.97,"452.24kWp
+3454 kWp (Planned)",
+North Central,Niger,Niger,358.2945181,978256,350503762.1,350.5,308.58,88,70.97,1054kW,
+South West,Ogun,Ogun,623.379214,1553078,968156543,968.16,478.5,49,43.16,5 MW (ongoing),Not Specified
+South West,Ondo,Ondo,474.9555917,1398902,664416327.1,664.42,112.4,17,49.14,4MWh (ongoing),
+South West,Osun,Osun,664.9378283,1207235,802736219.2,802.74,255.4,32,43.16,,
+South West,Oyo,Oyo,864.4191768,1961581,1695628233,"1,695.63",485.2,29,43.16,500 MW (planned),"11 MW. = 5 MW (Commmissioned)
+and 6 MW (planned)"
+North Central,Plateau,Plateau,409.7017371,987381,404531710.9,404.53,150,37,33.71,55,
+South South,Rivers,Rivers,109.338013,1799745,196780542.2,196.78,306,156,43.46,,450MW
+North West,Sokoto,Sokoto,448.9942529,881715,395884967.7,395.88,25.02,6,24.28,2 MW,35 MW (almost completed)
+North East,Taraba,Taraba,151.2072386,629634,95205218.46,95.21,27.64,29,14.43,,"40MW (Commissioned)
+3050 MW (Planned)"
+North East,Yobe,Yobe,241.7561164,564254,136411855.7,136.41,60.78,45,14.43,,100 MW (Planned)
+North West,Zamfara,Zamfara,556.7528736,804343,447820276.6,447.82,18.9,4,24.28,"100kWp (Planned)
+60kWp (Commissioned)",
+North Central,FCT-Abuja,Federal Capital Territory,410.3742613,966286,396538903.5,396.54,889.66,224,70.97,Not Specified,

@@ -1,0 +1,745 @@
+region,state,lga,count
+North Central,Benue,Ado,11
+North Central,Benue,Agatu,11
+North Central,Benue,Apa,11
+North Central,Benue,Buruku,11
+North Central,Benue,Gboko,11
+North Central,Benue,Guma,14
+North Central,Benue,Gwer East,11
+North Central,Benue,Gwer West,18
+North Central,Benue,Katsina-Ala,11
+North Central,Benue,Konshisha,11
+North Central,Benue,Kwande,11
+North Central,Benue,Logo,11
+North Central,Benue,Makurdi,11
+North Central,Benue,Obi,11
+North Central,Benue,Ogbadibo,11
+North Central,Benue,Ohimini,11
+North Central,Benue,Oju,11
+North Central,Benue,Okpokwu,11
+North Central,Benue,Oturkpo,11
+North Central,Benue,Tarka,11
+North Central,Benue,Ukum,11
+North Central,Benue,Ushongo,11
+North Central,Benue,Vandeikya,11
+North Central,FCT-Abuja,Abaji,33
+North Central,FCT-Abuja,Abuja Municipal Area Council,24
+North Central,FCT-Abuja,Bwari,25
+North Central,FCT-Abuja,Gwagwalada,33
+North Central,FCT-Abuja,Kuje,24
+North Central,FCT-Abuja,Kwali,24
+North Central,Kogi,Adavi,9
+North Central,Kogi,Ajaokuta,8
+North Central,Kogi,Ankpa,8
+North Central,Kogi,Bassa,8
+North Central,Kogi,Dekina,9
+North Central,Kogi,Ibaji,8
+North Central,Kogi,Idah,9
+North Central,Kogi,Igalamela-Odolu,8
+North Central,Kogi,Ijumu,8
+North Central,Kogi,Kabba/Bunu,8
+North Central,Kogi,Koton karfe,8
+North Central,Kogi,Lokoja,8
+North Central,Kogi,Mopa-Muro,8
+North Central,Kogi,Ofu,8
+North Central,Kogi,Okehi,8
+North Central,Kogi,Okene,8
+North Central,Kogi,Olamaboro,8
+North Central,Kogi,Omala,8
+North Central,Kogi,Yagba East,8
+North Central,Kogi,Yagba West,8
+North Central,Kogi,ogori/magongo,8
+North Central,Kwara,Asa,9
+North Central,Kwara,Ekiti,10
+North Central,Kwara,Ifelodun,9
+North Central,Kwara,Ilorin East,10
+North Central,Kwara,Ilorin West,10
+North Central,Kwara,Irepodun,28
+North Central,Kwara,Isin,22
+North Central,Kwara,Latiagi,10
+North Central,Kwara,Moro,10
+North Central,Kwara,Offa,11
+North Central,Kwara,Oke Ero,22
+North Central,Kwara,Oyun,11
+North Central,Nasarawa,Akwanga,8
+North Central,Nasarawa,Awe,8
+North Central,Nasarawa,Doma,10
+North Central,Nasarawa,Karu,11
+North Central,Nasarawa,Keffi,8
+North Central,Nasarawa,Kokona,8
+North Central,Nasarawa,Lafia,11
+North Central,Nasarawa,Nasarawa,8
+North Central,Nasarawa,Nasarawa Eggon,8
+North Central,Nasarawa,Obi,9
+North Central,Nasarawa,Toto,8
+North Central,Nasarawa,Wamba,10
+North Central,Nasarawa,keana,8
+North Central,Niger,Agaie,11
+North Central,Niger,Bida,14
+North Central,Niger,Borgu,11
+North Central,Niger,Bosso,11
+North Central,Niger,Chanchaga,10
+North Central,Niger,Edati,10
+North Central,Niger,Gbako,9
+North Central,Niger,Gurara,7
+North Central,Niger,Katcha,7
+North Central,Niger,Kontagora,7
+North Central,Niger,Lapai,7
+North Central,Niger,Lavun,10
+North Central,Niger,Magama,10
+North Central,Niger,Mariga,7
+North Central,Niger,Mashegu,10
+North Central,Niger,Mokwa,8
+North Central,Niger,Munya,10
+North Central,Niger,Paikoro,7
+North Central,Niger,Rafi,8
+North Central,Niger,Shiroro,10
+North Central,Niger,Suleja,14
+North Central,Niger,Tafa,9
+North Central,Niger,Wushishi,10
+North Central,Plateau,Barkin Ladi,9
+North Central,Plateau,Bassa,9
+North Central,Plateau,Bokkos,9
+North Central,Plateau,Jos East,10
+North Central,Plateau,Jos North,9
+North Central,Plateau,Jos South,9
+North Central,Plateau,Kanam,10
+North Central,Plateau,Kanke,9
+North Central,Plateau,Langtang North,9
+North Central,Plateau,Langtang South,9
+North Central,Plateau,Mangu,9
+North Central,Plateau,Mikang,9
+North Central,Plateau,Pankshin,8
+North Central,Plateau,Quaran Pan,9
+North Central,Plateau,Riyom,9
+North Central,Plateau,Shendam,8
+North Central,Plateau,Wase,9
+North East,Adamawa,Demsa,8
+North East,Adamawa,Fufure,7
+North East,Adamawa,Ganye,7
+North East,Adamawa,Girei,7
+North East,Adamawa,Gombi,7
+North East,Adamawa,Guyuk,7
+North East,Adamawa,Hong,7
+North East,Adamawa,Jada,8
+North East,Adamawa,Lamurde,7
+North East,Adamawa,Madagali,7
+North East,Adamawa,Maiha,7
+North East,Adamawa,Mayo Belwa,7
+North East,Adamawa,Michika,7
+North East,Adamawa,Mubi North,7
+North East,Adamawa,Mubi South,7
+North East,Adamawa,Numan,7
+North East,Adamawa,Shelleng,7
+North East,Adamawa,Song,7
+North East,Adamawa,Toungo,9
+North East,Adamawa,Yola North,7
+North East,Adamawa,Yola South,7
+North East,Bauchi,Alkaleri,11
+North East,Bauchi,Bauchi,12
+North East,Bauchi,Bogoro,10
+North East,Bauchi,Damban,10
+North East,Bauchi,Darazo,10
+North East,Bauchi,Dass,10
+North East,Bauchi,Gamawa,11
+North East,Bauchi,Ganjuwa,10
+North East,Bauchi,Giade,10
+North East,Bauchi,Itas/Gadau,12
+North East,Bauchi,Jama'are,11
+North East,Bauchi,Katagum,10
+North East,Bauchi,Kirfi,10
+North East,Bauchi,Misau,10
+North East,Bauchi,Ningi,10
+North East,Bauchi,Shira,10
+North East,Bauchi,Tafawa Balewa,10
+North East,Bauchi,Toro,10
+North East,Bauchi,Warji,10
+North East,Bauchi,Zaki,10
+North East,Borno,Askira/Uba,6
+North East,Borno,Bama,14
+North East,Borno,Bayo,7
+North East,Borno,Biu,13
+North East,Borno,Chibok,7
+North East,Borno,Damboa,7
+North East,Borno,Dikwa,13
+North East,Borno,Gubio,13
+North East,Borno,Gwoza,12
+North East,Borno,Hawul,8
+North East,Borno,Jere,14
+North East,Borno,Kaga,14
+North East,Borno,Konduga,13
+North East,Borno,Kwaya Kusar,7
+North East,Borno,Mafa,13
+North East,Borno,Magumeri,14
+North East,Borno,Maiduguri,12
+North East,Borno,Nganzai,13
+North East,Borno,Shani,6
+North East,Gombe,Akko,11
+North East,Gombe,Balanga,11
+North East,Gombe,Billiri,11
+North East,Gombe,Dukku,12
+North East,Gombe,Funakaye,11
+North East,Gombe,Gombe,11
+North East,Gombe,Kaltungo,11
+North East,Gombe,Kwami,11
+North East,Gombe,Nafada,11
+North East,Gombe,Shongom,11
+North East,Gombe,Yamaltu/Deba,11
+North East,Taraba,Ardo Kola,8
+North East,Taraba,Bali,8
+North East,Taraba,Donga,8
+North East,Taraba,Gashaka,8
+North East,Taraba,Gassol,8
+North East,Taraba,Ibi,8
+North East,Taraba,Jalingo,8
+North East,Taraba,Karim Lamido,8
+North East,Taraba,Kurmi,8
+North East,Taraba,Lau,8
+North East,Taraba,Sardauna,8
+North East,Taraba,Takum,8
+North East,Taraba,Ussa,8
+North East,Taraba,Wukari,9
+North East,Taraba,Yorro,8
+North East,Taraba,Zing,8
+North East,Yobe,Bade,7
+North East,Yobe,Bursari,7
+North East,Yobe,Damaturu,7
+North East,Yobe,Fika,7
+North East,Yobe,Fune,7
+North East,Yobe,Geidam,7
+North East,Yobe,Gujba,7
+North East,Yobe,Gulani,7
+North East,Yobe,Jakusko,7
+North East,Yobe,Karasuwa,7
+North East,Yobe,Machina,7
+North East,Yobe,Nangere,7
+North East,Yobe,Nguru,7
+North East,Yobe,Potiskum,7
+North East,Yobe,Tarmuwa,7
+North East,Yobe,Yunusari,7
+North East,Yobe,Yusufari,7
+North West,Jigawa,Auyo,9
+North West,Jigawa,Babura,8
+North West,Jigawa,Birnin Kudu,8
+North West,Jigawa,Birniwa,8
+North West,Jigawa,Buji,8
+North West,Jigawa,Dutse,8
+North West,Jigawa,Gagarawa,8
+North West,Jigawa,Garki,8
+North West,Jigawa,Gumel,8
+North West,Jigawa,Guri,8
+North West,Jigawa,Gwaram,8
+North West,Jigawa,Gwiwa,8
+North West,Jigawa,Hadejia,8
+North West,Jigawa,Jahun,8
+North West,Jigawa,Kafin Hausa,8
+North West,Jigawa,Kaugama,8
+North West,Jigawa,Kazaure,9
+North West,Jigawa,Kiri Kasama,10
+North West,Jigawa,Kiyawa,8
+North West,Jigawa,Maigatari,8
+North West,Jigawa,Malam Madori,8
+North West,Jigawa,Miga,8
+North West,Jigawa,Ringim,8
+North West,Jigawa,Roni,8
+North West,Jigawa,Sule Tankarkar,8
+North West,Jigawa,Taura,8
+North West,Jigawa,Yankwashi,8
+North West,Kaduna,Chikun,10
+North West,Kaduna,Giwa,9
+North West,Kaduna,Igabi,11
+North West,Kaduna,Ikara,9
+North West,Kaduna,Jaba,9
+North West,Kaduna,Jema'a,9
+North West,Kaduna,Kachia,9
+North West,Kaduna,Kaduna North,18
+North West,Kaduna,Kaduna South,9
+North West,Kaduna,Kagarko,9
+North West,Kaduna,Kajuru,9
+North West,Kaduna,Kaura,10
+North West,Kaduna,Kauru,9
+North West,Kaduna,Kubau,9
+North West,Kaduna,Kudan,9
+North West,Kaduna,Lere,9
+North West,Kaduna,Makarfi,9
+North West,Kaduna,Sabon Gari,10
+North West,Kaduna,Sanga,11
+North West,Kaduna,Soba,18
+North West,Kaduna,Zangon Kataf,9
+North West,Kaduna,Zaria,15
+North West,Kano,Ajingi,7
+North West,Kano,Albasu,7
+North West,Kano,Bagwai,7
+North West,Kano,Bebeji,7
+North West,Kano,Bichi,7
+North West,Kano,Bunkure,7
+North West,Kano,Dala,7
+North West,Kano,Dambatta,7
+North West,Kano,Dawakin Kudu,7
+North West,Kano,Dawakin Tofa,7
+North West,Kano,Doguwa,7
+North West,Kano,Fagge,7
+North West,Kano,Gabasawa,7
+North West,Kano,Garko,7
+North West,Kano,Garun Mallam,7
+North West,Kano,Gaya,8
+North West,Kano,Gezawa,7
+North West,Kano,Gwale,11
+North West,Kano,Gwarzo,7
+North West,Kano,Kabo,7
+North West,Kano,Kano Municipal,7
+North West,Kano,Karaye,7
+North West,Kano,Kibiya,8
+North West,Kano,Kiru,11
+North West,Kano,Kumbotso,7
+North West,Kano,Kunchi,7
+North West,Kano,Kura,7
+North West,Kano,Madobi,7
+North West,Kano,Makoda,9
+North West,Kano,Minjibir,7
+North West,Kano,Nasarawa,8
+North West,Kano,Rano,7
+North West,Kano,Rimin Gado,7
+North West,Kano,Rogo,7
+North West,Kano,Shanono,7
+North West,Kano,Sumaila,7
+North West,Kano,Takai,7
+North West,Kano,Tarauni,7
+North West,Kano,Tofa,7
+North West,Kano,Tsanyawa,7
+North West,Kano,Tudun Wada,7
+North West,Kano,Ungogo,7
+North West,Kano,Warawa,7
+North West,Kano,Wudil,7
+North West,Katsina,Bakori,16
+North West,Katsina,Batagarawa,16
+North West,Katsina,Baure,16
+North West,Katsina,Bindawa,8
+North West,Katsina,Charanchi,8
+North West,Katsina,Dan Musa,16
+North West,Katsina,Danja,16
+North West,Katsina,Daura,8
+North West,Katsina,Dutsi,16
+North West,Katsina,Dutsin Ma,8
+North West,Katsina,Funtua,16
+North West,Katsina,Ingawa,8
+North West,Katsina,Kafur,16
+North West,Katsina,Kaita,8
+North West,Katsina,Kankia,8
+North West,Katsina,Katsina,10
+North West,Katsina,Kurfi,8
+North West,Katsina,Kusada,16
+North West,Katsina,Mai'Adua,8
+North West,Katsina,Malumfashi,8
+North West,Katsina,Mani,8
+North West,Katsina,Mashi,8
+North West,Katsina,Rimi,8
+North West,Katsina,Sandamu,8
+North West,Katsina,Zango,8
+North West,Kebbi,Aleiro,8
+North West,Kebbi,Arewa,8
+North West,Kebbi,Argungu,8
+North West,Kebbi,Augie,8
+North West,Kebbi,Bagudo,8
+North West,Kebbi,Birnin Kebbi,8
+North West,Kebbi,Bunza,8
+North West,Kebbi,Dandi,9
+North West,Kebbi,Danko wasagu,9
+North West,Kebbi,Fakai,8
+North West,Kebbi,Gwandu,12
+North West,Kebbi,Ingaski,8
+North West,Kebbi,Jega,8
+North West,Kebbi,Kalgo,8
+North West,Kebbi,Koko,8
+North West,Kebbi,Maiyama,8
+North West,Kebbi,Sakaba,9
+North West,Kebbi,Shanga,8
+North West,Kebbi,Suru,8
+North West,Kebbi,Yauri,8
+North West,Kebbi,Zuru,8
+North West,Sokoto,Binji,14
+North West,Sokoto,Bodinga,14
+North West,Sokoto,Dange Shuni,7
+North West,Sokoto,Gada,14
+North West,Sokoto,Goronyo,14
+North West,Sokoto,Gudu,7
+North West,Sokoto,Gwadabawa,7
+North West,Sokoto,Illela,7
+North West,Sokoto,Kebbe,7
+North West,Sokoto,Kware,7
+North West,Sokoto,Shagari,7
+North West,Sokoto,Silame,9
+North West,Sokoto,Sokoto North,7
+North West,Sokoto,Sokoto South,14
+North West,Sokoto,Tambuwal,7
+North West,Sokoto,Tangaza,7
+North West,Sokoto,Wamakko,7
+North West,Sokoto,Wurno,7
+North West,Sokoto,Yabo,7
+North West,Zamfara,Bakuka,17
+North West,Zamfara,Birnin Magaji/Kiyaw,10
+North West,Zamfara,Bukkuyum,21
+North West,Zamfara,Bungudu,10
+North West,Zamfara,Gummi,21
+North West,Zamfara,Gusau,14
+North West,Zamfara,Kaura-Namoda,10
+North West,Zamfara,Maradun,10
+North West,Zamfara,Maru,10
+North West,Zamfara,Talata-Mafara,13
+North West,Zamfara,Tsafe,10
+North West,Zamfara,Zurmi,13
+South East,Abia,Aba North,12
+South East,Abia,Aba South,12
+South East,Abia,Arochukwu,11
+South East,Abia,Bende,11
+South East,Abia,Ikwuano,11
+South East,Abia,Isiala Ngwa North,13
+South East,Abia,Isiala Ngwa South,13
+South East,Abia,Isuikwuato,12
+South East,Abia,Obi Ngwa,11
+South East,Abia,Ohafia,12
+South East,Abia,Osisioma,12
+South East,Abia,Ugwunagbo,12
+South East,Abia,Ukwa East,12
+South East,Abia,Ukwa West,12
+South East,Abia,Umu Nneochi,11
+South East,Abia,Umuahia North,11
+South East,Abia,Umuahia South,14
+South East,Anambra,Aguata,13
+South East,Anambra,Anambra East,14
+South East,Anambra,Anambra West,13
+South East,Anambra,Anaocha,14
+South East,Anambra,Awka North,14
+South East,Anambra,Awka South,16
+South East,Anambra,Ayamelum,13
+South East,Anambra,Dunukofia,16
+South East,Anambra,Ekwusigo,14
+South East,Anambra,Idemili North,13
+South East,Anambra,Idemili South,13
+South East,Anambra,Ihiala,13
+South East,Anambra,Njikoka,21
+South East,Anambra,Nnewi North,13
+South East,Anambra,Nnewi South,14
+South East,Anambra,Ogbaru,13
+South East,Anambra,Onitsha North,14
+South East,Anambra,Onitsha South,13
+South East,Anambra,Orumba North,13
+South East,Anambra,Orumba South,14
+South East,Anambra,Oyi,13
+South East,Enugu,Aninri,12
+South East,Enugu,Awgu,12
+South East,Enugu,Enugu East,12
+South East,Enugu,Enugu North,12
+South East,Enugu,Enugu South,12
+South East,Enugu,Ezeagu,12
+South East,Enugu,Igbo Etiti,13
+South East,Enugu,Igbo Eze North,12
+South East,Enugu,Igbo Eze South,16
+South East,Enugu,Isi Uzo,13
+South East,Enugu,Nkanu East,14
+South East,Enugu,Nkanu West,12
+South East,Enugu,Nsukka,13
+South East,Enugu,Oji River,15
+South East,Enugu,Udenu,13
+South East,Enugu,Udi,12
+South East,Enugu,Uzo-Uwani,12
+South East,Imo,Aboh Mbaise,10
+South East,Imo,Ahiazu Mbaise,9
+South East,Imo,Ehime Mbano,10
+South East,Imo,Ezinihitte,10
+South East,Imo,Ideato North,10
+South East,Imo,Ideato South,10
+South East,Imo,Ihitte/Uboma,9
+South East,Imo,Ikeduru,8
+South East,Imo,Isiala Mbano,10
+South East,Imo,Isu,9
+South East,Imo,Mbaitoli,9
+South East,Imo,Ngor Okpala,10
+South East,Imo,Njaba,10
+South East,Imo,Nkwerre,9
+South East,Imo,Nwangele,10
+South East,Imo,Obowo,10
+South East,Imo,Oguta,10
+South East,Imo,Ohaji/Egbema,8
+South East,Imo,Okigwe,10
+South East,Imo,Onuimo,10
+South East,Imo,Orlu,10
+South East,Imo,Orsu,10
+South East,Imo,Oru East,10
+South East,Imo,Oru West,10
+South East,Imo,Owerri Municipal,13
+South East,Imo,Owerri North,9
+South East,Imo,Owerri West,8
+South South,Akwa-Ibom,Abak,9
+South South,Akwa-Ibom,Eastern Obolo,9
+South South,Akwa-Ibom,Eket,9
+South South,Akwa-Ibom,Esit Eket,9
+South South,Akwa-Ibom,Essien Udim,9
+South South,Akwa-Ibom,Etim Ekpo,10
+South South,Akwa-Ibom,Etinan,9
+South South,Akwa-Ibom,Ibeno,9
+South South,Akwa-Ibom,Ibesikpo Asutan,12
+South South,Akwa-Ibom,Ibiono-Ibom,9
+South South,Akwa-Ibom,Ika,9
+South South,Akwa-Ibom,Ikono,9
+South South,Akwa-Ibom,Ikot Abasi (village),9
+South South,Akwa-Ibom,Ikot Ekpene,9
+South South,Akwa-Ibom,Ini,9
+South South,Akwa-Ibom,Itu,9
+South South,Akwa-Ibom,Mbo,13
+South South,Akwa-Ibom,Mkpat-Enin,10
+South South,Akwa-Ibom,Nsit-Atai,11
+South South,Akwa-Ibom,Nsit-Ibom,10
+South South,Akwa-Ibom,Nsit-Ubium,9
+South South,Akwa-Ibom,Obot Akara,10
+South South,Akwa-Ibom,Okobo,9
+South South,Akwa-Ibom,Onna,11
+South South,Akwa-Ibom,Oron,9
+South South,Akwa-Ibom,Oruk Anam,9
+South South,Akwa-Ibom,Udung-Uko,10
+South South,Akwa-Ibom,Ukanafun,10
+South South,Akwa-Ibom,Uruan,9
+South South,Akwa-Ibom,Urue-Offong/Oruko,11
+South South,Akwa-Ibom,Uyo,18
+South South,Bayelsa,Brass,10
+South South,Bayelsa,Ekeremor,10
+South South,Bayelsa,Kolokuma/Opokuma,10
+South South,Bayelsa,Nembe,12
+South South,Bayelsa,Ogbia,12
+South South,Bayelsa,Sagbama,10
+South South,Bayelsa,Southern Ijaw,11
+South South,Bayelsa,Yenagoa,14
+South South,Cross-River,Abi,11
+South South,Cross-River,Akamkpa,11
+South South,Cross-River,Akpabuyo,11
+South South,Cross-River,Bakassi,13
+South South,Cross-River,Bekwarra,12
+South South,Cross-River,Biase,11
+South South,Cross-River,Boki,11
+South South,Cross-River,Calabar Municipal,13
+South South,Cross-River,Calabar South,13
+South South,Cross-River,Etung,11
+South South,Cross-River,Ikom,12
+South South,Cross-River,Obanliku,11
+South South,Cross-River,Obubra,11
+South South,Cross-River,Obudu,11
+South South,Cross-River,Odukpani,11
+South South,Cross-River,Ogoja,11
+South South,Cross-River,Yakurr,11
+South South,Cross-River,Yala,11
+South South,Delta,Aniocha North,10
+South South,Delta,Aniocha South,10
+South South,Delta,Bomadi,10
+South South,Delta,Burutu,10
+South South,Delta,Ethiope East,11
+South South,Delta,Ethiope West,10
+South South,Delta,Ika North East,10
+South South,Delta,Ika South,10
+South South,Delta,Isoko North,13
+South South,Delta,Isoko South,12
+South South,Delta,Ndokwa East,10
+South South,Delta,Ndokwa West,10
+South South,Delta,Okpe,10
+South South,Delta,Oshimili North,10
+South South,Delta,Oshimili South,10
+South South,Delta,Patani,15
+South South,Delta,Sapele,10
+South South,Delta,Udu,12
+South South,Delta,Ughelli North,11
+South South,Delta,Ughelli South,10
+South South,Delta,Ukwuani,10
+South South,Delta,Uvwie,10
+South South,Delta,Warri North,14
+South South,Delta,Warri South,10
+South South,Delta,Warri South West,10
+South South,Ebonyi,Abakaliki,12
+South South,Ebonyi,Afikpo,11
+South South,Ebonyi,Ebonyi,12
+South South,Ebonyi,Edda,12
+South South,Ebonyi,Ezza North,11
+South South,Ebonyi,Ezza South,13
+South South,Ebonyi,Ikwo,10
+South South,Ebonyi,Ishielu,10
+South South,Ebonyi,Ivo,13
+South South,Ebonyi,Izzi,11
+South South,Ebonyi,Ohaozara,12
+South South,Ebonyi,Ohaukwu,13
+South South,Ebonyi,Onicha,11
+South South,Edo,Akoko-Edo,10
+South South,Edo,Egor,10
+South South,Edo,Esan Central,11
+South South,Edo,Esan North-East,12
+South South,Edo,Esan South-East,10
+South South,Edo,Esan West,10
+South South,Edo,Etsako Central,9
+South South,Edo,Etsako East,10
+South South,Edo,Etsako West,10
+South South,Edo,Igueben,10
+South South,Edo,Ikpoba Okha,11
+South South,Edo,Oredo,10
+South South,Edo,Orhionmwon,10
+South South,Edo,Ovia North-East,10
+South South,Edo,Ovia South-West,10
+South South,Edo,Owan East,10
+South South,Edo,Owan West,10
+South South,Edo,Uhunmwonde,10
+South South,Rivers,Abua-Odual,12
+South South,Rivers,Ahoada East,12
+South South,Rivers,Ahoada West,14
+South South,Rivers,Akuku Toru,13
+South South,Rivers,Andoni,12
+South South,Rivers,Asari Toru,13
+South South,Rivers,Bonny,15
+South South,Rivers,Degema,12
+South South,Rivers,Eleme,14
+South South,Rivers,Emohua,12
+South South,Rivers,Etche,12
+South South,Rivers,Gokana,12
+South South,Rivers,Ikwerre,12
+South South,Rivers,Khana,12
+South South,Rivers,Obio-Akpor,14
+South South,Rivers,Ogba-Egbema-Ndoni,12
+South South,Rivers,Ogu-Bolo,12
+South South,Rivers,Okirika,12
+South South,Rivers,Omuma,12
+South South,Rivers,Opobo-Nkoro,12
+South South,Rivers,Oyigbo,12
+South South,Rivers,Port Harcourt,13
+South South,Rivers,Tai,12
+South West,Ekiti,Ado Ekiti,12
+South West,Ekiti,Efon,12
+South West,Ekiti,Ekiti East,11
+South West,Ekiti,Ekiti South-West,11
+South West,Ekiti,Ekiti West,12
+South West,Ekiti,Emure,11
+South West,Ekiti,Gbonyin,11
+South West,Ekiti,Ido Osi,11
+South West,Ekiti,Ijero,12
+South West,Ekiti,Ikere,11
+South West,Ekiti,Ikole,11
+South West,Ekiti,Ilejemeje,11
+South West,Ekiti,Irepodun/Ifelodun,12
+South West,Ekiti,Ise/Orun,11
+South West,Ekiti,Moba,11
+South West,Ekiti,Oye,11
+South West,Lagos,Agege,32
+South West,Lagos,Ajeromi-Ifelodun,32
+South West,Lagos,Alimosho,33
+South West,Lagos,Amuwo-Odofin,34
+South West,Lagos,Apapa,32
+South West,Lagos,Badagry,32
+South West,Lagos,Epe,33
+South West,Lagos,Eti-Osa,33
+South West,Lagos,Ibeju-Lekki,34
+South West,Lagos,Ifako-Ijaiye,33
+South West,Lagos,Ikeja,34
+South West,Lagos,Ikorodu,33
+South West,Lagos,Kosofe,39
+South West,Lagos,Lagos Island,38
+South West,Lagos,Lagos Mainland,32
+South West,Lagos,Mushin,32
+South West,Lagos,Ojo,32
+South West,Lagos,Oshodi-Isolo,33
+South West,Lagos,Somolu,34
+South West,Lagos,Surulere,36
+South West,Ogun,Abeokuta North,12
+South West,Ogun,Abeokuta South,12
+South West,Ogun,Ado-Odo/Ota,12
+South West,Ogun,Ewekoro,12
+South West,Ogun,Ifo,12
+South West,Ogun,Ijebu East,12
+South West,Ogun,Ijebu North,12
+South West,Ogun,Ijebu North East,12
+South West,Ogun,Ijebu Ode,12
+South West,Ogun,Ikenne,14
+South West,Ogun,Imeko Afon,12
+South West,Ogun,Ipokia,13
+South West,Ogun,Obafemi Owode,12
+South West,Ogun,Odeda,12
+South West,Ogun,Odogbolu,12
+South West,Ogun,Ogun Waterside,13
+South West,Ogun,Remo North,12
+South West,Ogun,Shagamu,12
+South West,Ogun,Yewa North,13
+South West,Ogun,Yewa South,17
+South West,Ondo,Akoko North-East,12
+South West,Ondo,Akoko North-West,11
+South West,Ondo,Akoko South-East,12
+South West,Ondo,Akoko South-West,11
+South West,Ondo,Akure North,11
+South West,Ondo,Akure South,12
+South West,Ondo,Ese Odo,11
+South West,Ondo,Idanre,11
+South West,Ondo,Ifedore,11
+South West,Ondo,Ilaje,11
+South West,Ondo,Ile-Oluji/Okeigbo,13
+South West,Ondo,Irele,11
+South West,Ondo,Odigbo,11
+South West,Ondo,Okitipupa,11
+South West,Ondo,Ondo East,11
+South West,Ondo,Ondo West,11
+South West,Ondo,Ose,11
+South West,Ondo,Owo,11
+South West,Osun,Aiyedaade,8
+South West,Osun,Aiyedire,8
+South West,Osun,Atakunmosa East,10
+South West,Osun,Atakunmosa West,10
+South West,Osun,Boluwaduro,8
+South West,Osun,Boripe,8
+South West,Osun,Ede North,11
+South West,Osun,Ede South,10
+South West,Osun,Egbedore,8
+South West,Osun,Ejigbo,8
+South West,Osun,Ife Central,8
+South West,Osun,Ife East,8
+South West,Osun,Ife North,8
+South West,Osun,Ife South,10
+South West,Osun,Ifedayo,9
+South West,Osun,Ifelodun,10
+South West,Osun,Ila,9
+South West,Osun,Ilesa East,8
+South West,Osun,Ilesa West,8
+South West,Osun,Irepodun,8
+South West,Osun,Irewole,8
+South West,Osun,Isokan,9
+South West,Osun,Iwo,9
+South West,Osun,Obokun,9
+South West,Osun,Odo-Otin,9
+South West,Osun,Ola-Oluwa,8
+South West,Osun,Olorunda,8
+South West,Osun,Ori-Ade,10
+South West,Osun,Orolu,8
+South West,Osun,Osogbo,8
+South West,Oyo,Afijio,10
+South West,Oyo,Akinyele,11
+South West,Oyo,Atiba,10
+South West,Oyo,Atisbo,10
+South West,Oyo,Egbeda,11
+South West,Oyo,Ibadan North,9
+South West,Oyo,Ibadan North-East,9
+South West,Oyo,Ibadan North-West,11
+South West,Oyo,Ibadan South-East,10
+South West,Oyo,Ibadan South-West,10
+South West,Oyo,Ibarapa Central,9
+South West,Oyo,Ibarapa East,9
+South West,Oyo,Ibarapa North,11
+South West,Oyo,Ido,10
+South West,Oyo,Irepo,9
+South West,Oyo,Iseyin,10
+South West,Oyo,Itesiwaju,9
+South West,Oyo,Iwajowa,9
+South West,Oyo,Kajola,9
+South West,Oyo,Lagelu,11
+South West,Oyo,Ogbomosho North,10
+South West,Oyo,Ogbomosho South,10
+South West,Oyo,Ogo Oluwa,9
+South West,Oyo,Olorunsogo,9
+South West,Oyo,Oluyole,11
+South West,Oyo,Ona Ara,9
+South West,Oyo,Orelope,9
+South West,Oyo,Orire,9
+South West,Oyo,Oyo East,10
+South West,Oyo,Oyo West,9
+South West,Oyo,Saki East,11
+South West,Oyo,Saki West,11
+South West,Oyo,Surulere,9

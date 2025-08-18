@@ -1,0 +1,4429 @@
+region,state,lga,tier,count
+South East,Abia,Aba North,Tier 0,0
+South East,Abia,Aba South,Tier 0,0
+North Central,FCT-Abuja,Abaji,Tier 0,2
+South South,Akwa-Ibom,Abak,Tier 0,0
+South South,Ebonyi,Abakaliki,Tier 0,0
+South West,Ogun,Abeokuta North,Tier 0,0
+South West,Ogun,Abeokuta South,Tier 0,0
+South South,Cross-River,Abi,Tier 0,0
+South East,Imo,Aboh Mbaise,Tier 0,0
+South South,Rivers,Abua-Odual,Tier 0,0
+North Central,FCT/Abuja,Abuja Municipal Area Council,Tier 0,1
+North Central,Kogi,Adavi,Tier 0,0
+North Central,Benue,Ado,Tier 0,0
+South West,Ekiti,Ado Ekiti,Tier 0,2
+South West,Ogun,Ado-Odo/Ota,Tier 0,0
+South West,Oyo,Afijio,Tier 0,0
+South South,Ebonyi,Afikpo,Tier 0,0
+North Central,Niger,Agaie,Tier 0,0
+North Central,Benue,Agatu,Tier 0,6
+South West,Lagos,Agege,Tier 0,0
+South East,Anambra,Aguata,Tier 0,0
+South East,Imo,Ahiazu Mbaise,Tier 0,0
+South South,Rivers,Ahoada East,Tier 0,6
+South South,Rivers,Ahoada West,Tier 0,0
+South West,Osun,Aiyedaade,Tier 0,0
+South West,Osun,Aiyedire,Tier 0,0
+North Central,Kogi,Ajaokuta,Tier 0,0
+South West,Lagos,Ajeromi-Ifelodun,Tier 0,0
+North West,Kano,Ajingi,Tier 0,0
+South South,Cross-River,Akamkpa,Tier 0,7
+South West,Oyo,Akinyele,Tier 0,0
+North East,Gombe,Akko,Tier 0,1
+South West,Ondo,Akoko North-East,Tier 0,0
+South West,Ondo,Akoko North-West,Tier 0,0
+South West,Ondo,Akoko South-East,Tier 0,0
+South West,Ondo,Akoko South-West,Tier 0,0
+South South,Edo,Akoko-Edo,Tier 0,0
+South South,Cross-River,Akpabuyo,Tier 0,1
+South South,Rivers,Akuku Toru,Tier 0,0
+South West,Ondo,Akure North,Tier 0,0
+South West,Ondo,Akure South,Tier 0,0
+North Central,Nasarawa,Akwanga,Tier 0,1
+North West,Kano,Albasu,Tier 0,0
+North West,Kebbi,Aleiro,Tier 0,1
+South West,Lagos,Alimosho,Tier 0,0
+North East,Bauchi,Alkaleri,Tier 0,0
+South West,Lagos,Amuwo-Odofin,Tier 0,0
+South East,Anambra,Anambra East,Tier 0,0
+South East,Anambra,Anambra West,Tier 0,0
+South East,Anambra,Anaocha,Tier 0,0
+South South,Rivers,Andoni,Tier 0,12
+South East,Enugu,Aninri,Tier 0,0
+South South,Delta,Aniocha North,Tier 0,0
+South South,Delta,Aniocha South,Tier 0,0
+North Central,Kogi,Ankpa,Tier 0,0
+North Central,Benue,Apa,Tier 0,5
+South West,Lagos,Apapa,Tier 0,1
+North East,Taraba,Ardo Kola,Tier 0,3
+North West,Kebbi,Arewa,Tier 0,8
+North West,Kebbi,Argungu,Tier 0,1
+South East,Abia,Arochukwu,Tier 0,11
+North Central,Kwara,Asa,Tier 0,0
+South South,Rivers,Asari Toru,Tier 0,1
+North East,Borno,Askira/Uba,Tier 0,0
+South West,Osun,Atakunmosa East,Tier 0,2
+South West,Osun,Atakunmosa West,Tier 0,0
+South West,Oyo,Atiba,Tier 0,0
+South West,Oyo,Atisbo,Tier 0,3
+North West,Kebbi,Augie,Tier 0,5
+North West,Jigawa,Auyo,Tier 0,0
+North Central,Nasarawa,Awe,Tier 0,1
+South East,Enugu,Awgu,Tier 0,0
+South East,Anambra,Awka North,Tier 0,0
+South East,Anambra,Awka South,Tier 0,0
+South East,Anambra,Ayamelum,Tier 0,0
+North West,Jigawa,Babura,Tier 0,2
+South West,Lagos,Badagry,Tier 0,0
+North East,Yobe,Bade,Tier 0,1
+North West,Kebbi,Bagudo,Tier 0,0
+North West,Kano,Bagwai,Tier 0,0
+South South,Cross-River,Bakassi,Tier 0,7
+North West,Katsina,Bakori,Tier 0,0
+North West,Zamfara,Bakuka,Tier 0,10
+North East,Gombe,Balanga,Tier 0,6
+North East,Taraba,Bali,Tier 0,8
+North East,Borno,Bama,Tier 0,7
+North Central,Plateau,Barkin Ladi,Tier 0,1
+North Central,Plateau,Bassa,Tier 0,2
+North West,Katsina,Batagarawa,Tier 0,0
+North East,Bauchi,Bauchi,Tier 0,0
+North West,Katsina,Baure,Tier 0,0
+North East,Borno,Bayo,Tier 0,0
+North West,Kano,Bebeji,Tier 0,0
+South South,Cross-River,Bekwarra,Tier 0,3
+South East,Abia,Bende,Tier 0,9
+South South,Cross-River,Biase,Tier 0,11
+North West,Kano,Bichi,Tier 0,0
+North Central,Niger,Bida,Tier 0,0
+North East,Gombe,Billiri,Tier 0,0
+North West,Katsina,Bindawa,Tier 0,3
+North West,Sokoto,Binji,Tier 0,8
+North West,Kebbi,Birnin Kebbi,Tier 0,0
+North West,Jigawa,Birnin Kudu,Tier 0,3
+North West,Zamfara,Birnin Magaji/Kiyaw,Tier 0,6
+North West,Jigawa,Birniwa,Tier 0,1
+North East,Borno,Biu,Tier 0,0
+North West,Sokoto,Bodinga,Tier 0,3
+North East,Bauchi,Bogoro,Tier 0,0
+South South,Cross-River,Boki,Tier 0,9
+North Central,Plateau,Bokkos,Tier 0,3
+South West,Osun,Boluwaduro,Tier 0,0
+South South,Delta,Bomadi,Tier 0,0
+South South,Rivers,Bonny,Tier 0,0
+North Central,Niger,Borgu,Tier 0,0
+South West,Osun,Boripe,Tier 0,0
+North Central,Niger,Bosso,Tier 0,1
+South South,Bayelsa,Brass,Tier 0,3
+North West,Jigawa,Buji,Tier 0,5
+North West,Zamfara,Bukkuyum,Tier 0,8
+North West,Zamfara,Bungudu,Tier 0,5
+North West,Kano,Bunkure,Tier 0,0
+North West,Kebbi,Bunza,Tier 0,0
+North East,Yobe,Bursari,Tier 0,0
+North Central,Benue,Buruku,Tier 0,6
+South South,Delta,Burutu,Tier 0,0
+North Central,FCT/Abuja,Bwari,Tier 0,2
+South South,Cross-River,Calabar Municipal,Tier 0,3
+South South,Cross-River,Calabar South,Tier 0,4
+North Central,Niger,Chanchaga,Tier 0,0
+North West,Katsina,Charanchi,Tier 0,0
+North East,Borno,Chibok,Tier 0,1
+North West,Kaduna,Chikun,Tier 0,0
+North West,Kano,Dala,Tier 0,0
+North East,Yobe,Damaturu,Tier 0,0
+North East,Bauchi,Damban,Tier 0,0
+North West,Kano,Dambatta,Tier 0,0
+North East,Borno,Damboa,Tier 0,7
+North West,Katsina,Dan Musa,Tier 0,0
+North West,Kebbi,Dandi,Tier 0,0
+North West,Sokoto,Dange Shuni,Tier 0,2
+North West,Katsina,Danja,Tier 0,0
+North West,Kebbi,Danko wasagu,Tier 0,0
+North East,Bauchi,Darazo,Tier 0,0
+North East,Bauchi,Dass,Tier 0,0
+North West,Katsina,Daura,Tier 0,0
+North West,Kano,Dawakin Kudu,Tier 0,0
+North West,Kano,Dawakin Tofa,Tier 0,0
+South South,Rivers,Degema,Tier 0,0
+North Central,Kogi,Dekina,Tier 0,1
+North East,Adamawa,Demsa,Tier 0,0
+North East,Borno,Dikwa,Tier 0,13
+North West,Kano,Doguwa,Tier 0,0
+North Central,Nasarawa,Doma,Tier 0,1
+North East,Taraba,Donga,Tier 0,1
+North East,Gombe,Dukku,Tier 0,0
+South East,Anambra,Dunukofia,Tier 0,0
+North West,Jigawa,Dutse,Tier 0,1
+North West,Katsina,Dutsi,Tier 0,0
+North West,Katsina,Dutsin Ma,Tier 0,3
+South South,Akwa-Ibom,Eastern Obolo,Tier 0,0
+South South,Ebonyi,Ebonyi,Tier 0,0
+North Central,Niger,Edati,Tier 0,0
+South South,Ebonyi,Edda,Tier 0,0
+South West,Osun,Ede North,Tier 0,1
+South West,Osun,Ede South,Tier 0,0
+South West,Ekiti,Efon,Tier 0,0
+South West,Oyo,Egbeda,Tier 0,0
+South West,Osun,Egbedore,Tier 0,0
+South South,Edo,Egor,Tier 0,0
+South East,Imo,Ehime Mbano,Tier 0,0
+South West,Osun,Ejigbo,Tier 0,0
+South South,Bayelsa,Ekeremor,Tier 0,1
+South South,Akwa-Ibom,Eket,Tier 0,0
+North Central,Kwara,Ekiti,Tier 0,0
+South West,Ekiti,Ekiti East,Tier 0,1
+South West,Ekiti,Ekiti South-West,Tier 0,0
+South West,Ekiti,Ekiti West,Tier 0,0
+South East,Anambra,Ekwusigo,Tier 0,0
+South South,Rivers,Eleme,Tier 0,0
+South South,Rivers,Emohua,Tier 0,0
+South West,Ekiti,Emure,Tier 0,3
+South East,Enugu,Enugu East,Tier 0,0
+South East,Enugu,Enugu North,Tier 0,0
+South East,Enugu,Enugu South,Tier 0,0
+South West,Lagos,Epe,Tier 0,0
+South South,Edo,Esan Central,Tier 0,0
+South South,Edo,Esan North-East,Tier 0,0
+South South,Edo,Esan South-East,Tier 0,0
+South South,Edo,Esan West,Tier 0,0
+South West,Ondo,Ese Odo,Tier 0,0
+South South,Akwa-Ibom,Esit Eket,Tier 0,0
+South South,Akwa-Ibom,Essien Udim,Tier 0,0
+South South,Rivers,Etche,Tier 0,0
+South South,Delta,Ethiope East,Tier 0,0
+South South,Delta,Ethiope West,Tier 0,0
+South West,Lagos,Eti-Osa,Tier 0,0
+South South,Akwa-Ibom,Etim Ekpo,Tier 0,1
+South South,Akwa-Ibom,Etinan,Tier 0,3
+South South,Edo,Etsako Central,Tier 0,0
+South South,Edo,Etsako East,Tier 0,0
+South South,Edo,Etsako West,Tier 0,0
+South South,Cross-River,Etung,Tier 0,7
+South West,Ogun,Ewekoro,Tier 0,0
+South East,Enugu,Ezeagu,Tier 0,0
+South East,Imo,Ezinihitte,Tier 0,0
+South South,Ebonyi,Ezza North,Tier 0,3
+South South,Ebonyi,Ezza South,Tier 0,6
+North West,Kano,Fagge,Tier 0,0
+North West,Kebbi,Fakai,Tier 0,4
+North East,Yobe,Fika,Tier 0,0
+North East,Adamawa,Fufure,Tier 0,0
+North East,Gombe,Funakaye,Tier 0,0
+North East,Yobe,Fune,Tier 0,0
+North West,Katsina,Funtua,Tier 0,0
+North West,Kano,Gabasawa,Tier 0,0
+North West,Sokoto,Gada,Tier 0,6
+North West,Jigawa,Gagarawa,Tier 0,5
+North East,Bauchi,Gamawa,Tier 0,0
+North East,Bauchi,Ganjuwa,Tier 0,0
+North East,Adamawa,Ganye,Tier 0,0
+North West,Jigawa,Garki,Tier 0,5
+North West,Kano,Garko,Tier 0,0
+North West,Kano,Garun Mallam,Tier 0,0
+North East,Taraba,Gashaka,Tier 0,8
+North East,Taraba,Gassol,Tier 0,5
+North West,Kano,Gaya,Tier 0,0
+North Central,Niger,Gbako,Tier 0,0
+North Central,Benue,Gboko,Tier 0,0
+South West,Ekiti,Gbonyin,Tier 0,3
+North East,Yobe,Geidam,Tier 0,0
+North West,Kano,Gezawa,Tier 0,0
+North East,Bauchi,Giade,Tier 0,0
+North East,Adamawa,Girei,Tier 0,0
+North West,Kaduna,Giwa,Tier 0,0
+South South,Rivers,Gokana,Tier 0,0
+North East,Gombe,Gombe,Tier 0,2
+North East,Adamawa,Gombi,Tier 0,0
+North West,Sokoto,Goronyo,Tier 0,14
+North East,Borno,Gubio,Tier 0,3
+North West,Sokoto,Gudu,Tier 0,4
+North East,Yobe,Gujba,Tier 0,1
+North East,Yobe,Gulani,Tier 0,3
+North Central,Benue,Guma,Tier 0,0
+North West,Jigawa,Gumel,Tier 0,0
+North West,Zamfara,Gummi,Tier 0,6
+North Central,Niger,Gurara,Tier 0,7
+North West,Jigawa,Guri,Tier 0,0
+North West,Zamfara,Gusau,Tier 0,2
+North East,Adamawa,Guyuk,Tier 0,0
+North West,Sokoto,Gwadabawa,Tier 0,7
+North Central,FCT/Abuja,Gwagwalada,Tier 0,2
+North West,Kano,Gwale,Tier 0,0
+North West,Kebbi,Gwandu,Tier 0,9
+North West,Jigawa,Gwaram,Tier 0,6
+North West,Kano,Gwarzo,Tier 0,0
+North Central,Benue,Gwer East,Tier 0,0
+North Central,Benue,Gwer West,Tier 0,1
+North West,Jigawa,Gwiwa,Tier 0,3
+North East,Borno,Gwoza,Tier 0,12
+North West,Jigawa,Hadejia,Tier 0,0
+North East,Borno,Hawul,Tier 0,0
+North East,Adamawa,Hong,Tier 0,0
+South West,Oyo,Ibadan North,Tier 0,0
+South West,Oyo,Ibadan North-East,Tier 0,0
+South West,Oyo,Ibadan North-West,Tier 0,0
+South West,Oyo,Ibadan South-East,Tier 0,0
+South West,Oyo,Ibadan South-West,Tier 0,0
+North Central,Kogi,Ibaji,Tier 0,0
+South West,Oyo,Ibarapa Central,Tier 0,0
+South West,Oyo,Ibarapa East,Tier 0,0
+South West,Oyo,Ibarapa North,Tier 0,0
+South West,Lagos,Ibeju-Lekki,Tier 0,4
+South South,Akwa-Ibom,Ibeno,Tier 0,0
+South South,Akwa-Ibom,Ibesikpo Asutan,Tier 0,2
+North East,Taraba,Ibi,Tier 0,0
+South South,Akwa-Ibom,Ibiono-Ibom,Tier 0,0
+North Central,Kogi,Idah,Tier 0,4
+South West,Ondo,Idanre,Tier 0,0
+South East,Imo,Ideato North,Tier 0,0
+South East,Imo,Ideato South,Tier 0,0
+South East,Anambra,Idemili North,Tier 0,0
+South East,Anambra,Idemili South,Tier 0,0
+South West,Oyo,Ido,Tier 0,0
+South West,Ekiti,Ido Osi,Tier 0,0
+South West,Lagos,Ifako-Ijaiye,Tier 0,0
+South West,Osun,Ife Central,Tier 0,0
+South West,Osun,Ife East,Tier 0,0
+South West,Osun,Ife North,Tier 0,0
+South West,Osun,Ife South,Tier 0,4
+South West,Osun,Ifedayo,Tier 0,0
+South West,Ondo,Ifedore,Tier 0,0
+South West,Osun,Ifelodun,Tier 0,0
+South West,Ogun,Ifo,Tier 0,0
+North West,Kaduna,Igabi,Tier 0,0
+North Central,Kogi,Igalamela-Odolu,Tier 0,5
+South East,Enugu,Igbo Etiti,Tier 0,0
+South East,Enugu,Igbo Eze North,Tier 0,0
+South East,Enugu,Igbo Eze South,Tier 0,0
+South South,Edo,Igueben,Tier 0,0
+South East,Anambra,Ihiala,Tier 0,0
+South East,Imo,Ihitte/Uboma,Tier 0,0
+South West,Ogun,Ijebu East,Tier 0,0
+South West,Ogun,Ijebu North,Tier 0,0
+South West,Ogun,Ijebu North East,Tier 0,0
+South West,Ogun,Ijebu Ode,Tier 0,0
+South West,Ekiti,Ijero,Tier 0,0
+North Central,Kogi,Ijumu,Tier 0,0
+South South,Akwa-Ibom,Ika,Tier 0,0
+South South,Delta,Ika North East,Tier 0,0
+South South,Delta,Ika South,Tier 0,0
+North West,Kaduna,Ikara,Tier 0,8
+South East,Imo,Ikeduru,Tier 0,0
+South West,Lagos,Ikeja,Tier 0,0
+South West,Ogun,Ikenne,Tier 0,0
+South West,Ekiti,Ikere,Tier 0,2
+South West,Ekiti,Ikole,Tier 0,0
+South South,Cross-River,Ikom,Tier 0,4
+South South,Akwa-Ibom,Ikono,Tier 0,0
+South West,Lagos,Ikorodu,Tier 0,0
+South South,Akwa-Ibom,Ikot Abasi (village),Tier 0,0
+South South,Akwa-Ibom,Ikot Ekpene,Tier 0,1
+South South,Edo,Ikpoba Okha,Tier 0,0
+South South,Rivers,Ikwerre,Tier 0,0
+South South,Ebonyi,Ikwo,Tier 0,3
+South East,Abia,Ikwuano,Tier 0,0
+South West,Osun,Ila,Tier 0,0
+South West,Ondo,Ilaje,Tier 0,0
+South West,Ondo,Ile-Oluji/Okeigbo,Tier 0,0
+South West,Ekiti,Ilejemeje,Tier 0,4
+South West,Osun,Ilesa East,Tier 0,1
+South West,Osun,Ilesa West,Tier 0,0
+North West,Sokoto,Illela,Tier 0,4
+North Central,Kwara,Ilorin East,Tier 0,0
+North Central,Kwara,Ilorin West,Tier 0,0
+South West,Ogun,Imeko Afon,Tier 0,0
+North West,Kebbi,Ingaski,Tier 0,1
+North West,Katsina,Ingawa,Tier 0,0
+South South,Akwa-Ibom,Ini,Tier 0,0
+South West,Ogun,Ipokia,Tier 0,0
+South West,Ondo,Irele,Tier 0,0
+South West,Oyo,Irepo,Tier 0,0
+South West,Osun,Irepodun,Tier 0,1
+South West,Ekiti,Irepodun/Ifelodun,Tier 0,1
+South West,Osun,Irewole,Tier 0,0
+South West,Ekiti,Ise/Orun,Tier 0,3
+South West,Oyo,Iseyin,Tier 0,0
+South South,Ebonyi,Ishielu,Tier 0,1
+South East,Enugu,Isi Uzo,Tier 0,0
+South East,Imo,Isiala Mbano,Tier 0,0
+South East,Abia,Isiala Ngwa North,Tier 0,0
+South East,Abia,Isiala Ngwa South,Tier 0,0
+North Central,Kwara,Isin,Tier 0,0
+South West,Osun,Isokan,Tier 0,0
+South South,Delta,Isoko North,Tier 0,0
+South South,Delta,Isoko South,Tier 0,0
+South East,Imo,Isu,Tier 0,0
+South East,Abia,Isuikwuato,Tier 0,7
+North East,Bauchi,Itas/Gadau,Tier 0,0
+South West,Oyo,Itesiwaju,Tier 0,3
+South South,Akwa-Ibom,Itu,Tier 0,0
+South South,Ebonyi,Ivo,Tier 0,0
+South West,Oyo,Iwajowa,Tier 0,2
+South West,Osun,Iwo,Tier 0,0
+South South,Ebonyi,Izzi,Tier 0,4
+North West,Kaduna,Jaba,Tier 0,2
+North East,Adamawa,Jada,Tier 0,0
+North West,Jigawa,Jahun,Tier 0,6
+North East,Yobe,Jakusko,Tier 0,0
+North East,Taraba,Jalingo,Tier 0,1
+North East,Bauchi,Jama'are,Tier 0,0
+North West,Kebbi,Jega,Tier 0,1
+North West,Kaduna,Jema'a,Tier 0,0
+North East,Borno,Jere,Tier 0,6
+North Central,Plateau,Jos East,Tier 0,1
+North Central,Plateau,Jos North,Tier 0,0
+North Central,Plateau,Jos South,Tier 0,0
+North Central,Kogi,Kabba/Bunu,Tier 0,0
+North West,Kano,Kabo,Tier 0,0
+North West,Kaduna,Kachia,Tier 0,4
+North West,Kaduna,Kaduna North,Tier 0,0
+North West,Kaduna,Kaduna South,Tier 0,0
+North West,Jigawa,Kafin Hausa,Tier 0,2
+North West,Katsina,Kafur,Tier 0,1
+North East,Borno,Kaga,Tier 0,14
+North West,Kaduna,Kagarko,Tier 0,9
+North West,Katsina,Kaita,Tier 0,0
+South West,Oyo,Kajola,Tier 0,2
+North West,Kaduna,Kajuru,Tier 0,3
+North West,Kebbi,Kalgo,Tier 0,3
+North East,Gombe,Kaltungo,Tier 0,1
+North Central,Plateau,Kanam,Tier 0,10
+North Central,Plateau,Kanke,Tier 0,8
+North West,Katsina,Kankia,Tier 0,0
+North West,Kano,Kano Municipal,Tier 0,0
+North East,Yobe,Karasuwa,Tier 0,4
+North West,Kano,Karaye,Tier 0,0
+North East,Taraba,Karim Lamido,Tier 0,8
+North Central,Nasarawa,Karu,Tier 0,0
+North East,Bauchi,Katagum,Tier 0,3
+North Central,Niger,Katcha,Tier 0,0
+North West,Katsina,Katsina,Tier 0,0
+North Central,Benue,Katsina-Ala,Tier 0,0
+North West,Jigawa,Kaugama,Tier 0,0
+North West,Kaduna,Kaura,Tier 0,0
+North West,Zamfara,Kaura-Namoda,Tier 0,5
+North West,Kaduna,Kauru,Tier 0,2
+North West,Jigawa,Kazaure,Tier 0,0
+North West,Sokoto,Kebbe,Tier 0,4
+North Central,Nasarawa,Keffi,Tier 0,0
+South South,Rivers,Khana,Tier 0,6
+North West,Kano,Kibiya,Tier 0,1
+North East,Bauchi,Kirfi,Tier 0,0
+North West,Jigawa,Kiri Kasama,Tier 0,1
+North West,Kano,Kiru,Tier 0,0
+North West,Jigawa,Kiyawa,Tier 0,0
+North West,Kebbi,Koko,Tier 0,1
+North Central,Nasarawa,Kokona,Tier 0,0
+South South,Bayelsa,Kolokuma/Opokuma,Tier 0,7
+North East,Borno,Konduga,Tier 0,3
+North Central,Benue,Konshisha,Tier 0,2
+North Central,Niger,Kontagora,Tier 0,0
+South West,Lagos,Kosofe,Tier 0,0
+North Central,Kogi,Koton karfe,Tier 0,0
+North West,Kaduna,Kubau,Tier 0,8
+North West,Kaduna,Kudan,Tier 0,0
+North Central,FCT/Abuja,Kuje,Tier 0,0
+North West,Kano,Kumbotso,Tier 0,0
+North West,Kano,Kunchi,Tier 0,0
+North West,Kano,Kura,Tier 0,0
+North West,Katsina,Kurfi,Tier 0,4
+North East,Taraba,Kurmi,Tier 0,8
+North West,Katsina,Kusada,Tier 0,1
+North Central,FCT/Abuja,Kwali,Tier 0,0
+North East,Gombe,Kwami,Tier 0,0
+North Central,Benue,Kwande,Tier 0,0
+North West,Sokoto,Kware,Tier 0,1
+North East,Borno,Kwaya Kusar,Tier 0,0
+North Central,Nasarawa,Lafia,Tier 0,0
+South West,Oyo,Lagelu,Tier 0,0
+South West,Lagos,Lagos Island,Tier 0,0
+South West,Lagos,Lagos Mainland,Tier 0,0
+North East,Adamawa,Lamurde,Tier 0,0
+North Central,Plateau,Langtang North,Tier 0,6
+North Central,Plateau,Langtang South,Tier 0,9
+North Central,Niger,Lapai,Tier 0,0
+North Central,Kwara,Latiagi,Tier 0,0
+North East,Taraba,Lau,Tier 0,2
+North Central,Niger,Lavun,Tier 0,0
+North West,Kaduna,Lere,Tier 0,9
+North Central,Benue,Logo,Tier 0,0
+North Central,Kogi,Lokoja,Tier 0,0
+North East,Yobe,Machina,Tier 0,0
+North East,Adamawa,Madagali,Tier 0,7
+North West,Kano,Madobi,Tier 0,0
+North East,Borno,Mafa,Tier 0,6
+North Central,Niger,Magama,Tier 0,0
+North East,Borno,Magumeri,Tier 0,0
+North West,Katsina,Mai'Adua,Tier 0,0
+North East,Borno,Maiduguri,Tier 0,0
+North West,Jigawa,Maigatari,Tier 0,0
+North East,Adamawa,Maiha,Tier 0,7
+North West,Kebbi,Maiyama,Tier 0,1
+North West,Kaduna,Makarfi,Tier 0,1
+North West,Kano,Makoda,Tier 0,0
+North Central,Benue,Makurdi,Tier 0,0
+North West,Jigawa,Malam Madori,Tier 0,4
+North West,Katsina,Malumfashi,Tier 0,0
+North Central,Plateau,Mangu,Tier 0,6
+North West,Katsina,Mani,Tier 0,1
+North West,Zamfara,Maradun,Tier 0,5
+North Central,Niger,Mariga,Tier 0,0
+North West,Zamfara,Maru,Tier 0,7
+North Central,Niger,Mashegu,Tier 0,0
+North West,Katsina,Mashi,Tier 0,0
+North East,Adamawa,Mayo Belwa,Tier 0,0
+South East,Imo,Mbaitoli,Tier 0,0
+South South,Akwa-Ibom,Mbo,Tier 0,9
+North East,Adamawa,Michika,Tier 0,7
+North West,Jigawa,Miga,Tier 0,3
+North Central,Plateau,Mikang,Tier 0,8
+North West,Kano,Minjibir,Tier 0,0
+North East,Bauchi,Misau,Tier 0,1
+South South,Akwa-Ibom,Mkpat-Enin,Tier 0,0
+South West,Ekiti,Moba,Tier 0,3
+North Central,Niger,Mokwa,Tier 0,0
+North Central,Kogi,Mopa-Muro,Tier 0,0
+North Central,Kwara,Moro,Tier 0,0
+North East,Adamawa,Mubi North,Tier 0,0
+North East,Adamawa,Mubi South,Tier 0,0
+North Central,Niger,Munya,Tier 0,0
+South West,Lagos,Mushin,Tier 0,0
+North East,Gombe,Nafada,Tier 0,0
+North East,Yobe,Nangere,Tier 0,0
+North West,Kano,Nasarawa,Tier 0,0
+North Central,Nasarawa,Nasarawa Eggon,Tier 0,0
+South South,Delta,Ndokwa East,Tier 0,0
+South South,Delta,Ndokwa West,Tier 0,0
+South South,Bayelsa,Nembe,Tier 0,9
+North East,Borno,Nganzai,Tier 0,13
+South East,Imo,Ngor Okpala,Tier 0,0
+North East,Yobe,Nguru,Tier 0,2
+North East,Bauchi,Ningi,Tier 0,0
+South East,Imo,Njaba,Tier 0,0
+South East,Anambra,Njikoka,Tier 0,0
+South East,Enugu,Nkanu East,Tier 0,0
+South East,Enugu,Nkanu West,Tier 0,0
+South East,Imo,Nkwerre,Tier 0,0
+South East,Anambra,Nnewi North,Tier 0,0
+South East,Anambra,Nnewi South,Tier 0,0
+South South,Akwa-Ibom,Nsit-Atai,Tier 0,2
+South South,Akwa-Ibom,Nsit-Ibom,Tier 0,7
+South South,Akwa-Ibom,Nsit-Ubium,Tier 0,0
+South East,Enugu,Nsukka,Tier 0,0
+North East,Adamawa,Numan,Tier 0,0
+South East,Imo,Nwangele,Tier 0,0
+South West,Ogun,Obafemi Owode,Tier 0,0
+South South,Cross-River,Obanliku,Tier 0,9
+North Central,Nasarawa,Obi,Tier 0,7
+South East,Abia,Obi Ngwa,Tier 0,0
+South South,Rivers,Obio-Akpor,Tier 0,2
+South West,Osun,Obokun,Tier 0,0
+South South,Akwa-Ibom,Obot Akara,Tier 0,10
+South East,Imo,Obowo,Tier 0,0
+South South,Cross-River,Obubra,Tier 0,0
+South South,Cross-River,Obudu,Tier 0,6
+South West,Ogun,Odeda,Tier 0,0
+South West,Ondo,Odigbo,Tier 0,0
+South West,Osun,Odo-Otin,Tier 0,0
+South West,Ogun,Odogbolu,Tier 0,6
+South South,Cross-River,Odukpani,Tier 0,8
+North Central,Kwara,Offa,Tier 0,0
+North Central,Kogi,Ofu,Tier 0,1
+South South,Rivers,Ogba-Egbema-Ndoni,Tier 0,0
+North Central,Benue,Ogbadibo,Tier 0,0
+South East,Anambra,Ogbaru,Tier 0,0
+South South,Bayelsa,Ogbia,Tier 0,4
+South West,Oyo,Ogbomosho North,Tier 0,0
+South West,Oyo,Ogbomosho South,Tier 0,0
+South West,Oyo,Ogo Oluwa,Tier 0,0
+South South,Cross-River,Ogoja,Tier 0,0
+South South,Rivers,Ogu-Bolo,Tier 0,6
+South West,Ogun,Ogun Waterside,Tier 0,7
+South East,Imo,Oguta,Tier 0,0
+South East,Abia,Ohafia,Tier 0,12
+South East,Imo,Ohaji/Egbema,Tier 0,0
+South South,Ebonyi,Ohaozara,Tier 0,0
+South South,Ebonyi,Ohaukwu,Tier 0,0
+North Central,Benue,Ohimini,Tier 0,3
+South East,Enugu,Oji River,Tier 0,0
+South West,Lagos,Ojo,Tier 0,0
+North Central,Benue,Oju,Tier 0,0
+North Central,Kwara,Oke Ero,Tier 0,0
+North Central,Kogi,Okehi,Tier 0,0
+North Central,Kogi,Okene,Tier 0,0
+South East,Imo,Okigwe,Tier 0,0
+South South,Rivers,Okirika,Tier 0,0
+South West,Ondo,Okitipupa,Tier 0,0
+South South,Akwa-Ibom,Okobo,Tier 0,3
+South South,Delta,Okpe,Tier 0,0
+North Central,Benue,Okpokwu,Tier 0,10
+South West,Osun,Ola-Oluwa,Tier 0,0
+North Central,Kogi,Olamaboro,Tier 0,2
+South West,Osun,Olorunda,Tier 0,0
+South West,Oyo,Olorunsogo,Tier 0,1
+South West,Oyo,Oluyole,Tier 0,0
+North Central,Kogi,Omala,Tier 0,2
+South South,Rivers,Omuma,Tier 0,0
+South West,Oyo,Ona Ara,Tier 0,1
+South West,Ondo,Ondo East,Tier 0,0
+South West,Ondo,Ondo West,Tier 0,0
+South South,Ebonyi,Onicha,Tier 0,5
+South East,Anambra,Onitsha North,Tier 0,0
+South East,Anambra,Onitsha South,Tier 0,0
+South South,Akwa-Ibom,Onna,Tier 0,0
+South East,Imo,Onuimo,Tier 0,0
+South South,Rivers,Opobo-Nkoro,Tier 0,11
+South South,Edo,Oredo,Tier 0,0
+South West,Oyo,Orelope,Tier 0,0
+South South,Edo,Orhionmwon,Tier 0,0
+South West,Osun,Ori-Ade,Tier 0,0
+South West,Oyo,Orire,Tier 0,0
+South East,Imo,Orlu,Tier 0,0
+South West,Osun,Orolu,Tier 0,0
+South South,Akwa-Ibom,Oron,Tier 0,4
+South East,Imo,Orsu,Tier 0,0
+South East,Imo,Oru East,Tier 0,0
+South East,Imo,Oru West,Tier 0,0
+South South,Akwa-Ibom,Oruk Anam,Tier 0,0
+South East,Anambra,Orumba North,Tier 0,0
+South East,Anambra,Orumba South,Tier 0,0
+South West,Ondo,Ose,Tier 0,0
+South South,Delta,Oshimili North,Tier 0,0
+South South,Delta,Oshimili South,Tier 0,0
+South West,Lagos,Oshodi-Isolo,Tier 0,0
+South East,Abia,Osisioma,Tier 0,0
+South West,Osun,Osogbo,Tier 0,0
+North Central,Benue,Oturkpo,Tier 0,2
+South South,Edo,Ovia North-East,Tier 0,0
+South South,Edo,Ovia South-West,Tier 0,0
+South South,Edo,Owan East,Tier 0,0
+South South,Edo,Owan West,Tier 0,0
+South East,Imo,Owerri Municipal,Tier 0,0
+South East,Imo,Owerri North,Tier 0,1
+South East,Imo,Owerri West,Tier 0,0
+South West,Ondo,Owo,Tier 0,0
+South West,Ekiti,Oye,Tier 0,0
+South East,Anambra,Oyi,Tier 0,0
+South South,Rivers,Oyigbo,Tier 0,0
+South West,Oyo,Oyo East,Tier 0,0
+South West,Oyo,Oyo West,Tier 0,0
+North Central,Kwara,Oyun,Tier 0,0
+North Central,Niger,Paikoro,Tier 0,0
+North Central,Plateau,Pankshin,Tier 0,6
+South South,Delta,Patani,Tier 0,0
+South South,Rivers,Port Harcourt,Tier 0,1
+North East,Yobe,Potiskum,Tier 0,0
+North Central,Plateau,Quaran Pan,Tier 0,9
+North Central,Niger,Rafi,Tier 0,0
+North West,Kano,Rano,Tier 0,0
+South West,Ogun,Remo North,Tier 0,0
+North West,Katsina,Rimi,Tier 0,0
+North West,Kano,Rimin Gado,Tier 0,0
+North West,Jigawa,Ringim,Tier 0,2
+North Central,Plateau,Riyom,Tier 0,6
+North West,Kano,Rogo,Tier 0,0
+North West,Jigawa,Roni,Tier 0,2
+North West,Kaduna,Sabon Gari,Tier 0,0
+South South,Bayelsa,Sagbama,Tier 0,6
+North West,Kebbi,Sakaba,Tier 0,0
+South West,Oyo,Saki East,Tier 0,0
+South West,Oyo,Saki West,Tier 0,0
+North West,Katsina,Sandamu,Tier 0,0
+North West,Kaduna,Sanga,Tier 0,1
+South South,Delta,Sapele,Tier 0,0
+North East,Taraba,Sardauna,Tier 0,8
+South West,Ogun,Shagamu,Tier 0,0
+North West,Sokoto,Shagari,Tier 0,2
+North West,Kebbi,Shanga,Tier 0,2
+North East,Borno,Shani,Tier 0,0
+North West,Kano,Shanono,Tier 0,0
+North East,Adamawa,Shelleng,Tier 0,1
+North Central,Plateau,Shendam,Tier 0,8
+North East,Bauchi,Shira,Tier 0,0
+North Central,Niger,Shiroro,Tier 0,0
+North East,Gombe,Shongom,Tier 0,2
+North West,Sokoto,Silame,Tier 0,9
+North West,Kaduna,Soba,Tier 0,18
+North West,Sokoto,Sokoto North,Tier 0,2
+North West,Sokoto,Sokoto South,Tier 0,0
+South West,Lagos,Somolu,Tier 0,0
+North East,Adamawa,Song,Tier 0,0
+South South,Bayelsa,Southern Ijaw,Tier 0,10
+North West,Jigawa,Sule Tankarkar,Tier 0,0
+North Central,Niger,Suleja,Tier 0,1
+North West,Kano,Sumaila,Tier 0,0
+North West,Kebbi,Suru,Tier 0,1
+South West,Oyo,Surulere,Tier 0,0
+North Central,Niger,Tafa,Tier 0,0
+North East,Bauchi,Tafawa Balewa,Tier 0,0
+South South,Rivers,Tai,Tier 0,0
+North West,Kano,Takai,Tier 0,0
+North East,Taraba,Takum,Tier 0,5
+North West,Zamfara,Talata-Mafara,Tier 0,8
+North West,Sokoto,Tambuwal,Tier 0,2
+North West,Sokoto,Tangaza,Tier 0,7
+North West,Kano,Tarauni,Tier 0,0
+North Central,Benue,Tarka,Tier 0,0
+North East,Yobe,Tarmuwa,Tier 0,2
+North West,Jigawa,Taura,Tier 0,8
+North West,Kano,Tofa,Tier 0,0
+North East,Bauchi,Toro,Tier 0,0
+North Central,Nasarawa,Toto,Tier 0,0
+North East,Adamawa,Toungo,Tier 0,0
+North West,Zamfara,Tsafe,Tier 0,6
+North West,Kano,Tsanyawa,Tier 0,0
+North West,Kano,Tudun Wada,Tier 0,0
+South East,Enugu,Udenu,Tier 0,0
+South East,Enugu,Udi,Tier 0,0
+South South,Delta,Udu,Tier 0,0
+South South,Akwa-Ibom,Udung-Uko,Tier 0,6
+South South,Delta,Ughelli North,Tier 0,0
+South South,Delta,Ughelli South,Tier 0,0
+South East,Abia,Ugwunagbo,Tier 0,0
+South South,Edo,Uhunmwonde,Tier 0,0
+South South,Akwa-Ibom,Ukanafun,Tier 0,0
+North Central,Benue,Ukum,Tier 0,1
+South East,Abia,Ukwa East,Tier 0,0
+South East,Abia,Ukwa West,Tier 0,0
+South South,Delta,Ukwuani,Tier 0,0
+South East,Abia,Umu Nneochi,Tier 0,12
+South East,Abia,Umuahia North,Tier 0,0
+South East,Abia,Umuahia South,Tier 0,0
+North West,Kano,Ungogo,Tier 0,0
+South South,Akwa-Ibom,Uruan,Tier 0,0
+South South,Akwa-Ibom,Urue-Offong/Oruko,Tier 0,5
+North Central,Benue,Ushongo,Tier 0,6
+North East,Taraba,Ussa,Tier 0,8
+South South,Delta,Uvwie,Tier 0,0
+South South,Akwa-Ibom,Uyo,Tier 0,2
+South East,Enugu,Uzo-Uwani,Tier 0,0
+North Central,Benue,Vandeikya,Tier 0,0
+North West,Sokoto,Wamakko,Tier 0,3
+North Central,Nasarawa,Wamba,Tier 0,0
+North West,Kano,Warawa,Tier 0,0
+North East,Bauchi,Warji,Tier 0,0
+South South,Delta,Warri North,Tier 0,0
+South South,Delta,Warri South,Tier 0,0
+South South,Delta,Warri South West,Tier 0,4
+North Central,Plateau,Wase,Tier 0,6
+North West,Kano,Wudil,Tier 0,0
+North East,Taraba,Wukari,Tier 0,0
+North West,Sokoto,Wurno,Tier 0,2
+North Central,Niger,Wushishi,Tier 0,10
+North West,Sokoto,Yabo,Tier 0,2
+North Central,Kogi,Yagba East,Tier 0,0
+North Central,Kogi,Yagba West,Tier 0,0
+South South,Cross-River,Yakurr,Tier 0,0
+South South,Cross-River,Yala,Tier 0,0
+North East,Gombe,Yamaltu/Deba,Tier 0,0
+North West,Jigawa,Yankwashi,Tier 0,4
+North West,Kebbi,Yauri,Tier 0,0
+South South,Bayelsa,Yenagoa,Tier 0,5
+South West,Ogun,Yewa North,Tier 0,0
+South West,Ogun,Yewa South,Tier 0,0
+North East,Adamawa,Yola North,Tier 0,0
+North East,Adamawa,Yola South,Tier 0,0
+North East,Taraba,Yorro,Tier 0,5
+North East,Yobe,Yunusari,Tier 0,1
+North East,Yobe,Yusufari,Tier 0,0
+North East,Bauchi,Zaki,Tier 0,0
+North West,Katsina,Zango,Tier 0,2
+North West,Kaduna,Zangon Kataf,Tier 0,1
+North West,Kaduna,Zaria,Tier 0,1
+North East,Taraba,Zing,Tier 0,5
+North West,Zamfara,Zurmi,Tier 0,4
+North West,Kebbi,Zuru,Tier 0,0
+North Central,Nasarawa,keana,Tier 0,1
+North Central,Kogi,ogori/magongo,Tier 0,0
+South East,Abia,Aba North,Tier 1,0
+South East,Abia,Aba South,Tier 1,0
+North Central,FCT/Abuja,Abaji,Tier 1,0
+South South,Akwa-Ibom,Abak,Tier 1,0
+South South,Ebonyi,Abakaliki,Tier 1,0
+South West,Ogun,Abeokuta North,Tier 1,0
+South West,Ogun,Abeokuta South,Tier 1,0
+South South,Cross-River,Abi,Tier 1,0
+South East,Imo,Aboh Mbaise,Tier 1,0
+South South,Rivers,Abua-Odual,Tier 1,0
+North Central,FCT/Abuja,Abuja Municipal Area Council,Tier 1,0
+North Central,Kogi,Adavi,Tier 1,0
+North Central,Benue,Ado,Tier 1,0
+South West,Ekiti,Ado Ekiti,Tier 1,0
+South West,Ogun,Ado-Odo/Ota,Tier 1,0
+South West,Oyo,Afijio,Tier 1,0
+South South,Ebonyi,Afikpo,Tier 1,0
+North Central,Niger,Agaie,Tier 1,0
+North Central,Benue,Agatu,Tier 1,3
+South West,Lagos,Agege,Tier 1,0
+South East,Anambra,Aguata,Tier 1,0
+South East,Imo,Ahiazu Mbaise,Tier 1,0
+South South,Rivers,Ahoada East,Tier 1,0
+South South,Rivers,Ahoada West,Tier 1,0
+South West,Osun,Aiyedaade,Tier 1,0
+South West,Osun,Aiyedire,Tier 1,0
+North Central,Kogi,Ajaokuta,Tier 1,0
+South West,Lagos,Ajeromi-Ifelodun,Tier 1,0
+North West,Kano,Ajingi,Tier 1,0
+South South,Cross-River,Akamkpa,Tier 1,2
+South West,Oyo,Akinyele,Tier 1,0
+North East,Gombe,Akko,Tier 1,0
+South West,Ondo,Akoko North-East,Tier 1,0
+South West,Ondo,Akoko North-West,Tier 1,0
+South West,Ondo,Akoko South-East,Tier 1,0
+South West,Ondo,Akoko South-West,Tier 1,0
+South South,Edo,Akoko-Edo,Tier 1,0
+South South,Cross-River,Akpabuyo,Tier 1,0
+South South,Rivers,Akuku Toru,Tier 1,1
+South West,Ondo,Akure North,Tier 1,0
+South West,Ondo,Akure South,Tier 1,0
+North Central,Nasarawa,Akwanga,Tier 1,0
+North West,Kano,Albasu,Tier 1,0
+North West,Kebbi,Aleiro,Tier 1,0
+South West,Lagos,Alimosho,Tier 1,0
+North East,Bauchi,Alkaleri,Tier 1,0
+South West,Lagos,Amuwo-Odofin,Tier 1,0
+South East,Anambra,Anambra East,Tier 1,0
+South East,Anambra,Anambra West,Tier 1,0
+South East,Anambra,Anaocha,Tier 1,0
+South South,Rivers,Andoni,Tier 1,0
+South East,Enugu,Aninri,Tier 1,0
+South South,Delta,Aniocha North,Tier 1,0
+South South,Delta,Aniocha South,Tier 1,0
+North Central,Kogi,Ankpa,Tier 1,0
+North Central,Benue,Apa,Tier 1,0
+South West,Lagos,Apapa,Tier 1,0
+North East,Taraba,Ardo Kola,Tier 1,0
+North West,Kebbi,Arewa,Tier 1,0
+North West,Kebbi,Argungu,Tier 1,0
+South East,Abia,Arochukwu,Tier 1,0
+North Central,Kwara,Asa,Tier 1,0
+South South,Rivers,Asari Toru,Tier 1,11
+North East,Borno,Askira/Uba,Tier 1,0
+South West,Osun,Atakunmosa East,Tier 1,0
+South West,Osun,Atakunmosa West,Tier 1,0
+South West,Oyo,Atiba,Tier 1,0
+South West,Oyo,Atisbo,Tier 1,0
+North West,Kebbi,Augie,Tier 1,0
+North West,Jigawa,Auyo,Tier 1,1
+North Central,Nasarawa,Awe,Tier 1,2
+South East,Enugu,Awgu,Tier 1,0
+South East,Anambra,Awka North,Tier 1,0
+South East,Anambra,Awka South,Tier 1,0
+South East,Anambra,Ayamelum,Tier 1,0
+North West,Jigawa,Babura,Tier 1,0
+South West,Lagos,Badagry,Tier 1,0
+North East,Yobe,Bade,Tier 1,0
+North West,Kebbi,Bagudo,Tier 1,0
+North West,Kano,Bagwai,Tier 1,0
+South South,Cross-River,Bakassi,Tier 1,3
+North West,Katsina,Bakori,Tier 1,0
+North West,Zamfara,Bakuka,Tier 1,0
+North East,Gombe,Balanga,Tier 1,0
+North East,Taraba,Bali,Tier 1,0
+North East,Borno,Bama,Tier 1,0
+North Central,Plateau,Barkin Ladi,Tier 1,0
+North Central,Plateau,Bassa,Tier 1,1
+North West,Katsina,Batagarawa,Tier 1,1
+North East,Bauchi,Bauchi,Tier 1,1
+North West,Katsina,Baure,Tier 1,0
+North East,Borno,Bayo,Tier 1,0
+North West,Kano,Bebeji,Tier 1,0
+South South,Cross-River,Bekwarra,Tier 1,6
+South East,Abia,Bende,Tier 1,1
+South South,Cross-River,Biase,Tier 1,0
+North West,Kano,Bichi,Tier 1,0
+North Central,Niger,Bida,Tier 1,0
+North East,Gombe,Billiri,Tier 1,0
+North West,Katsina,Bindawa,Tier 1,0
+North West,Sokoto,Binji,Tier 1,0
+North West,Kebbi,Birnin Kebbi,Tier 1,0
+North West,Jigawa,Birnin Kudu,Tier 1,0
+North West,Zamfara,Birnin Magaji/Kiyaw,Tier 1,0
+North West,Jigawa,Birniwa,Tier 1,1
+North East,Borno,Biu,Tier 1,0
+North West,Sokoto,Bodinga,Tier 1,1
+North East,Bauchi,Bogoro,Tier 1,0
+South South,Cross-River,Boki,Tier 1,2
+North Central,Plateau,Bokkos,Tier 1,0
+South West,Osun,Boluwaduro,Tier 1,0
+South South,Delta,Bomadi,Tier 1,0
+South South,Rivers,Bonny,Tier 1,0
+North Central,Niger,Borgu,Tier 1,0
+South West,Osun,Boripe,Tier 1,0
+North Central,Niger,Bosso,Tier 1,1
+South South,Bayelsa,Brass,Tier 1,2
+North West,Jigawa,Buji,Tier 1,1
+North West,Zamfara,Bukkuyum,Tier 1,0
+North West,Zamfara,Bungudu,Tier 1,1
+North West,Kano,Bunkure,Tier 1,0
+North West,Kebbi,Bunza,Tier 1,0
+North East,Yobe,Bursari,Tier 1,0
+North Central,Benue,Buruku,Tier 1,0
+South South,Delta,Burutu,Tier 1,0
+North Central,FCT/Abuja,Bwari,Tier 1,0
+South South,Cross-River,Calabar Municipal,Tier 1,0
+South South,Cross-River,Calabar South,Tier 1,0
+North Central,Niger,Chanchaga,Tier 1,0
+North West,Katsina,Charanchi,Tier 1,1
+North East,Borno,Chibok,Tier 1,1
+North West,Kaduna,Chikun,Tier 1,0
+North West,Kano,Dala,Tier 1,0
+North East,Yobe,Damaturu,Tier 1,0
+North East,Bauchi,Damban,Tier 1,0
+North West,Kano,Dambatta,Tier 1,0
+North East,Borno,Damboa,Tier 1,0
+North West,Katsina,Dan Musa,Tier 1,0
+North West,Kebbi,Dandi,Tier 1,0
+North West,Sokoto,Dange Shuni,Tier 1,0
+North West,Katsina,Danja,Tier 1,0
+North West,Kebbi,Danko wasagu,Tier 1,0
+North East,Bauchi,Darazo,Tier 1,0
+North East,Bauchi,Dass,Tier 1,0
+North West,Katsina,Daura,Tier 1,0
+North West,Kano,Dawakin Kudu,Tier 1,0
+North West,Kano,Dawakin Tofa,Tier 1,1
+South South,Rivers,Degema,Tier 1,12
+North Central,Kogi,Dekina,Tier 1,0
+North East,Adamawa,Demsa,Tier 1,0
+North East,Borno,Dikwa,Tier 1,0
+North West,Kano,Doguwa,Tier 1,3
+North Central,Nasarawa,Doma,Tier 1,0
+North East,Taraba,Donga,Tier 1,1
+North East,Gombe,Dukku,Tier 1,0
+South East,Anambra,Dunukofia,Tier 1,0
+North West,Jigawa,Dutse,Tier 1,0
+North West,Katsina,Dutsi,Tier 1,0
+North West,Katsina,Dutsin Ma,Tier 1,0
+South South,Akwa-Ibom,Eastern Obolo,Tier 1,0
+South South,Ebonyi,Ebonyi,Tier 1,0
+North Central,Niger,Edati,Tier 1,0
+South South,Ebonyi,Edda,Tier 1,0
+South West,Osun,Ede North,Tier 1,0
+South West,Osun,Ede South,Tier 1,0
+South West,Ekiti,Efon,Tier 1,4
+South West,Oyo,Egbeda,Tier 1,1
+South West,Osun,Egbedore,Tier 1,0
+South South,Edo,Egor,Tier 1,0
+South East,Imo,Ehime Mbano,Tier 1,0
+South West,Osun,Ejigbo,Tier 1,0
+South South,Bayelsa,Ekeremor,Tier 1,0
+South South,Akwa-Ibom,Eket,Tier 1,1
+North Central,Kwara,Ekiti,Tier 1,0
+South West,Ekiti,Ekiti East,Tier 1,0
+South West,Ekiti,Ekiti South-West,Tier 1,6
+South West,Ekiti,Ekiti West,Tier 1,1
+South East,Anambra,Ekwusigo,Tier 1,0
+South South,Rivers,Eleme,Tier 1,0
+South South,Rivers,Emohua,Tier 1,0
+South West,Ekiti,Emure,Tier 1,0
+South East,Enugu,Enugu East,Tier 1,0
+South East,Enugu,Enugu North,Tier 1,0
+South East,Enugu,Enugu South,Tier 1,0
+South West,Lagos,Epe,Tier 1,0
+South South,Edo,Esan Central,Tier 1,0
+South South,Edo,Esan North-East,Tier 1,0
+South South,Edo,Esan South-East,Tier 1,0
+South South,Edo,Esan West,Tier 1,0
+South West,Ondo,Ese Odo,Tier 1,0
+South South,Akwa-Ibom,Esit Eket,Tier 1,0
+South South,Akwa-Ibom,Essien Udim,Tier 1,0
+South South,Rivers,Etche,Tier 1,0
+South South,Delta,Ethiope East,Tier 1,0
+South South,Delta,Ethiope West,Tier 1,0
+South West,Lagos,Eti-Osa,Tier 1,0
+South South,Akwa-Ibom,Etim Ekpo,Tier 1,0
+South South,Akwa-Ibom,Etinan,Tier 1,0
+South South,Edo,Etsako Central,Tier 1,0
+South South,Edo,Etsako East,Tier 1,0
+South South,Edo,Etsako West,Tier 1,0
+South South,Cross-River,Etung,Tier 1,1
+South West,Ogun,Ewekoro,Tier 1,0
+South East,Enugu,Ezeagu,Tier 1,0
+South East,Imo,Ezinihitte,Tier 1,0
+South South,Ebonyi,Ezza North,Tier 1,0
+South South,Ebonyi,Ezza South,Tier 1,0
+North West,Kano,Fagge,Tier 1,0
+North West,Kebbi,Fakai,Tier 1,4
+North East,Yobe,Fika,Tier 1,0
+North East,Adamawa,Fufure,Tier 1,0
+North East,Gombe,Funakaye,Tier 1,2
+North East,Yobe,Fune,Tier 1,0
+North West,Katsina,Funtua,Tier 1,0
+North West,Kano,Gabasawa,Tier 1,0
+North West,Sokoto,Gada,Tier 1,0
+North West,Jigawa,Gagarawa,Tier 1,0
+North East,Bauchi,Gamawa,Tier 1,0
+North East,Bauchi,Ganjuwa,Tier 1,0
+North East,Adamawa,Ganye,Tier 1,0
+North West,Jigawa,Garki,Tier 1,0
+North West,Kano,Garko,Tier 1,0
+North West,Kano,Garun Mallam,Tier 1,0
+North East,Taraba,Gashaka,Tier 1,0
+North East,Taraba,Gassol,Tier 1,0
+North West,Kano,Gaya,Tier 1,0
+North Central,Niger,Gbako,Tier 1,0
+North Central,Benue,Gboko,Tier 1,0
+South West,Ekiti,Gbonyin,Tier 1,0
+North East,Yobe,Geidam,Tier 1,0
+North West,Kano,Gezawa,Tier 1,0
+North East,Bauchi,Giade,Tier 1,0
+North East,Adamawa,Girei,Tier 1,0
+North West,Kaduna,Giwa,Tier 1,0
+South South,Rivers,Gokana,Tier 1,0
+North East,Gombe,Gombe,Tier 1,0
+North East,Adamawa,Gombi,Tier 1,0
+North West,Sokoto,Goronyo,Tier 1,0
+North East,Borno,Gubio,Tier 1,0
+North West,Sokoto,Gudu,Tier 1,0
+North East,Yobe,Gujba,Tier 1,0
+North East,Yobe,Gulani,Tier 1,0
+North Central,Benue,Guma,Tier 1,0
+North West,Jigawa,Gumel,Tier 1,0
+North West,Zamfara,Gummi,Tier 1,0
+North Central,Niger,Gurara,Tier 1,0
+North West,Jigawa,Guri,Tier 1,0
+North West,Zamfara,Gusau,Tier 1,0
+North East,Adamawa,Guyuk,Tier 1,0
+North West,Sokoto,Gwadabawa,Tier 1,0
+North Central,FCT/Abuja,Gwagwalada,Tier 1,1
+North West,Kano,Gwale,Tier 1,1
+North West,Kebbi,Gwandu,Tier 1,1
+North West,Jigawa,Gwaram,Tier 1,0
+North West,Kano,Gwarzo,Tier 1,0
+North Central,Benue,Gwer East,Tier 1,0
+North Central,Benue,Gwer West,Tier 1,0
+North West,Jigawa,Gwiwa,Tier 1,0
+North East,Borno,Gwoza,Tier 1,0
+North West,Jigawa,Hadejia,Tier 1,0
+North East,Borno,Hawul,Tier 1,0
+North East,Adamawa,Hong,Tier 1,0
+South West,Oyo,Ibadan North,Tier 1,0
+South West,Oyo,Ibadan North-East,Tier 1,0
+South West,Oyo,Ibadan North-West,Tier 1,1
+South West,Oyo,Ibadan South-East,Tier 1,0
+South West,Oyo,Ibadan South-West,Tier 1,0
+North Central,Kogi,Ibaji,Tier 1,0
+South West,Oyo,Ibarapa Central,Tier 1,0
+South West,Oyo,Ibarapa East,Tier 1,0
+South West,Oyo,Ibarapa North,Tier 1,0
+South West,Lagos,Ibeju-Lekki,Tier 1,0
+South South,Akwa-Ibom,Ibeno,Tier 1,1
+South South,Akwa-Ibom,Ibesikpo Asutan,Tier 1,0
+North East,Taraba,Ibi,Tier 1,0
+South South,Akwa-Ibom,Ibiono-Ibom,Tier 1,0
+North Central,Kogi,Idah,Tier 1,0
+South West,Ondo,Idanre,Tier 1,0
+South East,Imo,Ideato North,Tier 1,0
+South East,Imo,Ideato South,Tier 1,0
+South East,Anambra,Idemili North,Tier 1,0
+South East,Anambra,Idemili South,Tier 1,0
+South West,Oyo,Ido,Tier 1,0
+South West,Ekiti,Ido Osi,Tier 1,0
+South West,Lagos,Ifako-Ijaiye,Tier 1,7
+South West,Osun,Ife Central,Tier 1,0
+South West,Osun,Ife East,Tier 1,0
+South West,Osun,Ife North,Tier 1,0
+South West,Osun,Ife South,Tier 1,0
+South West,Osun,Ifedayo,Tier 1,3
+South West,Ondo,Ifedore,Tier 1,0
+South West,Osun,Ifelodun,Tier 1,0
+South West,Ogun,Ifo,Tier 1,0
+North West,Kaduna,Igabi,Tier 1,0
+North Central,Kogi,Igalamela-Odolu,Tier 1,0
+South East,Enugu,Igbo Etiti,Tier 1,0
+South East,Enugu,Igbo Eze North,Tier 1,0
+South East,Enugu,Igbo Eze South,Tier 1,0
+South South,Edo,Igueben,Tier 1,0
+South East,Anambra,Ihiala,Tier 1,0
+South East,Imo,Ihitte/Uboma,Tier 1,0
+South West,Ogun,Ijebu East,Tier 1,0
+South West,Ogun,Ijebu North,Tier 1,0
+South West,Ogun,Ijebu North East,Tier 1,0
+South West,Ogun,Ijebu Ode,Tier 1,0
+South West,Ekiti,Ijero,Tier 1,7
+North Central,Kogi,Ijumu,Tier 1,0
+South South,Akwa-Ibom,Ika,Tier 1,0
+South South,Delta,Ika North East,Tier 1,0
+South South,Delta,Ika South,Tier 1,0
+North West,Kaduna,Ikara,Tier 1,0
+South East,Imo,Ikeduru,Tier 1,0
+South West,Lagos,Ikeja,Tier 1,0
+South West,Ogun,Ikenne,Tier 1,0
+South West,Ekiti,Ikere,Tier 1,0
+South West,Ekiti,Ikole,Tier 1,0
+South South,Cross-River,Ikom,Tier 1,2
+South South,Akwa-Ibom,Ikono,Tier 1,0
+South West,Lagos,Ikorodu,Tier 1,0
+South South,Akwa-Ibom,Ikot Abasi (village),Tier 1,0
+South South,Akwa-Ibom,Ikot Ekpene,Tier 1,0
+South South,Edo,Ikpoba Okha,Tier 1,0
+South South,Rivers,Ikwerre,Tier 1,0
+South South,Ebonyi,Ikwo,Tier 1,0
+South East,Abia,Ikwuano,Tier 1,0
+South West,Osun,Ila,Tier 1,0
+South West,Ondo,Ilaje,Tier 1,0
+South West,Ondo,Ile-Oluji/Okeigbo,Tier 1,0
+South West,Ekiti,Ilejemeje,Tier 1,1
+South West,Osun,Ilesa East,Tier 1,0
+South West,Osun,Ilesa West,Tier 1,0
+North West,Sokoto,Illela,Tier 1,1
+North Central,Kwara,Ilorin East,Tier 1,0
+North Central,Kwara,Ilorin West,Tier 1,0
+South West,Ogun,Imeko Afon,Tier 1,1
+North West,Kebbi,Ingaski,Tier 1,0
+North West,Katsina,Ingawa,Tier 1,0
+South South,Akwa-Ibom,Ini,Tier 1,0
+South West,Ogun,Ipokia,Tier 1,1
+South West,Ondo,Irele,Tier 1,0
+South West,Oyo,Irepo,Tier 1,0
+South West,Osun,Irepodun,Tier 1,0
+South West,Ekiti,Irepodun/Ifelodun,Tier 1,0
+South West,Osun,Irewole,Tier 1,0
+South West,Ekiti,Ise/Orun,Tier 1,2
+South West,Oyo,Iseyin,Tier 1,0
+South South,Ebonyi,Ishielu,Tier 1,0
+South East,Enugu,Isi Uzo,Tier 1,1
+South East,Imo,Isiala Mbano,Tier 1,0
+South East,Abia,Isiala Ngwa North,Tier 1,0
+South East,Abia,Isiala Ngwa South,Tier 1,0
+North Central,Kwara,Isin,Tier 1,0
+South West,Osun,Isokan,Tier 1,0
+South South,Delta,Isoko North,Tier 1,0
+South South,Delta,Isoko South,Tier 1,0
+South East,Imo,Isu,Tier 1,0
+South East,Abia,Isuikwuato,Tier 1,0
+North East,Bauchi,Itas/Gadau,Tier 1,1
+South West,Oyo,Itesiwaju,Tier 1,0
+South South,Akwa-Ibom,Itu,Tier 1,1
+South South,Ebonyi,Ivo,Tier 1,0
+South West,Oyo,Iwajowa,Tier 1,0
+South West,Osun,Iwo,Tier 1,0
+South South,Ebonyi,Izzi,Tier 1,0
+North West,Kaduna,Jaba,Tier 1,0
+North East,Adamawa,Jada,Tier 1,0
+North West,Jigawa,Jahun,Tier 1,0
+North East,Yobe,Jakusko,Tier 1,0
+North East,Taraba,Jalingo,Tier 1,2
+North East,Bauchi,Jama'are,Tier 1,0
+North West,Kebbi,Jega,Tier 1,1
+North West,Kaduna,Jema'a,Tier 1,0
+North East,Borno,Jere,Tier 1,3
+North Central,Plateau,Jos East,Tier 1,0
+North Central,Plateau,Jos North,Tier 1,0
+North Central,Plateau,Jos South,Tier 1,0
+North Central,Kogi,Kabba/Bunu,Tier 1,0
+North West,Kano,Kabo,Tier 1,0
+North West,Kaduna,Kachia,Tier 1,0
+North West,Kaduna,Kaduna North,Tier 1,0
+North West,Kaduna,Kaduna South,Tier 1,0
+North West,Jigawa,Kafin Hausa,Tier 1,0
+North West,Katsina,Kafur,Tier 1,1
+North East,Borno,Kaga,Tier 1,0
+North West,Kaduna,Kagarko,Tier 1,0
+North West,Katsina,Kaita,Tier 1,1
+South West,Oyo,Kajola,Tier 1,0
+North West,Kaduna,Kajuru,Tier 1,1
+North West,Kebbi,Kalgo,Tier 1,0
+North East,Gombe,Kaltungo,Tier 1,0
+North Central,Plateau,Kanam,Tier 1,0
+North Central,Plateau,Kanke,Tier 1,0
+North West,Katsina,Kankia,Tier 1,0
+North West,Kano,Kano Municipal,Tier 1,0
+North East,Yobe,Karasuwa,Tier 1,0
+North West,Kano,Karaye,Tier 1,0
+North East,Taraba,Karim Lamido,Tier 1,0
+North Central,Nasarawa,Karu,Tier 1,0
+North East,Bauchi,Katagum,Tier 1,0
+North Central,Niger,Katcha,Tier 1,0
+North West,Katsina,Katsina,Tier 1,0
+North Central,Benue,Katsina-Ala,Tier 1,0
+North West,Jigawa,Kaugama,Tier 1,0
+North West,Kaduna,Kaura,Tier 1,0
+North West,Zamfara,Kaura-Namoda,Tier 1,0
+North West,Kaduna,Kauru,Tier 1,0
+North West,Jigawa,Kazaure,Tier 1,0
+North West,Sokoto,Kebbe,Tier 1,0
+North Central,Nasarawa,Keffi,Tier 1,0
+South South,Rivers,Khana,Tier 1,0
+North West,Kano,Kibiya,Tier 1,0
+North East,Bauchi,Kirfi,Tier 1,0
+North West,Jigawa,Kiri Kasama,Tier 1,0
+North West,Kano,Kiru,Tier 1,1
+North West,Jigawa,Kiyawa,Tier 1,0
+North West,Kebbi,Koko,Tier 1,0
+North Central,Nasarawa,Kokona,Tier 1,0
+South South,Bayelsa,Kolokuma/Opokuma,Tier 1,0
+North East,Borno,Konduga,Tier 1,0
+North Central,Benue,Konshisha,Tier 1,0
+North Central,Niger,Kontagora,Tier 1,0
+South West,Lagos,Kosofe,Tier 1,0
+North Central,Kogi,Koton karfe,Tier 1,0
+North West,Kaduna,Kubau,Tier 1,1
+North West,Kaduna,Kudan,Tier 1,0
+North Central,FCT/Abuja,Kuje,Tier 1,0
+North West,Kano,Kumbotso,Tier 1,0
+North West,Kano,Kunchi,Tier 1,0
+North West,Kano,Kura,Tier 1,0
+North West,Katsina,Kurfi,Tier 1,0
+North East,Taraba,Kurmi,Tier 1,0
+North West,Katsina,Kusada,Tier 1,1
+North Central,FCT/Abuja,Kwali,Tier 1,0
+North East,Gombe,Kwami,Tier 1,0
+North Central,Benue,Kwande,Tier 1,0
+North West,Sokoto,Kware,Tier 1,1
+North East,Borno,Kwaya Kusar,Tier 1,0
+North Central,Nasarawa,Lafia,Tier 1,0
+South West,Oyo,Lagelu,Tier 1,0
+South West,Lagos,Lagos Island,Tier 1,7
+South West,Lagos,Lagos Mainland,Tier 1,0
+North East,Adamawa,Lamurde,Tier 1,0
+North Central,Plateau,Langtang North,Tier 1,0
+North Central,Plateau,Langtang South,Tier 1,0
+North Central,Niger,Lapai,Tier 1,1
+North Central,Kwara,Latiagi,Tier 1,0
+North East,Taraba,Lau,Tier 1,0
+North Central,Niger,Lavun,Tier 1,0
+North West,Kaduna,Lere,Tier 1,0
+North Central,Benue,Logo,Tier 1,0
+North Central,Kogi,Lokoja,Tier 1,0
+North East,Yobe,Machina,Tier 1,0
+North East,Adamawa,Madagali,Tier 1,0
+North West,Kano,Madobi,Tier 1,0
+North East,Borno,Mafa,Tier 1,0
+North Central,Niger,Magama,Tier 1,0
+North East,Borno,Magumeri,Tier 1,0
+North West,Katsina,Mai'Adua,Tier 1,0
+North East,Borno,Maiduguri,Tier 1,0
+North West,Jigawa,Maigatari,Tier 1,0
+North East,Adamawa,Maiha,Tier 1,0
+North West,Kebbi,Maiyama,Tier 1,0
+North West,Kaduna,Makarfi,Tier 1,0
+North West,Kano,Makoda,Tier 1,0
+North Central,Benue,Makurdi,Tier 1,2
+North West,Jigawa,Malam Madori,Tier 1,0
+North West,Katsina,Malumfashi,Tier 1,0
+North Central,Plateau,Mangu,Tier 1,0
+North West,Katsina,Mani,Tier 1,1
+North West,Zamfara,Maradun,Tier 1,0
+North Central,Niger,Mariga,Tier 1,0
+North West,Zamfara,Maru,Tier 1,0
+North Central,Niger,Mashegu,Tier 1,0
+North West,Katsina,Mashi,Tier 1,0
+North East,Adamawa,Mayo Belwa,Tier 1,0
+South East,Imo,Mbaitoli,Tier 1,0
+South South,Akwa-Ibom,Mbo,Tier 1,2
+North East,Adamawa,Michika,Tier 1,0
+North West,Jigawa,Miga,Tier 1,0
+North Central,Plateau,Mikang,Tier 1,1
+North West,Kano,Minjibir,Tier 1,0
+North East,Bauchi,Misau,Tier 1,0
+South South,Akwa-Ibom,Mkpat-Enin,Tier 1,0
+South West,Ekiti,Moba,Tier 1,0
+North Central,Niger,Mokwa,Tier 1,0
+North Central,Kogi,Mopa-Muro,Tier 1,0
+North Central,Kwara,Moro,Tier 1,2
+North East,Adamawa,Mubi North,Tier 1,0
+North East,Adamawa,Mubi South,Tier 1,0
+North Central,Niger,Munya,Tier 1,0
+South West,Lagos,Mushin,Tier 1,7
+North East,Gombe,Nafada,Tier 1,0
+North East,Yobe,Nangere,Tier 1,0
+North West,Kano,Nasarawa,Tier 1,0
+North Central,Nasarawa,Nasarawa Eggon,Tier 1,0
+South South,Delta,Ndokwa East,Tier 1,0
+South South,Delta,Ndokwa West,Tier 1,0
+South South,Bayelsa,Nembe,Tier 1,0
+North East,Borno,Nganzai,Tier 1,0
+South East,Imo,Ngor Okpala,Tier 1,0
+North East,Yobe,Nguru,Tier 1,0
+North East,Bauchi,Ningi,Tier 1,0
+South East,Imo,Njaba,Tier 1,0
+South East,Anambra,Njikoka,Tier 1,0
+South East,Enugu,Nkanu East,Tier 1,0
+South East,Enugu,Nkanu West,Tier 1,0
+South East,Imo,Nkwerre,Tier 1,0
+South East,Anambra,Nnewi North,Tier 1,0
+South East,Anambra,Nnewi South,Tier 1,0
+South South,Akwa-Ibom,Nsit-Atai,Tier 1,0
+South South,Akwa-Ibom,Nsit-Ibom,Tier 1,0
+South South,Akwa-Ibom,Nsit-Ubium,Tier 1,1
+South East,Enugu,Nsukka,Tier 1,0
+North East,Adamawa,Numan,Tier 1,0
+South East,Imo,Nwangele,Tier 1,0
+South West,Ogun,Obafemi Owode,Tier 1,0
+South South,Cross-River,Obanliku,Tier 1,1
+North Central,Nasarawa,Obi,Tier 1,0
+South East,Abia,Obi Ngwa,Tier 1,0
+South South,Rivers,Obio-Akpor,Tier 1,0
+South West,Osun,Obokun,Tier 1,0
+South South,Akwa-Ibom,Obot Akara,Tier 1,0
+South East,Imo,Obowo,Tier 1,0
+South South,Cross-River,Obubra,Tier 1,0
+South South,Cross-River,Obudu,Tier 1,0
+South West,Ogun,Odeda,Tier 1,4
+South West,Ondo,Odigbo,Tier 1,0
+South West,Osun,Odo-Otin,Tier 1,2
+South West,Ogun,Odogbolu,Tier 1,0
+South South,Cross-River,Odukpani,Tier 1,0
+North Central,Kwara,Offa,Tier 1,0
+North Central,Kogi,Ofu,Tier 1,0
+South South,Rivers,Ogba-Egbema-Ndoni,Tier 1,0
+North Central,Benue,Ogbadibo,Tier 1,0
+South East,Anambra,Ogbaru,Tier 1,0
+South South,Bayelsa,Ogbia,Tier 1,1
+South West,Oyo,Ogbomosho North,Tier 1,0
+South West,Oyo,Ogbomosho South,Tier 1,0
+South West,Oyo,Ogo Oluwa,Tier 1,0
+South South,Cross-River,Ogoja,Tier 1,0
+South South,Rivers,Ogu-Bolo,Tier 1,0
+South West,Ogun,Ogun Waterside,Tier 1,0
+South East,Imo,Oguta,Tier 1,0
+South East,Abia,Ohafia,Tier 1,0
+South East,Imo,Ohaji/Egbema,Tier 1,0
+South South,Ebonyi,Ohaozara,Tier 1,0
+South South,Ebonyi,Ohaukwu,Tier 1,0
+North Central,Benue,Ohimini,Tier 1,1
+South East,Enugu,Oji River,Tier 1,0
+South West,Lagos,Ojo,Tier 1,0
+North Central,Benue,Oju,Tier 1,0
+North Central,Kwara,Oke Ero,Tier 1,0
+North Central,Kogi,Okehi,Tier 1,0
+North Central,Kogi,Okene,Tier 1,0
+South East,Imo,Okigwe,Tier 1,0
+South South,Rivers,Okirika,Tier 1,0
+South West,Ondo,Okitipupa,Tier 1,0
+South South,Akwa-Ibom,Okobo,Tier 1,0
+South South,Delta,Okpe,Tier 1,0
+North Central,Benue,Okpokwu,Tier 1,0
+South West,Osun,Ola-Oluwa,Tier 1,0
+North Central,Kogi,Olamaboro,Tier 1,0
+South West,Osun,Olorunda,Tier 1,0
+South West,Oyo,Olorunsogo,Tier 1,0
+South West,Oyo,Oluyole,Tier 1,4
+North Central,Kogi,Omala,Tier 1,0
+South South,Rivers,Omuma,Tier 1,0
+South West,Oyo,Ona Ara,Tier 1,0
+South West,Ondo,Ondo East,Tier 1,0
+South West,Ondo,Ondo West,Tier 1,1
+South South,Ebonyi,Onicha,Tier 1,0
+South East,Anambra,Onitsha North,Tier 1,0
+South East,Anambra,Onitsha South,Tier 1,0
+South South,Akwa-Ibom,Onna,Tier 1,0
+South East,Imo,Onuimo,Tier 1,0
+South South,Rivers,Opobo-Nkoro,Tier 1,1
+South South,Edo,Oredo,Tier 1,0
+South West,Oyo,Orelope,Tier 1,0
+South South,Edo,Orhionmwon,Tier 1,0
+South West,Osun,Ori-Ade,Tier 1,0
+South West,Oyo,Orire,Tier 1,0
+South East,Imo,Orlu,Tier 1,0
+South West,Osun,Orolu,Tier 1,0
+South South,Akwa-Ibom,Oron,Tier 1,3
+South East,Imo,Orsu,Tier 1,0
+South East,Imo,Oru East,Tier 1,0
+South East,Imo,Oru West,Tier 1,0
+South South,Akwa-Ibom,Oruk Anam,Tier 1,0
+South East,Anambra,Orumba North,Tier 1,0
+South East,Anambra,Orumba South,Tier 1,0
+South West,Ondo,Ose,Tier 1,0
+South South,Delta,Oshimili North,Tier 1,0
+South South,Delta,Oshimili South,Tier 1,0
+South West,Lagos,Oshodi-Isolo,Tier 1,2
+South East,Abia,Osisioma,Tier 1,0
+South West,Osun,Osogbo,Tier 1,0
+North Central,Benue,Oturkpo,Tier 1,0
+South South,Edo,Ovia North-East,Tier 1,0
+South South,Edo,Ovia South-West,Tier 1,0
+South South,Edo,Owan East,Tier 1,0
+South South,Edo,Owan West,Tier 1,0
+South East,Imo,Owerri Municipal,Tier 1,0
+South East,Imo,Owerri North,Tier 1,0
+South East,Imo,Owerri West,Tier 1,0
+South West,Ondo,Owo,Tier 1,0
+South West,Ekiti,Oye,Tier 1,7
+South East,Anambra,Oyi,Tier 1,0
+South South,Rivers,Oyigbo,Tier 1,0
+South West,Oyo,Oyo East,Tier 1,1
+South West,Oyo,Oyo West,Tier 1,0
+North Central,Kwara,Oyun,Tier 1,0
+North Central,Niger,Paikoro,Tier 1,0
+North Central,Plateau,Pankshin,Tier 1,0
+South South,Delta,Patani,Tier 1,0
+South South,Rivers,Port Harcourt,Tier 1,0
+North East,Yobe,Potiskum,Tier 1,0
+North Central,Plateau,Quaran Pan,Tier 1,0
+North Central,Niger,Rafi,Tier 1,0
+North West,Kano,Rano,Tier 1,0
+South West,Ogun,Remo North,Tier 1,1
+North West,Katsina,Rimi,Tier 1,0
+North West,Kano,Rimin Gado,Tier 1,0
+North West,Jigawa,Ringim,Tier 1,0
+North Central,Plateau,Riyom,Tier 1,1
+North West,Kano,Rogo,Tier 1,0
+North West,Jigawa,Roni,Tier 1,0
+North West,Kaduna,Sabon Gari,Tier 1,0
+South South,Bayelsa,Sagbama,Tier 1,1
+North West,Kebbi,Sakaba,Tier 1,0
+South West,Oyo,Saki East,Tier 1,0
+South West,Oyo,Saki West,Tier 1,1
+North West,Katsina,Sandamu,Tier 1,0
+North West,Kaduna,Sanga,Tier 1,0
+South South,Delta,Sapele,Tier 1,0
+North East,Taraba,Sardauna,Tier 1,0
+South West,Ogun,Shagamu,Tier 1,2
+North West,Sokoto,Shagari,Tier 1,0
+North West,Kebbi,Shanga,Tier 1,0
+North East,Borno,Shani,Tier 1,0
+North West,Kano,Shanono,Tier 1,1
+North East,Adamawa,Shelleng,Tier 1,0
+North Central,Plateau,Shendam,Tier 1,0
+North East,Bauchi,Shira,Tier 1,0
+North Central,Niger,Shiroro,Tier 1,0
+North East,Gombe,Shongom,Tier 1,0
+North West,Sokoto,Silame,Tier 1,0
+North West,Kaduna,Soba,Tier 1,0
+North West,Sokoto,Sokoto North,Tier 1,0
+North West,Sokoto,Sokoto South,Tier 1,0
+South West,Lagos,Somolu,Tier 1,0
+North East,Adamawa,Song,Tier 1,0
+South South,Bayelsa,Southern Ijaw,Tier 1,1
+North West,Jigawa,Sule Tankarkar,Tier 1,0
+North Central,Niger,Suleja,Tier 1,0
+North West,Kano,Sumaila,Tier 1,0
+North West,Kebbi,Suru,Tier 1,0
+South West,Oyo,Surulere,Tier 1,0
+North Central,Niger,Tafa,Tier 1,0
+North East,Bauchi,Tafawa Balewa,Tier 1,0
+South South,Rivers,Tai,Tier 1,0
+North West,Kano,Takai,Tier 1,0
+North East,Taraba,Takum,Tier 1,0
+North West,Zamfara,Talata-Mafara,Tier 1,1
+North West,Sokoto,Tambuwal,Tier 1,0
+North West,Sokoto,Tangaza,Tier 1,0
+North West,Kano,Tarauni,Tier 1,0
+North Central,Benue,Tarka,Tier 1,0
+North East,Yobe,Tarmuwa,Tier 1,0
+North West,Jigawa,Taura,Tier 1,0
+North West,Kano,Tofa,Tier 1,0
+North East,Bauchi,Toro,Tier 1,0
+North Central,Nasarawa,Toto,Tier 1,0
+North East,Adamawa,Toungo,Tier 1,0
+North West,Zamfara,Tsafe,Tier 1,0
+North West,Kano,Tsanyawa,Tier 1,0
+North West,Kano,Tudun Wada,Tier 1,0
+South East,Enugu,Udenu,Tier 1,0
+South East,Enugu,Udi,Tier 1,0
+South South,Delta,Udu,Tier 1,0
+South South,Akwa-Ibom,Udung-Uko,Tier 1,1
+South South,Delta,Ughelli North,Tier 1,0
+South South,Delta,Ughelli South,Tier 1,0
+South East,Abia,Ugwunagbo,Tier 1,0
+South South,Edo,Uhunmwonde,Tier 1,0
+South South,Akwa-Ibom,Ukanafun,Tier 1,0
+North Central,Benue,Ukum,Tier 1,0
+South East,Abia,Ukwa East,Tier 1,0
+South East,Abia,Ukwa West,Tier 1,0
+South South,Delta,Ukwuani,Tier 1,0
+South East,Abia,Umu Nneochi,Tier 1,0
+South East,Abia,Umuahia North,Tier 1,0
+South East,Abia,Umuahia South,Tier 1,0
+North West,Kano,Ungogo,Tier 1,0
+South South,Akwa-Ibom,Uruan,Tier 1,0
+South South,Akwa-Ibom,Urue-Offong/Oruko,Tier 1,0
+North Central,Benue,Ushongo,Tier 1,0
+North East,Taraba,Ussa,Tier 1,0
+South South,Delta,Uvwie,Tier 1,0
+South South,Akwa-Ibom,Uyo,Tier 1,0
+South East,Enugu,Uzo-Uwani,Tier 1,0
+North Central,Benue,Vandeikya,Tier 1,0
+North West,Sokoto,Wamakko,Tier 1,0
+North Central,Nasarawa,Wamba,Tier 1,0
+North West,Kano,Warawa,Tier 1,0
+North East,Bauchi,Warji,Tier 1,0
+South South,Delta,Warri North,Tier 1,0
+South South,Delta,Warri South,Tier 1,0
+South South,Delta,Warri South West,Tier 1,4
+North Central,Plateau,Wase,Tier 1,0
+North West,Kano,Wudil,Tier 1,0
+North East,Taraba,Wukari,Tier 1,0
+North West,Sokoto,Wurno,Tier 1,5
+North Central,Niger,Wushishi,Tier 1,0
+North West,Sokoto,Yabo,Tier 1,0
+North Central,Kogi,Yagba East,Tier 1,0
+North Central,Kogi,Yagba West,Tier 1,0
+South South,Cross-River,Yakurr,Tier 1,1
+South South,Cross-River,Yala,Tier 1,0
+North East,Gombe,Yamaltu/Deba,Tier 1,0
+North West,Jigawa,Yankwashi,Tier 1,0
+North West,Kebbi,Yauri,Tier 1,0
+South South,Bayelsa,Yenagoa,Tier 1,2
+South West,Ogun,Yewa North,Tier 1,0
+South West,Ogun,Yewa South,Tier 1,2
+North East,Adamawa,Yola North,Tier 1,0
+North East,Adamawa,Yola South,Tier 1,0
+North East,Taraba,Yorro,Tier 1,0
+North East,Yobe,Yunusari,Tier 1,0
+North East,Yobe,Yusufari,Tier 1,0
+North East,Bauchi,Zaki,Tier 1,0
+North West,Katsina,Zango,Tier 1,2
+North West,Kaduna,Zangon Kataf,Tier 1,0
+North West,Kaduna,Zaria,Tier 1,0
+North East,Taraba,Zing,Tier 1,0
+North West,Zamfara,Zurmi,Tier 1,0
+North West,Kebbi,Zuru,Tier 1,0
+North Central,Nasarawa,keana,Tier 1,0
+North Central,Kogi,ogori/magongo,Tier 1,0
+South East,Abia,Aba North,Tier 2,0
+South East,Abia,Aba South,Tier 2,0
+North Central,FCT/Abuja,Abaji,Tier 2,2
+South South,Akwa-Ibom,Abak,Tier 2,8
+South South,Ebonyi,Abakaliki,Tier 2,8
+South West,Ogun,Abeokuta North,Tier 2,4
+South West,Ogun,Abeokuta South,Tier 2,10
+South South,Cross-River,Abi,Tier 2,3
+South East,Imo,Aboh Mbaise,Tier 2,3
+South South,Rivers,Abua-Odual,Tier 2,8
+North Central,FCT/Abuja,Abuja Municipal Area Council,Tier 2,6
+North Central,Kogi,Adavi,Tier 2,5
+North Central,Benue,Ado,Tier 2,2
+South West,Ekiti,Ado Ekiti,Tier 2,9
+South West,Ogun,Ado-Odo/Ota,Tier 2,12
+South West,Oyo,Afijio,Tier 2,9
+South South,Ebonyi,Afikpo,Tier 2,11
+North Central,Niger,Agaie,Tier 2,11
+North Central,Benue,Agatu,Tier 2,1
+South West,Lagos,Agege,Tier 2,8
+South East,Anambra,Aguata,Tier 2,13
+South East,Imo,Ahiazu Mbaise,Tier 2,7
+South South,Rivers,Ahoada East,Tier 2,2
+South South,Rivers,Ahoada West,Tier 2,5
+South West,Osun,Aiyedaade,Tier 2,6
+South West,Osun,Aiyedire,Tier 2,7
+North Central,Kogi,Ajaokuta,Tier 2,2
+South West,Lagos,Ajeromi-Ifelodun,Tier 2,8
+North West,Kano,Ajingi,Tier 2,7
+South South,Cross-River,Akamkpa,Tier 2,2
+South West,Oyo,Akinyele,Tier 2,4
+North East,Gombe,Akko,Tier 2,10
+South West,Ondo,Akoko North-East,Tier 2,8
+South West,Ondo,Akoko North-West,Tier 2,2
+South West,Ondo,Akoko South-East,Tier 2,0
+South West,Ondo,Akoko South-West,Tier 2,0
+South South,Edo,Akoko-Edo,Tier 2,0
+South South,Cross-River,Akpabuyo,Tier 2,6
+South South,Rivers,Akuku Toru,Tier 2,4
+South West,Ondo,Akure North,Tier 2,0
+South West,Ondo,Akure South,Tier 2,3
+North Central,Nasarawa,Akwanga,Tier 2,5
+North West,Kano,Albasu,Tier 2,0
+North West,Kebbi,Aleiro,Tier 2,7
+South West,Lagos,Alimosho,Tier 2,12
+North East,Bauchi,Alkaleri,Tier 2,9
+South West,Lagos,Amuwo-Odofin,Tier 2,13
+South East,Anambra,Anambra East,Tier 2,14
+South East,Anambra,Anambra West,Tier 2,2
+South East,Anambra,Anaocha,Tier 2,8
+South South,Rivers,Andoni,Tier 2,0
+South East,Enugu,Aninri,Tier 2,4
+South South,Delta,Aniocha North,Tier 2,3
+South South,Delta,Aniocha South,Tier 2,0
+North Central,Kogi,Ankpa,Tier 2,0
+North Central,Benue,Apa,Tier 2,3
+South West,Lagos,Apapa,Tier 2,12
+North East,Taraba,Ardo Kola,Tier 2,4
+North West,Kebbi,Arewa,Tier 2,0
+North West,Kebbi,Argungu,Tier 2,5
+South East,Abia,Arochukwu,Tier 2,0
+North Central,Kwara,Asa,Tier 2,8
+South South,Rivers,Asari Toru,Tier 2,0
+North East,Borno,Askira/Uba,Tier 2,4
+South West,Osun,Atakunmosa East,Tier 2,0
+South West,Osun,Atakunmosa West,Tier 2,2
+South West,Oyo,Atiba,Tier 2,6
+South West,Oyo,Atisbo,Tier 2,3
+North West,Kebbi,Augie,Tier 2,3
+North West,Jigawa,Auyo,Tier 2,5
+North Central,Nasarawa,Awe,Tier 2,4
+South East,Enugu,Awgu,Tier 2,8
+South East,Anambra,Awka North,Tier 2,0
+South East,Anambra,Awka South,Tier 2,13
+South East,Anambra,Ayamelum,Tier 2,0
+North West,Jigawa,Babura,Tier 2,6
+South West,Lagos,Badagry,Tier 2,17
+North East,Yobe,Bade,Tier 2,5
+North West,Kebbi,Bagudo,Tier 2,6
+North West,Kano,Bagwai,Tier 2,2
+South South,Cross-River,Bakassi,Tier 2,3
+North West,Katsina,Bakori,Tier 2,16
+North West,Zamfara,Bakuka,Tier 2,7
+North East,Gombe,Balanga,Tier 2,5
+North East,Taraba,Bali,Tier 2,0
+North East,Borno,Bama,Tier 2,2
+North Central,Plateau,Barkin Ladi,Tier 2,2
+North Central,Plateau,Bassa,Tier 2,3
+North West,Katsina,Batagarawa,Tier 2,5
+North East,Bauchi,Bauchi,Tier 2,6
+North West,Katsina,Baure,Tier 2,1
+North East,Borno,Bayo,Tier 2,7
+North West,Kano,Bebeji,Tier 2,7
+South South,Cross-River,Bekwarra,Tier 2,0
+South East,Abia,Bende,Tier 2,0
+South South,Cross-River,Biase,Tier 2,0
+North West,Kano,Bichi,Tier 2,3
+North Central,Niger,Bida,Tier 2,14
+North East,Gombe,Billiri,Tier 2,10
+North West,Katsina,Bindawa,Tier 2,2
+North West,Sokoto,Binji,Tier 2,5
+North West,Kebbi,Birnin Kebbi,Tier 2,6
+North West,Jigawa,Birnin Kudu,Tier 2,2
+North West,Zamfara,Birnin Magaji/Kiyaw,Tier 2,4
+North West,Jigawa,Birniwa,Tier 2,6
+North East,Borno,Biu,Tier 2,9
+North West,Sokoto,Bodinga,Tier 2,10
+North East,Bauchi,Bogoro,Tier 2,6
+South South,Cross-River,Boki,Tier 2,0
+North Central,Plateau,Bokkos,Tier 2,0
+South West,Osun,Boluwaduro,Tier 2,7
+South South,Delta,Bomadi,Tier 2,4
+South South,Rivers,Bonny,Tier 2,0
+North Central,Niger,Borgu,Tier 2,10
+South West,Osun,Boripe,Tier 2,5
+North Central,Niger,Bosso,Tier 2,8
+South South,Bayelsa,Brass,Tier 2,5
+North West,Jigawa,Buji,Tier 2,2
+North West,Zamfara,Bukkuyum,Tier 2,4
+North West,Zamfara,Bungudu,Tier 2,3
+North West,Kano,Bunkure,Tier 2,7
+North West,Kebbi,Bunza,Tier 2,4
+North East,Yobe,Bursari,Tier 2,0
+North Central,Benue,Buruku,Tier 2,2
+South South,Delta,Burutu,Tier 2,10
+North Central,FCT/Abuja,Bwari,Tier 2,14
+South South,Cross-River,Calabar Municipal,Tier 2,5
+South South,Cross-River,Calabar South,Tier 2,6
+North Central,Niger,Chanchaga,Tier 2,0
+North West,Katsina,Charanchi,Tier 2,7
+North East,Borno,Chibok,Tier 2,5
+North West,Kaduna,Chikun,Tier 2,3
+North West,Kano,Dala,Tier 2,3
+North East,Yobe,Damaturu,Tier 2,5
+North East,Bauchi,Damban,Tier 2,10
+North West,Kano,Dambatta,Tier 2,7
+North East,Borno,Damboa,Tier 2,0
+North West,Katsina,Dan Musa,Tier 2,14
+North West,Kebbi,Dandi,Tier 2,4
+North West,Sokoto,Dange Shuni,Tier 2,5
+North West,Katsina,Danja,Tier 2,10
+North West,Kebbi,Danko wasagu,Tier 2,1
+North East,Bauchi,Darazo,Tier 2,5
+North East,Bauchi,Dass,Tier 2,5
+North West,Katsina,Daura,Tier 2,0
+North West,Kano,Dawakin Kudu,Tier 2,6
+North West,Kano,Dawakin Tofa,Tier 2,4
+South South,Rivers,Degema,Tier 2,0
+North Central,Kogi,Dekina,Tier 2,1
+North East,Adamawa,Demsa,Tier 2,0
+North East,Borno,Dikwa,Tier 2,0
+North West,Kano,Doguwa,Tier 2,4
+North Central,Nasarawa,Doma,Tier 2,3
+North East,Taraba,Donga,Tier 2,6
+North East,Gombe,Dukku,Tier 2,7
+South East,Anambra,Dunukofia,Tier 2,13
+North West,Jigawa,Dutse,Tier 2,3
+North West,Katsina,Dutsi,Tier 2,14
+North West,Katsina,Dutsin Ma,Tier 2,5
+South South,Akwa-Ibom,Eastern Obolo,Tier 2,8
+South South,Ebonyi,Ebonyi,Tier 2,9
+North Central,Niger,Edati,Tier 2,10
+South South,Ebonyi,Edda,Tier 2,12
+South West,Osun,Ede North,Tier 2,3
+South West,Osun,Ede South,Tier 2,8
+South West,Ekiti,Efon,Tier 2,8
+South West,Oyo,Egbeda,Tier 2,4
+South West,Osun,Egbedore,Tier 2,1
+South South,Edo,Egor,Tier 2,6
+South East,Imo,Ehime Mbano,Tier 2,10
+South West,Osun,Ejigbo,Tier 2,3
+South South,Bayelsa,Ekeremor,Tier 2,8
+South South,Akwa-Ibom,Eket,Tier 2,7
+North Central,Kwara,Ekiti,Tier 2,0
+South West,Ekiti,Ekiti East,Tier 2,10
+South West,Ekiti,Ekiti South-West,Tier 2,5
+South West,Ekiti,Ekiti West,Tier 2,11
+South East,Anambra,Ekwusigo,Tier 2,0
+South South,Rivers,Eleme,Tier 2,14
+South South,Rivers,Emohua,Tier 2,11
+South West,Ekiti,Emure,Tier 2,8
+South East,Enugu,Enugu East,Tier 2,6
+South East,Enugu,Enugu North,Tier 2,3
+South East,Enugu,Enugu South,Tier 2,4
+South West,Lagos,Epe,Tier 2,22
+South South,Edo,Esan Central,Tier 2,5
+South South,Edo,Esan North-East,Tier 2,2
+South South,Edo,Esan South-East,Tier 2,2
+South South,Edo,Esan West,Tier 2,7
+South West,Ondo,Ese Odo,Tier 2,0
+South South,Akwa-Ibom,Esit Eket,Tier 2,9
+South South,Akwa-Ibom,Essien Udim,Tier 2,9
+South South,Rivers,Etche,Tier 2,8
+South South,Delta,Ethiope East,Tier 2,2
+South South,Delta,Ethiope West,Tier 2,0
+South West,Lagos,Eti-Osa,Tier 2,23
+South South,Akwa-Ibom,Etim Ekpo,Tier 2,2
+South South,Akwa-Ibom,Etinan,Tier 2,3
+South South,Edo,Etsako Central,Tier 2,3
+South South,Edo,Etsako East,Tier 2,8
+South South,Edo,Etsako West,Tier 2,10
+South South,Cross-River,Etung,Tier 2,0
+South West,Ogun,Ewekoro,Tier 2,5
+South East,Enugu,Ezeagu,Tier 2,4
+South East,Imo,Ezinihitte,Tier 2,0
+South South,Ebonyi,Ezza North,Tier 2,8
+South South,Ebonyi,Ezza South,Tier 2,4
+North West,Kano,Fagge,Tier 2,4
+North West,Kebbi,Fakai,Tier 2,0
+North East,Yobe,Fika,Tier 2,0
+North East,Adamawa,Fufure,Tier 2,5
+North East,Gombe,Funakaye,Tier 2,7
+North East,Yobe,Fune,Tier 2,2
+North West,Katsina,Funtua,Tier 2,16
+North West,Kano,Gabasawa,Tier 2,5
+North West,Sokoto,Gada,Tier 2,2
+North West,Jigawa,Gagarawa,Tier 2,3
+North East,Bauchi,Gamawa,Tier 2,11
+North East,Bauchi,Ganjuwa,Tier 2,3
+North East,Adamawa,Ganye,Tier 2,0
+North West,Jigawa,Garki,Tier 2,3
+North West,Kano,Garko,Tier 2,7
+North West,Kano,Garun Mallam,Tier 2,7
+North East,Taraba,Gashaka,Tier 2,0
+North East,Taraba,Gassol,Tier 2,1
+North West,Kano,Gaya,Tier 2,7
+North Central,Niger,Gbako,Tier 2,9
+North Central,Benue,Gboko,Tier 2,3
+South West,Ekiti,Gbonyin,Tier 2,8
+North East,Yobe,Geidam,Tier 2,1
+North West,Kano,Gezawa,Tier 2,7
+North East,Bauchi,Giade,Tier 2,9
+North East,Adamawa,Girei,Tier 2,2
+North West,Kaduna,Giwa,Tier 2,5
+South South,Rivers,Gokana,Tier 2,11
+North East,Gombe,Gombe,Tier 2,4
+North East,Adamawa,Gombi,Tier 2,2
+North West,Sokoto,Goronyo,Tier 2,0
+North East,Borno,Gubio,Tier 2,10
+North West,Sokoto,Gudu,Tier 2,2
+North East,Yobe,Gujba,Tier 2,5
+North East,Yobe,Gulani,Tier 2,3
+North Central,Benue,Guma,Tier 2,0
+North West,Jigawa,Gumel,Tier 2,8
+North West,Zamfara,Gummi,Tier 2,9
+North Central,Niger,Gurara,Tier 2,0
+North West,Jigawa,Guri,Tier 2,6
+North West,Zamfara,Gusau,Tier 2,7
+North East,Adamawa,Guyuk,Tier 2,0
+North West,Sokoto,Gwadabawa,Tier 2,0
+North Central,FCT/Abuja,Gwagwalada,Tier 2,10
+North West,Kano,Gwale,Tier 2,4
+North West,Kebbi,Gwandu,Tier 2,1
+North West,Jigawa,Gwaram,Tier 2,2
+North West,Kano,Gwarzo,Tier 2,4
+North Central,Benue,Gwer East,Tier 2,6
+North Central,Benue,Gwer West,Tier 2,4
+North West,Jigawa,Gwiwa,Tier 2,4
+North East,Borno,Gwoza,Tier 2,0
+North West,Jigawa,Hadejia,Tier 2,8
+North East,Borno,Hawul,Tier 2,8
+North East,Adamawa,Hong,Tier 2,3
+South West,Oyo,Ibadan North,Tier 2,0
+South West,Oyo,Ibadan North-East,Tier 2,9
+South West,Oyo,Ibadan North-West,Tier 2,3
+South West,Oyo,Ibadan South-East,Tier 2,3
+South West,Oyo,Ibadan South-West,Tier 2,0
+North Central,Kogi,Ibaji,Tier 2,0
+South West,Oyo,Ibarapa Central,Tier 2,8
+South West,Oyo,Ibarapa East,Tier 2,9
+South West,Oyo,Ibarapa North,Tier 2,11
+South West,Lagos,Ibeju-Lekki,Tier 2,6
+South South,Akwa-Ibom,Ibeno,Tier 2,5
+South South,Akwa-Ibom,Ibesikpo Asutan,Tier 2,5
+North East,Taraba,Ibi,Tier 2,8
+South South,Akwa-Ibom,Ibiono-Ibom,Tier 2,9
+North Central,Kogi,Idah,Tier 2,4
+South West,Ondo,Idanre,Tier 2,0
+South East,Imo,Ideato North,Tier 2,0
+South East,Imo,Ideato South,Tier 2,8
+South East,Anambra,Idemili North,Tier 2,2
+South East,Anambra,Idemili South,Tier 2,10
+South West,Oyo,Ido,Tier 2,5
+South West,Ekiti,Ido Osi,Tier 2,10
+South West,Lagos,Ifako-Ijaiye,Tier 2,15
+South West,Osun,Ife Central,Tier 2,1
+South West,Osun,Ife East,Tier 2,4
+South West,Osun,Ife North,Tier 2,6
+South West,Osun,Ife South,Tier 2,2
+South West,Osun,Ifedayo,Tier 2,1
+South West,Ondo,Ifedore,Tier 2,0
+South West,Osun,Ifelodun,Tier 2,11
+South West,Ogun,Ifo,Tier 2,5
+North West,Kaduna,Igabi,Tier 2,1
+North Central,Kogi,Igalamela-Odolu,Tier 2,2
+South East,Enugu,Igbo Etiti,Tier 2,2
+South East,Enugu,Igbo Eze North,Tier 2,18
+South East,Enugu,Igbo Eze South,Tier 2,1
+South South,Edo,Igueben,Tier 2,0
+South East,Anambra,Ihiala,Tier 2,12
+South East,Imo,Ihitte/Uboma,Tier 2,0
+South West,Ogun,Ijebu East,Tier 2,3
+South West,Ogun,Ijebu North,Tier 2,0
+South West,Ogun,Ijebu North East,Tier 2,7
+South West,Ogun,Ijebu Ode,Tier 2,3
+South West,Ekiti,Ijero,Tier 2,5
+North Central,Kogi,Ijumu,Tier 2,6
+South South,Akwa-Ibom,Ika,Tier 2,9
+South South,Delta,Ika North East,Tier 2,0
+South South,Delta,Ika South,Tier 2,0
+North West,Kaduna,Ikara,Tier 2,0
+South East,Imo,Ikeduru,Tier 2,5
+South West,Lagos,Ikeja,Tier 2,13
+South West,Ogun,Ikenne,Tier 2,7
+South West,Ekiti,Ikere,Tier 2,8
+South West,Ekiti,Ikole,Tier 2,11
+South South,Cross-River,Ikom,Tier 2,6
+South South,Akwa-Ibom,Ikono,Tier 2,9
+South West,Lagos,Ikorodu,Tier 2,19
+South South,Akwa-Ibom,Ikot Abasi (village),Tier 2,2
+South South,Akwa-Ibom,Ikot Ekpene,Tier 2,0
+South South,Edo,Ikpoba Okha,Tier 2,4
+South South,Rivers,Ikwerre,Tier 2,12
+South South,Ebonyi,Ikwo,Tier 2,7
+South East,Abia,Ikwuano,Tier 2,8
+South West,Osun,Ila,Tier 2,4
+South West,Ondo,Ilaje,Tier 2,0
+South West,Ondo,Ile-Oluji/Okeigbo,Tier 2,5
+South West,Ekiti,Ilejemeje,Tier 2,6
+South West,Osun,Ilesa East,Tier 2,2
+South West,Osun,Ilesa West,Tier 2,0
+North West,Sokoto,Illela,Tier 2,2
+North Central,Kwara,Ilorin East,Tier 2,0
+North Central,Kwara,Ilorin West,Tier 2,2
+South West,Ogun,Imeko Afon,Tier 2,9
+North West,Kebbi,Ingaski,Tier 2,0
+North West,Katsina,Ingawa,Tier 2,7
+South South,Akwa-Ibom,Ini,Tier 2,9
+South West,Ogun,Ipokia,Tier 2,3
+South West,Ondo,Irele,Tier 2,2
+South West,Oyo,Irepo,Tier 2,9
+South West,Osun,Irepodun,Tier 2,15
+South West,Ekiti,Irepodun/Ifelodun,Tier 2,11
+South West,Osun,Irewole,Tier 2,5
+South West,Ekiti,Ise/Orun,Tier 2,5
+South West,Oyo,Iseyin,Tier 2,4
+South South,Ebonyi,Ishielu,Tier 2,5
+South East,Enugu,Isi Uzo,Tier 2,6
+South East,Imo,Isiala Mbano,Tier 2,9
+South East,Abia,Isiala Ngwa North,Tier 2,7
+South East,Abia,Isiala Ngwa South,Tier 2,8
+North Central,Kwara,Isin,Tier 2,4
+South West,Osun,Isokan,Tier 2,5
+South South,Delta,Isoko North,Tier 2,2
+South South,Delta,Isoko South,Tier 2,3
+South East,Imo,Isu,Tier 2,9
+South East,Abia,Isuikwuato,Tier 2,2
+North East,Bauchi,Itas/Gadau,Tier 2,6
+South West,Oyo,Itesiwaju,Tier 2,0
+South South,Akwa-Ibom,Itu,Tier 2,7
+South South,Ebonyi,Ivo,Tier 2,15
+South West,Oyo,Iwajowa,Tier 2,6
+South West,Osun,Iwo,Tier 2,2
+South South,Ebonyi,Izzi,Tier 2,7
+North West,Kaduna,Jaba,Tier 2,3
+North East,Adamawa,Jada,Tier 2,0
+North West,Jigawa,Jahun,Tier 2,1
+North East,Yobe,Jakusko,Tier 2,0
+North East,Taraba,Jalingo,Tier 2,4
+North East,Bauchi,Jama'are,Tier 2,11
+North West,Kebbi,Jega,Tier 2,2
+North West,Kaduna,Jema'a,Tier 2,8
+North East,Borno,Jere,Tier 2,2
+North Central,Plateau,Jos East,Tier 2,4
+North Central,Plateau,Jos North,Tier 2,3
+North Central,Plateau,Jos South,Tier 2,2
+North Central,Kogi,Kabba/Bunu,Tier 2,1
+North West,Kano,Kabo,Tier 2,6
+North West,Kaduna,Kachia,Tier 2,2
+North West,Kaduna,Kaduna North,Tier 2,5
+North West,Kaduna,Kaduna South,Tier 2,2
+North West,Jigawa,Kafin Hausa,Tier 2,5
+North West,Katsina,Kafur,Tier 2,11
+North East,Borno,Kaga,Tier 2,0
+North West,Kaduna,Kagarko,Tier 2,0
+North West,Katsina,Kaita,Tier 2,7
+South West,Oyo,Kajola,Tier 2,2
+North West,Kaduna,Kajuru,Tier 2,2
+North West,Kebbi,Kalgo,Tier 2,0
+North East,Gombe,Kaltungo,Tier 2,8
+North Central,Plateau,Kanam,Tier 2,0
+North Central,Plateau,Kanke,Tier 2,1
+North West,Katsina,Kankia,Tier 2,7
+North West,Kano,Kano Municipal,Tier 2,5
+North East,Yobe,Karasuwa,Tier 2,3
+North West,Kano,Karaye,Tier 2,7
+North East,Taraba,Karim Lamido,Tier 2,0
+North Central,Nasarawa,Karu,Tier 2,6
+North East,Bauchi,Katagum,Tier 2,7
+North Central,Niger,Katcha,Tier 2,2
+North West,Katsina,Katsina,Tier 2,9
+North Central,Benue,Katsina-Ala,Tier 2,6
+North West,Jigawa,Kaugama,Tier 2,7
+North West,Kaduna,Kaura,Tier 2,7
+North West,Zamfara,Kaura-Namoda,Tier 2,4
+North West,Kaduna,Kauru,Tier 2,4
+North West,Jigawa,Kazaure,Tier 2,8
+North West,Sokoto,Kebbe,Tier 2,3
+North Central,Nasarawa,Keffi,Tier 2,1
+South South,Rivers,Khana,Tier 2,0
+North West,Kano,Kibiya,Tier 2,5
+North East,Bauchi,Kirfi,Tier 2,4
+North West,Jigawa,Kiri Kasama,Tier 2,8
+North West,Kano,Kiru,Tier 2,8
+North West,Jigawa,Kiyawa,Tier 2,8
+North West,Kebbi,Koko,Tier 2,0
+North Central,Nasarawa,Kokona,Tier 2,6
+South South,Bayelsa,Kolokuma/Opokuma,Tier 2,2
+North East,Borno,Konduga,Tier 2,10
+North Central,Benue,Konshisha,Tier 2,1
+North Central,Niger,Kontagora,Tier 2,7
+South West,Lagos,Kosofe,Tier 2,23
+North Central,Kogi,Koton karfe,Tier 2,0
+North West,Kaduna,Kubau,Tier 2,0
+North West,Kaduna,Kudan,Tier 2,3
+North Central,FCT/Abuja,Kuje,Tier 2,5
+North West,Kano,Kumbotso,Tier 2,0
+North West,Kano,Kunchi,Tier 2,2
+North West,Kano,Kura,Tier 2,1
+North West,Katsina,Kurfi,Tier 2,4
+North East,Taraba,Kurmi,Tier 2,0
+North West,Katsina,Kusada,Tier 2,9
+North Central,FCT/Abuja,Kwali,Tier 2,9
+North East,Gombe,Kwami,Tier 2,10
+North Central,Benue,Kwande,Tier 2,5
+North West,Sokoto,Kware,Tier 2,5
+North East,Borno,Kwaya Kusar,Tier 2,7
+North Central,Nasarawa,Lafia,Tier 2,8
+South West,Oyo,Lagelu,Tier 2,5
+South West,Lagos,Lagos Island,Tier 2,21
+South West,Lagos,Lagos Mainland,Tier 2,19
+North East,Adamawa,Lamurde,Tier 2,0
+North Central,Plateau,Langtang North,Tier 2,1
+North Central,Plateau,Langtang South,Tier 2,0
+North Central,Niger,Lapai,Tier 2,6
+North Central,Kwara,Latiagi,Tier 2,0
+North East,Taraba,Lau,Tier 2,6
+North Central,Niger,Lavun,Tier 2,9
+North West,Kaduna,Lere,Tier 2,0
+North Central,Benue,Logo,Tier 2,0
+North Central,Kogi,Lokoja,Tier 2,5
+North East,Yobe,Machina,Tier 2,0
+North East,Adamawa,Madagali,Tier 2,0
+North West,Kano,Madobi,Tier 2,7
+North East,Borno,Mafa,Tier 2,0
+North Central,Niger,Magama,Tier 2,10
+North East,Borno,Magumeri,Tier 2,14
+North West,Katsina,Mai'Adua,Tier 2,0
+North East,Borno,Maiduguri,Tier 2,0
+North West,Jigawa,Maigatari,Tier 2,7
+North East,Adamawa,Maiha,Tier 2,0
+North West,Kebbi,Maiyama,Tier 2,6
+North West,Kaduna,Makarfi,Tier 2,1
+North West,Kano,Makoda,Tier 2,5
+North Central,Benue,Makurdi,Tier 2,1
+North West,Jigawa,Malam Madori,Tier 2,2
+North West,Katsina,Malumfashi,Tier 2,8
+North Central,Plateau,Mangu,Tier 2,1
+North West,Katsina,Mani,Tier 2,6
+North West,Zamfara,Maradun,Tier 2,4
+North Central,Niger,Mariga,Tier 2,7
+North West,Zamfara,Maru,Tier 2,3
+North Central,Niger,Mashegu,Tier 2,10
+North West,Katsina,Mashi,Tier 2,0
+North East,Adamawa,Mayo Belwa,Tier 2,4
+South East,Imo,Mbaitoli,Tier 2,8
+South South,Akwa-Ibom,Mbo,Tier 2,0
+North East,Adamawa,Michika,Tier 2,0
+North West,Jigawa,Miga,Tier 2,3
+North Central,Plateau,Mikang,Tier 2,0
+North West,Kano,Minjibir,Tier 2,0
+North East,Bauchi,Misau,Tier 2,6
+South South,Akwa-Ibom,Mkpat-Enin,Tier 2,0
+South West,Ekiti,Moba,Tier 2,8
+North Central,Niger,Mokwa,Tier 2,8
+North Central,Kogi,Mopa-Muro,Tier 2,4
+North Central,Kwara,Moro,Tier 2,4
+North East,Adamawa,Mubi North,Tier 2,6
+North East,Adamawa,Mubi South,Tier 2,5
+North Central,Niger,Munya,Tier 2,0
+South West,Lagos,Mushin,Tier 2,18
+North East,Gombe,Nafada,Tier 2,11
+North East,Yobe,Nangere,Tier 2,0
+North West,Kano,Nasarawa,Tier 2,5
+North Central,Nasarawa,Nasarawa Eggon,Tier 2,6
+South South,Delta,Ndokwa East,Tier 2,1
+South South,Delta,Ndokwa West,Tier 2,2
+South South,Bayelsa,Nembe,Tier 2,1
+North East,Borno,Nganzai,Tier 2,0
+South East,Imo,Ngor Okpala,Tier 2,7
+North East,Yobe,Nguru,Tier 2,4
+North East,Bauchi,Ningi,Tier 2,4
+South East,Imo,Njaba,Tier 2,2
+South East,Anambra,Njikoka,Tier 2,28
+South East,Enugu,Nkanu East,Tier 2,11
+South East,Enugu,Nkanu West,Tier 2,5
+South East,Imo,Nkwerre,Tier 2,3
+South East,Anambra,Nnewi North,Tier 2,13
+South East,Anambra,Nnewi South,Tier 2,12
+South South,Akwa-Ibom,Nsit-Atai,Tier 2,4
+South South,Akwa-Ibom,Nsit-Ibom,Tier 2,2
+South South,Akwa-Ibom,Nsit-Ubium,Tier 2,8
+South East,Enugu,Nsukka,Tier 2,5
+North East,Adamawa,Numan,Tier 2,1
+South East,Imo,Nwangele,Tier 2,3
+South West,Ogun,Obafemi Owode,Tier 2,7
+South South,Cross-River,Obanliku,Tier 2,0
+North Central,Nasarawa,Obi,Tier 2,2
+South East,Abia,Obi Ngwa,Tier 2,0
+South South,Rivers,Obio-Akpor,Tier 2,6
+South West,Osun,Obokun,Tier 2,6
+South South,Akwa-Ibom,Obot Akara,Tier 2,0
+South East,Imo,Obowo,Tier 2,9
+South South,Cross-River,Obubra,Tier 2,1
+South South,Cross-River,Obudu,Tier 2,3
+South West,Ogun,Odeda,Tier 2,3
+South West,Ondo,Odigbo,Tier 2,0
+South West,Osun,Odo-Otin,Tier 2,7
+South West,Ogun,Odogbolu,Tier 2,3
+South South,Cross-River,Odukpani,Tier 2,2
+North Central,Kwara,Offa,Tier 2,0
+North Central,Kogi,Ofu,Tier 2,7
+South South,Rivers,Ogba-Egbema-Ndoni,Tier 2,12
+North Central,Benue,Ogbadibo,Tier 2,4
+South East,Anambra,Ogbaru,Tier 2,9
+South South,Bayelsa,Ogbia,Tier 2,5
+South West,Oyo,Ogbomosho North,Tier 2,0
+South West,Oyo,Ogbomosho South,Tier 2,2
+South West,Oyo,Ogo Oluwa,Tier 2,0
+South South,Cross-River,Ogoja,Tier 2,0
+South South,Rivers,Ogu-Bolo,Tier 2,0
+South West,Ogun,Ogun Waterside,Tier 2,3
+South East,Imo,Oguta,Tier 2,20
+South East,Abia,Ohafia,Tier 2,0
+South East,Imo,Ohaji/Egbema,Tier 2,4
+South South,Ebonyi,Ohaozara,Tier 2,10
+South South,Ebonyi,Ohaukwu,Tier 2,13
+North Central,Benue,Ohimini,Tier 2,2
+South East,Enugu,Oji River,Tier 2,15
+South West,Lagos,Ojo,Tier 2,8
+North Central,Benue,Oju,Tier 2,1
+North Central,Kwara,Oke Ero,Tier 2,3
+North Central,Kogi,Okehi,Tier 2,2
+North Central,Kogi,Okene,Tier 2,3
+South East,Imo,Okigwe,Tier 2,2
+South South,Rivers,Okirika,Tier 2,0
+South West,Ondo,Okitipupa,Tier 2,1
+South South,Akwa-Ibom,Okobo,Tier 2,4
+South South,Delta,Okpe,Tier 2,0
+North Central,Benue,Okpokwu,Tier 2,1
+South West,Osun,Ola-Oluwa,Tier 2,6
+North Central,Kogi,Olamaboro,Tier 2,6
+South West,Osun,Olorunda,Tier 2,5
+South West,Oyo,Olorunsogo,Tier 2,8
+South West,Oyo,Oluyole,Tier 2,3
+North Central,Kogi,Omala,Tier 2,6
+South South,Rivers,Omuma,Tier 2,1
+South West,Oyo,Ona Ara,Tier 2,4
+South West,Ondo,Ondo East,Tier 2,0
+South West,Ondo,Ondo West,Tier 2,6
+South South,Ebonyi,Onicha,Tier 2,2
+South East,Anambra,Onitsha North,Tier 2,14
+South East,Anambra,Onitsha South,Tier 2,9
+South South,Akwa-Ibom,Onna,Tier 2,7
+South East,Imo,Onuimo,Tier 2,2
+South South,Rivers,Opobo-Nkoro,Tier 2,0
+South South,Edo,Oredo,Tier 2,5
+South West,Oyo,Orelope,Tier 2,2
+South South,Edo,Orhionmwon,Tier 2,2
+South West,Osun,Ori-Ade,Tier 2,0
+South West,Oyo,Orire,Tier 2,2
+South East,Imo,Orlu,Tier 2,3
+South West,Osun,Orolu,Tier 2,4
+South South,Akwa-Ibom,Oron,Tier 2,1
+South East,Imo,Orsu,Tier 2,8
+South East,Imo,Oru East,Tier 2,1
+South East,Imo,Oru West,Tier 2,10
+South South,Akwa-Ibom,Oruk Anam,Tier 2,9
+South East,Anambra,Orumba North,Tier 2,0
+South East,Anambra,Orumba South,Tier 2,13
+South West,Ondo,Ose,Tier 2,1
+South South,Delta,Oshimili North,Tier 2,2
+South South,Delta,Oshimili South,Tier 2,2
+South West,Lagos,Oshodi-Isolo,Tier 2,13
+South East,Abia,Osisioma,Tier 2,0
+South West,Osun,Osogbo,Tier 2,4
+North Central,Benue,Oturkpo,Tier 2,5
+South South,Edo,Ovia North-East,Tier 2,0
+South South,Edo,Ovia South-West,Tier 2,4
+South South,Edo,Owan East,Tier 2,3
+South South,Edo,Owan West,Tier 2,0
+South East,Imo,Owerri Municipal,Tier 2,12
+South East,Imo,Owerri North,Tier 2,4
+South East,Imo,Owerri West,Tier 2,2
+South West,Ondo,Owo,Tier 2,0
+South West,Ekiti,Oye,Tier 2,4
+South East,Anambra,Oyi,Tier 2,13
+South South,Rivers,Oyigbo,Tier 2,12
+South West,Oyo,Oyo East,Tier 2,1
+South West,Oyo,Oyo West,Tier 2,1
+North Central,Kwara,Oyun,Tier 2,0
+North Central,Niger,Paikoro,Tier 2,6
+North Central,Plateau,Pankshin,Tier 2,1
+South South,Delta,Patani,Tier 2,9
+South South,Rivers,Port Harcourt,Tier 2,4
+North East,Yobe,Potiskum,Tier 2,1
+North Central,Plateau,Quaran Pan,Tier 2,0
+North Central,Niger,Rafi,Tier 2,8
+North West,Kano,Rano,Tier 2,6
+South West,Ogun,Remo North,Tier 2,7
+North West,Katsina,Rimi,Tier 2,8
+North West,Kano,Rimin Gado,Tier 2,7
+North West,Jigawa,Ringim,Tier 2,5
+North Central,Plateau,Riyom,Tier 2,1
+North West,Kano,Rogo,Tier 2,0
+North West,Jigawa,Roni,Tier 2,6
+North West,Kaduna,Sabon Gari,Tier 2,2
+South South,Bayelsa,Sagbama,Tier 2,2
+North West,Kebbi,Sakaba,Tier 2,4
+South West,Oyo,Saki East,Tier 2,4
+South West,Oyo,Saki West,Tier 2,4
+North West,Katsina,Sandamu,Tier 2,4
+North West,Kaduna,Sanga,Tier 2,2
+South South,Delta,Sapele,Tier 2,7
+North East,Taraba,Sardauna,Tier 2,0
+South West,Ogun,Shagamu,Tier 2,9
+North West,Sokoto,Shagari,Tier 2,4
+North West,Kebbi,Shanga,Tier 2,0
+North East,Borno,Shani,Tier 2,3
+North West,Kano,Shanono,Tier 2,5
+North East,Adamawa,Shelleng,Tier 2,5
+North Central,Plateau,Shendam,Tier 2,0
+North East,Bauchi,Shira,Tier 2,8
+North Central,Niger,Shiroro,Tier 2,0
+North East,Gombe,Shongom,Tier 2,8
+North West,Sokoto,Silame,Tier 2,0
+North West,Kaduna,Soba,Tier 2,0
+North West,Sokoto,Sokoto North,Tier 2,1
+North West,Sokoto,Sokoto South,Tier 2,7
+South West,Lagos,Somolu,Tier 2,13
+North East,Adamawa,Song,Tier 2,7
+South South,Bayelsa,Southern Ijaw,Tier 2,0
+North West,Jigawa,Sule Tankarkar,Tier 2,4
+North Central,Niger,Suleja,Tier 2,10
+North West,Kano,Sumaila,Tier 2,5
+North West,Kebbi,Suru,Tier 2,6
+South West,Oyo,Surulere,Tier 2,22
+North Central,Niger,Tafa,Tier 2,0
+North East,Bauchi,Tafawa Balewa,Tier 2,7
+South South,Rivers,Tai,Tier 2,0
+North West,Kano,Takai,Tier 2,1
+North East,Taraba,Takum,Tier 2,1
+North West,Zamfara,Talata-Mafara,Tier 2,3
+North West,Sokoto,Tambuwal,Tier 2,3
+North West,Sokoto,Tangaza,Tier 2,0
+North West,Kano,Tarauni,Tier 2,7
+North Central,Benue,Tarka,Tier 2,0
+North East,Yobe,Tarmuwa,Tier 2,4
+North West,Jigawa,Taura,Tier 2,0
+North West,Kano,Tofa,Tier 2,5
+North East,Bauchi,Toro,Tier 2,2
+North Central,Nasarawa,Toto,Tier 2,8
+North East,Adamawa,Toungo,Tier 2,2
+North West,Zamfara,Tsafe,Tier 2,2
+North West,Kano,Tsanyawa,Tier 2,6
+North West,Kano,Tudun Wada,Tier 2,5
+South East,Enugu,Udenu,Tier 2,13
+South East,Enugu,Udi,Tier 2,7
+South South,Delta,Udu,Tier 2,0
+South South,Akwa-Ibom,Udung-Uko,Tier 2,0
+South South,Delta,Ughelli North,Tier 2,4
+South South,Delta,Ughelli South,Tier 2,1
+South East,Abia,Ugwunagbo,Tier 2,6
+South South,Edo,Uhunmwonde,Tier 2,4
+South South,Akwa-Ibom,Ukanafun,Tier 2,9
+North Central,Benue,Ukum,Tier 2,0
+South East,Abia,Ukwa East,Tier 2,6
+South East,Abia,Ukwa West,Tier 2,6
+South South,Delta,Ukwuani,Tier 2,1
+South East,Abia,Umu Nneochi,Tier 2,0
+South East,Abia,Umuahia North,Tier 2,6
+South East,Abia,Umuahia South,Tier 2,12
+North West,Kano,Ungogo,Tier 2,1
+South South,Akwa-Ibom,Uruan,Tier 2,7
+South South,Akwa-Ibom,Urue-Offong/Oruko,Tier 2,2
+North Central,Benue,Ushongo,Tier 2,2
+North East,Taraba,Ussa,Tier 2,0
+South South,Delta,Uvwie,Tier 2,1
+South South,Akwa-Ibom,Uyo,Tier 2,8
+South East,Enugu,Uzo-Uwani,Tier 2,12
+North Central,Benue,Vandeikya,Tier 2,3
+North West,Sokoto,Wamakko,Tier 2,2
+North Central,Nasarawa,Wamba,Tier 2,8
+North West,Kano,Warawa,Tier 2,6
+North East,Bauchi,Warji,Tier 2,6
+South South,Delta,Warri North,Tier 2,7
+South South,Delta,Warri South,Tier 2,7
+South South,Delta,Warri South West,Tier 2,1
+North Central,Plateau,Wase,Tier 2,0
+North West,Kano,Wudil,Tier 2,4
+North East,Taraba,Wukari,Tier 2,3
+North West,Sokoto,Wurno,Tier 2,0
+North Central,Niger,Wushishi,Tier 2,0
+North West,Sokoto,Yabo,Tier 2,4
+North Central,Kogi,Yagba East,Tier 2,2
+North Central,Kogi,Yagba West,Tier 2,7
+South South,Cross-River,Yakurr,Tier 2,1
+South South,Cross-River,Yala,Tier 2,0
+North East,Gombe,Yamaltu/Deba,Tier 2,5
+North West,Jigawa,Yankwashi,Tier 2,3
+North West,Kebbi,Yauri,Tier 2,0
+South South,Bayelsa,Yenagoa,Tier 2,4
+South West,Ogun,Yewa North,Tier 2,13
+South West,Ogun,Yewa South,Tier 2,15
+North East,Adamawa,Yola North,Tier 2,2
+North East,Adamawa,Yola South,Tier 2,2
+North East,Taraba,Yorro,Tier 2,2
+North East,Yobe,Yunusari,Tier 2,0
+North East,Yobe,Yusufari,Tier 2,5
+North East,Bauchi,Zaki,Tier 2,10
+North West,Katsina,Zango,Tier 2,4
+North West,Kaduna,Zangon Kataf,Tier 2,2
+North West,Kaduna,Zaria,Tier 2,4
+North East,Taraba,Zing,Tier 2,0
+North West,Zamfara,Zurmi,Tier 2,6
+North West,Kebbi,Zuru,Tier 2,1
+North Central,Nasarawa,keana,Tier 2,3
+North Central,Kogi,ogori/magongo,Tier 2,3
+South East,Abia,Aba North,Tier 3,0
+South East,Abia,Aba South,Tier 3,2
+North Central,FCT/Abuja,Abaji,Tier 3,17
+South South,Akwa-Ibom,Abak,Tier 3,0
+South South,Ebonyi,Abakaliki,Tier 3,1
+South West,Ogun,Abeokuta North,Tier 3,8
+South West,Ogun,Abeokuta South,Tier 3,2
+South South,Cross-River,Abi,Tier 3,7
+South East,Imo,Aboh Mbaise,Tier 3,7
+South South,Rivers,Abua-Odual,Tier 3,4
+North Central,FCT/Abuja,Abuja Municipal Area Council,Tier 3,6
+North Central,Kogi,Adavi,Tier 3,4
+North Central,Benue,Ado,Tier 3,8
+South West,Ekiti,Ado Ekiti,Tier 3,1
+South West,Ogun,Ado-Odo/Ota,Tier 3,0
+South West,Oyo,Afijio,Tier 3,1
+South South,Ebonyi,Afikpo,Tier 3,0
+North Central,Niger,Agaie,Tier 3,0
+North Central,Benue,Agatu,Tier 3,0
+South West,Lagos,Agege,Tier 3,15
+South East,Anambra,Aguata,Tier 3,0
+South East,Imo,Ahiazu Mbaise,Tier 3,1
+South South,Rivers,Ahoada East,Tier 3,3
+South South,Rivers,Ahoada West,Tier 3,5
+South West,Osun,Aiyedaade,Tier 3,1
+South West,Osun,Aiyedire,Tier 3,1
+North Central,Kogi,Ajaokuta,Tier 3,2
+South West,Lagos,Ajeromi-Ifelodun,Tier 3,16
+North West,Kano,Ajingi,Tier 3,0
+South South,Cross-River,Akamkpa,Tier 3,0
+South West,Oyo,Akinyele,Tier 3,7
+North East,Gombe,Akko,Tier 3,0
+South West,Ondo,Akoko North-East,Tier 3,2
+South West,Ondo,Akoko North-West,Tier 3,7
+South West,Ondo,Akoko South-East,Tier 3,10
+South West,Ondo,Akoko South-West,Tier 3,9
+South South,Edo,Akoko-Edo,Tier 3,10
+South South,Cross-River,Akpabuyo,Tier 3,2
+South South,Rivers,Akuku Toru,Tier 3,0
+South West,Ondo,Akure North,Tier 3,8
+South West,Ondo,Akure South,Tier 3,9
+North Central,Nasarawa,Akwanga,Tier 3,2
+North West,Kano,Albasu,Tier 3,3
+North West,Kebbi,Aleiro,Tier 3,0
+South West,Lagos,Alimosho,Tier 3,15
+North East,Bauchi,Alkaleri,Tier 3,2
+South West,Lagos,Amuwo-Odofin,Tier 3,15
+South East,Anambra,Anambra East,Tier 3,0
+South East,Anambra,Anambra West,Tier 3,11
+South East,Anambra,Anaocha,Tier 3,0
+South South,Rivers,Andoni,Tier 3,0
+South East,Enugu,Aninri,Tier 3,7
+South South,Delta,Aniocha North,Tier 3,5
+South South,Delta,Aniocha South,Tier 3,6
+North Central,Kogi,Ankpa,Tier 3,7
+North Central,Benue,Apa,Tier 3,0
+South West,Lagos,Apapa,Tier 3,10
+North East,Taraba,Ardo Kola,Tier 3,1
+North West,Kebbi,Arewa,Tier 3,0
+North West,Kebbi,Argungu,Tier 3,2
+South East,Abia,Arochukwu,Tier 3,0
+North Central,Kwara,Asa,Tier 3,0
+South South,Rivers,Asari Toru,Tier 3,0
+North East,Borno,Askira/Uba,Tier 3,0
+South West,Osun,Atakunmosa East,Tier 3,2
+South West,Osun,Atakunmosa West,Tier 3,1
+South West,Oyo,Atiba,Tier 3,4
+South West,Oyo,Atisbo,Tier 3,4
+North West,Kebbi,Augie,Tier 3,0
+North West,Jigawa,Auyo,Tier 3,2
+North Central,Nasarawa,Awe,Tier 3,0
+South East,Enugu,Awgu,Tier 3,0
+South East,Anambra,Awka North,Tier 3,14
+South East,Anambra,Awka South,Tier 3,3
+South East,Anambra,Ayamelum,Tier 3,13
+North West,Jigawa,Babura,Tier 3,0
+South West,Lagos,Badagry,Tier 3,12
+North East,Yobe,Bade,Tier 3,1
+North West,Kebbi,Bagudo,Tier 3,2
+North West,Kano,Bagwai,Tier 3,2
+South South,Cross-River,Bakassi,Tier 3,0
+North West,Katsina,Bakori,Tier 3,0
+North West,Zamfara,Bakuka,Tier 3,0
+North East,Gombe,Balanga,Tier 3,0
+North East,Taraba,Bali,Tier 3,0
+North East,Borno,Bama,Tier 3,5
+North Central,Plateau,Barkin Ladi,Tier 3,4
+North Central,Plateau,Bassa,Tier 3,9
+North West,Katsina,Batagarawa,Tier 3,10
+North East,Bauchi,Bauchi,Tier 3,5
+North West,Katsina,Baure,Tier 3,15
+North East,Borno,Bayo,Tier 3,0
+North West,Kano,Bebeji,Tier 3,0
+South South,Cross-River,Bekwarra,Tier 3,2
+South East,Abia,Bende,Tier 3,0
+South South,Cross-River,Biase,Tier 3,0
+North West,Kano,Bichi,Tier 3,4
+North Central,Niger,Bida,Tier 3,0
+North East,Gombe,Billiri,Tier 3,1
+North West,Katsina,Bindawa,Tier 3,3
+North West,Sokoto,Binji,Tier 3,0
+North West,Kebbi,Birnin Kebbi,Tier 3,1
+North West,Jigawa,Birnin Kudu,Tier 3,3
+North West,Zamfara,Birnin Magaji/Kiyaw,Tier 3,0
+North West,Jigawa,Birniwa,Tier 3,0
+North East,Borno,Biu,Tier 3,1
+North West,Sokoto,Bodinga,Tier 3,0
+North East,Bauchi,Bogoro,Tier 3,3
+South South,Cross-River,Boki,Tier 3,0
+North Central,Plateau,Bokkos,Tier 3,5
+South West,Osun,Boluwaduro,Tier 3,1
+South South,Delta,Bomadi,Tier 3,4
+South South,Rivers,Bonny,Tier 3,8
+North Central,Niger,Borgu,Tier 3,1
+South West,Osun,Boripe,Tier 3,3
+North Central,Niger,Bosso,Tier 3,1
+South South,Bayelsa,Brass,Tier 3,0
+North West,Jigawa,Buji,Tier 3,0
+North West,Zamfara,Bukkuyum,Tier 3,5
+North West,Zamfara,Bungudu,Tier 3,1
+North West,Kano,Bunkure,Tier 3,0
+North West,Kebbi,Bunza,Tier 3,4
+North East,Yobe,Bursari,Tier 3,7
+North Central,Benue,Buruku,Tier 3,2
+South South,Delta,Burutu,Tier 3,0
+North Central,FCT/Abuja,Bwari,Tier 3,5
+South South,Cross-River,Calabar Municipal,Tier 3,4
+South South,Cross-River,Calabar South,Tier 3,2
+North Central,Niger,Chanchaga,Tier 3,5
+North West,Katsina,Charanchi,Tier 3,0
+North East,Borno,Chibok,Tier 3,0
+North West,Kaduna,Chikun,Tier 3,5
+North West,Kano,Dala,Tier 3,3
+North East,Yobe,Damaturu,Tier 3,0
+North East,Bauchi,Damban,Tier 3,0
+North West,Kano,Dambatta,Tier 3,0
+North East,Borno,Damboa,Tier 3,0
+North West,Katsina,Dan Musa,Tier 3,1
+North West,Kebbi,Dandi,Tier 3,5
+North West,Sokoto,Dange Shuni,Tier 3,0
+North West,Katsina,Danja,Tier 3,5
+North West,Kebbi,Danko wasagu,Tier 3,8
+North East,Bauchi,Darazo,Tier 3,4
+North East,Bauchi,Dass,Tier 3,4
+North West,Katsina,Daura,Tier 3,7
+North West,Kano,Dawakin Kudu,Tier 3,1
+North West,Kano,Dawakin Tofa,Tier 3,2
+South South,Rivers,Degema,Tier 3,0
+North Central,Kogi,Dekina,Tier 3,7
+North East,Adamawa,Demsa,Tier 3,8
+North East,Borno,Dikwa,Tier 3,0
+North West,Kano,Doguwa,Tier 3,0
+North Central,Nasarawa,Doma,Tier 3,6
+North East,Taraba,Donga,Tier 3,0
+North East,Gombe,Dukku,Tier 3,2
+South East,Anambra,Dunukofia,Tier 3,3
+North West,Jigawa,Dutse,Tier 3,4
+North West,Katsina,Dutsi,Tier 3,2
+North West,Katsina,Dutsin Ma,Tier 3,0
+South South,Akwa-Ibom,Eastern Obolo,Tier 3,1
+South South,Ebonyi,Ebonyi,Tier 3,2
+North Central,Niger,Edati,Tier 3,0
+South South,Ebonyi,Edda,Tier 3,0
+South West,Osun,Ede North,Tier 3,7
+South West,Osun,Ede South,Tier 3,2
+South West,Ekiti,Efon,Tier 3,0
+South West,Oyo,Egbeda,Tier 3,6
+South West,Osun,Egbedore,Tier 3,6
+South South,Edo,Egor,Tier 3,2
+South East,Imo,Ehime Mbano,Tier 3,0
+South West,Osun,Ejigbo,Tier 3,5
+South South,Bayelsa,Ekeremor,Tier 3,1
+South South,Akwa-Ibom,Eket,Tier 3,1
+North Central,Kwara,Ekiti,Tier 3,1
+South West,Ekiti,Ekiti East,Tier 3,0
+South West,Ekiti,Ekiti South-West,Tier 3,0
+South West,Ekiti,Ekiti West,Tier 3,0
+South East,Anambra,Ekwusigo,Tier 3,14
+South South,Rivers,Eleme,Tier 3,0
+South South,Rivers,Emohua,Tier 3,0
+South West,Ekiti,Emure,Tier 3,0
+South East,Enugu,Enugu East,Tier 3,2
+South East,Enugu,Enugu North,Tier 3,6
+South East,Enugu,Enugu South,Tier 3,0
+South West,Lagos,Epe,Tier 3,10
+South South,Edo,Esan Central,Tier 3,5
+South South,Edo,Esan North-East,Tier 3,10
+South South,Edo,Esan South-East,Tier 3,8
+South South,Edo,Esan West,Tier 3,3
+South West,Ondo,Ese Odo,Tier 3,10
+South South,Akwa-Ibom,Esit Eket,Tier 3,0
+South South,Akwa-Ibom,Essien Udim,Tier 3,0
+South South,Rivers,Etche,Tier 3,4
+South South,Delta,Ethiope East,Tier 3,9
+South South,Delta,Ethiope West,Tier 3,9
+South West,Lagos,Eti-Osa,Tier 3,2
+South South,Akwa-Ibom,Etim Ekpo,Tier 3,5
+South South,Akwa-Ibom,Etinan,Tier 3,1
+South South,Edo,Etsako Central,Tier 3,6
+South South,Edo,Etsako East,Tier 3,2
+South South,Edo,Etsako West,Tier 3,0
+South South,Cross-River,Etung,Tier 3,0
+South West,Ogun,Ewekoro,Tier 3,3
+South East,Enugu,Ezeagu,Tier 3,1
+South East,Imo,Ezinihitte,Tier 3,9
+South South,Ebonyi,Ezza North,Tier 3,0
+South South,Ebonyi,Ezza South,Tier 3,3
+North West,Kano,Fagge,Tier 3,1
+North West,Kebbi,Fakai,Tier 3,0
+North East,Yobe,Fika,Tier 3,7
+North East,Adamawa,Fufure,Tier 3,1
+North East,Gombe,Funakaye,Tier 3,2
+North East,Yobe,Fune,Tier 3,5
+North West,Katsina,Funtua,Tier 3,0
+North West,Kano,Gabasawa,Tier 3,0
+North West,Sokoto,Gada,Tier 3,1
+North West,Jigawa,Gagarawa,Tier 3,0
+North East,Bauchi,Gamawa,Tier 3,0
+North East,Bauchi,Ganjuwa,Tier 3,7
+North East,Adamawa,Ganye,Tier 3,4
+North West,Jigawa,Garki,Tier 3,0
+North West,Kano,Garko,Tier 3,0
+North West,Kano,Garun Mallam,Tier 3,0
+North East,Taraba,Gashaka,Tier 3,0
+North East,Taraba,Gassol,Tier 3,2
+North West,Kano,Gaya,Tier 3,1
+North Central,Niger,Gbako,Tier 3,0
+North Central,Benue,Gboko,Tier 3,8
+South West,Ekiti,Gbonyin,Tier 3,0
+North East,Yobe,Geidam,Tier 3,6
+North West,Kano,Gezawa,Tier 3,0
+North East,Bauchi,Giade,Tier 3,1
+North East,Adamawa,Girei,Tier 3,5
+North West,Kaduna,Giwa,Tier 3,3
+South South,Rivers,Gokana,Tier 3,1
+North East,Gombe,Gombe,Tier 3,1
+North East,Adamawa,Gombi,Tier 3,4
+North West,Sokoto,Goronyo,Tier 3,0
+North East,Borno,Gubio,Tier 3,0
+North West,Sokoto,Gudu,Tier 3,0
+North East,Yobe,Gujba,Tier 3,1
+North East,Yobe,Gulani,Tier 3,0
+North Central,Benue,Guma,Tier 3,3
+North West,Jigawa,Gumel,Tier 3,0
+North West,Zamfara,Gummi,Tier 3,6
+North Central,Niger,Gurara,Tier 3,0
+North West,Jigawa,Guri,Tier 3,1
+North West,Zamfara,Gusau,Tier 3,3
+North East,Adamawa,Guyuk,Tier 3,0
+North West,Sokoto,Gwadabawa,Tier 3,0
+North Central,FCT/Abuja,Gwagwalada,Tier 3,14
+North West,Kano,Gwale,Tier 3,1
+North West,Kebbi,Gwandu,Tier 3,1
+North West,Jigawa,Gwaram,Tier 3,0
+North West,Kano,Gwarzo,Tier 3,3
+North Central,Benue,Gwer East,Tier 3,5
+North Central,Benue,Gwer West,Tier 3,7
+North West,Jigawa,Gwiwa,Tier 3,1
+North East,Borno,Gwoza,Tier 3,0
+North West,Jigawa,Hadejia,Tier 3,0
+North East,Borno,Hawul,Tier 3,0
+North East,Adamawa,Hong,Tier 3,2
+South West,Oyo,Ibadan North,Tier 3,8
+South West,Oyo,Ibadan North-East,Tier 3,0
+South West,Oyo,Ibadan North-West,Tier 3,7
+South West,Oyo,Ibadan South-East,Tier 3,7
+South West,Oyo,Ibadan South-West,Tier 3,9
+North Central,Kogi,Ibaji,Tier 3,7
+South West,Oyo,Ibarapa Central,Tier 3,1
+South West,Oyo,Ibarapa East,Tier 3,0
+South West,Oyo,Ibarapa North,Tier 3,0
+South West,Lagos,Ibeju-Lekki,Tier 3,18
+South South,Akwa-Ibom,Ibeno,Tier 3,1
+South South,Akwa-Ibom,Ibesikpo Asutan,Tier 3,5
+North East,Taraba,Ibi,Tier 3,0
+South South,Akwa-Ibom,Ibiono-Ibom,Tier 3,0
+North Central,Kogi,Idah,Tier 3,1
+South West,Ondo,Idanre,Tier 3,1
+South East,Imo,Ideato North,Tier 3,8
+South East,Imo,Ideato South,Tier 3,1
+South East,Anambra,Idemili North,Tier 3,11
+South East,Anambra,Idemili South,Tier 3,0
+South West,Oyo,Ido,Tier 3,4
+South West,Ekiti,Ido Osi,Tier 3,1
+South West,Lagos,Ifako-Ijaiye,Tier 3,4
+South West,Osun,Ife Central,Tier 3,7
+South West,Osun,Ife East,Tier 3,4
+South West,Osun,Ife North,Tier 3,1
+South West,Osun,Ife South,Tier 3,1
+South West,Osun,Ifedayo,Tier 3,5
+South West,Ondo,Ifedore,Tier 3,9
+South West,Osun,Ifelodun,Tier 3,3
+South West,Ogun,Ifo,Tier 3,7
+North West,Kaduna,Igabi,Tier 3,6
+North Central,Kogi,Igalamela-Odolu,Tier 3,1
+South East,Enugu,Igbo Etiti,Tier 3,2
+South East,Enugu,Igbo Eze North,Tier 3,4
+South East,Enugu,Igbo Eze South,Tier 3,3
+South South,Edo,Igueben,Tier 3,10
+South East,Anambra,Ihiala,Tier 3,1
+South East,Imo,Ihitte/Uboma,Tier 3,9
+South West,Ogun,Ijebu East,Tier 3,9
+South West,Ogun,Ijebu North,Tier 3,10
+South West,Ogun,Ijebu North East,Tier 3,4
+South West,Ogun,Ijebu Ode,Tier 3,4
+South West,Ekiti,Ijero,Tier 3,0
+North Central,Kogi,Ijumu,Tier 3,0
+South South,Akwa-Ibom,Ika,Tier 3,0
+South South,Delta,Ika North East,Tier 3,10
+South South,Delta,Ika South,Tier 3,10
+North West,Kaduna,Ikara,Tier 3,1
+South East,Imo,Ikeduru,Tier 3,2
+South West,Lagos,Ikeja,Tier 3,15
+South West,Ogun,Ikenne,Tier 3,6
+South West,Ekiti,Ikere,Tier 3,0
+South West,Ekiti,Ikole,Tier 3,0
+South South,Cross-River,Ikom,Tier 3,0
+South South,Akwa-Ibom,Ikono,Tier 3,0
+South West,Lagos,Ikorodu,Tier 3,7
+South South,Akwa-Ibom,Ikot Abasi (village),Tier 3,7
+South South,Akwa-Ibom,Ikot Ekpene,Tier 3,4
+South South,Edo,Ikpoba Okha,Tier 3,5
+South South,Rivers,Ikwerre,Tier 3,0
+South South,Ebonyi,Ikwo,Tier 3,0
+South East,Abia,Ikwuano,Tier 3,3
+South West,Osun,Ila,Tier 3,5
+South West,Ondo,Ilaje,Tier 3,3
+South West,Ondo,Ile-Oluji/Okeigbo,Tier 3,8
+South West,Ekiti,Ilejemeje,Tier 3,0
+South West,Osun,Ilesa East,Tier 3,2
+South West,Osun,Ilesa West,Tier 3,5
+North West,Sokoto,Illela,Tier 3,0
+North Central,Kwara,Ilorin East,Tier 3,5
+North Central,Kwara,Ilorin West,Tier 3,6
+South West,Ogun,Imeko Afon,Tier 3,2
+North West,Kebbi,Ingaski,Tier 3,0
+North West,Katsina,Ingawa,Tier 3,1
+South South,Akwa-Ibom,Ini,Tier 3,0
+South West,Ogun,Ipokia,Tier 3,9
+South West,Ondo,Irele,Tier 3,9
+South West,Oyo,Irepo,Tier 3,0
+South West,Osun,Irepodun,Tier 3,6
+South West,Ekiti,Irepodun/Ifelodun,Tier 3,0
+South West,Osun,Irewole,Tier 3,3
+South West,Ekiti,Ise/Orun,Tier 3,1
+South West,Oyo,Iseyin,Tier 3,5
+South South,Ebonyi,Ishielu,Tier 3,4
+South East,Enugu,Isi Uzo,Tier 3,4
+South East,Imo,Isiala Mbano,Tier 3,1
+South East,Abia,Isiala Ngwa North,Tier 3,6
+South East,Abia,Isiala Ngwa South,Tier 3,0
+North Central,Kwara,Isin,Tier 3,11
+South West,Osun,Isokan,Tier 3,4
+South South,Delta,Isoko North,Tier 3,11
+South South,Delta,Isoko South,Tier 3,9
+South East,Imo,Isu,Tier 3,0
+South East,Abia,Isuikwuato,Tier 3,0
+North East,Bauchi,Itas/Gadau,Tier 3,5
+South West,Oyo,Itesiwaju,Tier 3,3
+South South,Akwa-Ibom,Itu,Tier 3,0
+South South,Ebonyi,Ivo,Tier 3,0
+South West,Oyo,Iwajowa,Tier 3,1
+South West,Osun,Iwo,Tier 3,4
+South South,Ebonyi,Izzi,Tier 3,0
+North West,Kaduna,Jaba,Tier 3,4
+North East,Adamawa,Jada,Tier 3,3
+North West,Jigawa,Jahun,Tier 3,0
+North East,Yobe,Jakusko,Tier 3,5
+North East,Taraba,Jalingo,Tier 3,1
+North East,Bauchi,Jama'are,Tier 3,0
+North West,Kebbi,Jega,Tier 3,3
+North West,Kaduna,Jema'a,Tier 3,1
+North East,Borno,Jere,Tier 3,3
+North Central,Plateau,Jos East,Tier 3,3
+North Central,Plateau,Jos North,Tier 3,6
+North Central,Plateau,Jos South,Tier 3,5
+North Central,Kogi,Kabba/Bunu,Tier 3,7
+North West,Kano,Kabo,Tier 3,1
+North West,Kaduna,Kachia,Tier 3,3
+North West,Kaduna,Kaduna North,Tier 3,10
+North West,Kaduna,Kaduna South,Tier 3,3
+North West,Jigawa,Kafin Hausa,Tier 3,0
+North West,Katsina,Kafur,Tier 3,1
+North East,Borno,Kaga,Tier 3,0
+North West,Kaduna,Kagarko,Tier 3,0
+North West,Katsina,Kaita,Tier 3,0
+South West,Oyo,Kajola,Tier 3,2
+North West,Kaduna,Kajuru,Tier 3,3
+North West,Kebbi,Kalgo,Tier 3,4
+North East,Gombe,Kaltungo,Tier 3,0
+North Central,Plateau,Kanam,Tier 3,0
+North Central,Plateau,Kanke,Tier 3,0
+North West,Katsina,Kankia,Tier 3,1
+North West,Kano,Kano Municipal,Tier 3,1
+North East,Yobe,Karasuwa,Tier 3,0
+North West,Kano,Karaye,Tier 3,0
+North East,Taraba,Karim Lamido,Tier 3,0
+North Central,Nasarawa,Karu,Tier 3,5
+North East,Bauchi,Katagum,Tier 3,0
+North Central,Niger,Katcha,Tier 3,5
+North West,Katsina,Katsina,Tier 3,1
+North Central,Benue,Katsina-Ala,Tier 3,2
+North West,Jigawa,Kaugama,Tier 3,1
+North West,Kaduna,Kaura,Tier 3,3
+North West,Zamfara,Kaura-Namoda,Tier 3,1
+North West,Kaduna,Kauru,Tier 3,3
+North West,Jigawa,Kazaure,Tier 3,0
+North West,Sokoto,Kebbe,Tier 3,0
+North Central,Nasarawa,Keffi,Tier 3,5
+South South,Rivers,Khana,Tier 3,1
+North West,Kano,Kibiya,Tier 3,2
+North East,Bauchi,Kirfi,Tier 3,6
+North West,Jigawa,Kiri Kasama,Tier 3,1
+North West,Kano,Kiru,Tier 3,2
+North West,Jigawa,Kiyawa,Tier 3,0
+North West,Kebbi,Koko,Tier 3,6
+North Central,Nasarawa,Kokona,Tier 3,1
+South South,Bayelsa,Kolokuma/Opokuma,Tier 3,1
+North East,Borno,Konduga,Tier 3,0
+North Central,Benue,Konshisha,Tier 3,6
+North Central,Niger,Kontagora,Tier 3,0
+South West,Lagos,Kosofe,Tier 3,0
+North Central,Kogi,Koton karfe,Tier 3,4
+North West,Kaduna,Kubau,Tier 3,0
+North West,Kaduna,Kudan,Tier 3,5
+North Central,FCT/Abuja,Kuje,Tier 3,12
+North West,Kano,Kumbotso,Tier 3,5
+North West,Kano,Kunchi,Tier 3,4
+North West,Kano,Kura,Tier 3,3
+North West,Katsina,Kurfi,Tier 3,0
+North East,Taraba,Kurmi,Tier 3,0
+North West,Katsina,Kusada,Tier 3,5
+North Central,FCT/Abuja,Kwali,Tier 3,12
+North East,Gombe,Kwami,Tier 3,1
+North Central,Benue,Kwande,Tier 3,6
+North West,Sokoto,Kware,Tier 3,0
+North East,Borno,Kwaya Kusar,Tier 3,0
+North Central,Nasarawa,Lafia,Tier 3,2
+South West,Oyo,Lagelu,Tier 3,6
+South West,Lagos,Lagos Island,Tier 3,4
+South West,Lagos,Lagos Mainland,Tier 3,6
+North East,Adamawa,Lamurde,Tier 3,0
+North Central,Plateau,Langtang North,Tier 3,2
+North Central,Plateau,Langtang South,Tier 3,0
+North Central,Niger,Lapai,Tier 3,0
+North Central,Kwara,Latiagi,Tier 3,10
+North East,Taraba,Lau,Tier 3,0
+North Central,Niger,Lavun,Tier 3,1
+North West,Kaduna,Lere,Tier 3,0
+North Central,Benue,Logo,Tier 3,5
+North Central,Kogi,Lokoja,Tier 3,3
+North East,Yobe,Machina,Tier 3,4
+North East,Adamawa,Madagali,Tier 3,0
+North West,Kano,Madobi,Tier 3,0
+North East,Borno,Mafa,Tier 3,4
+North Central,Niger,Magama,Tier 3,0
+North East,Borno,Magumeri,Tier 3,0
+North West,Katsina,Mai'Adua,Tier 3,6
+North East,Borno,Maiduguri,Tier 3,9
+North West,Jigawa,Maigatari,Tier 3,1
+North East,Adamawa,Maiha,Tier 3,0
+North West,Kebbi,Maiyama,Tier 3,0
+North West,Kaduna,Makarfi,Tier 3,3
+North West,Kano,Makoda,Tier 3,4
+North Central,Benue,Makurdi,Tier 3,8
+North West,Jigawa,Malam Madori,Tier 3,0
+North West,Katsina,Malumfashi,Tier 3,0
+North Central,Plateau,Mangu,Tier 3,2
+North West,Katsina,Mani,Tier 3,0
+North West,Zamfara,Maradun,Tier 3,0
+North Central,Niger,Mariga,Tier 3,0
+North West,Zamfara,Maru,Tier 3,0
+North Central,Niger,Mashegu,Tier 3,0
+North West,Katsina,Mashi,Tier 3,5
+North East,Adamawa,Mayo Belwa,Tier 3,1
+South East,Imo,Mbaitoli,Tier 3,0
+South South,Akwa-Ibom,Mbo,Tier 3,2
+North East,Adamawa,Michika,Tier 3,0
+North West,Jigawa,Miga,Tier 3,2
+North Central,Plateau,Mikang,Tier 3,0
+North West,Kano,Minjibir,Tier 3,4
+North East,Bauchi,Misau,Tier 3,3
+South South,Akwa-Ibom,Mkpat-Enin,Tier 3,4
+South West,Ekiti,Moba,Tier 3,0
+North Central,Niger,Mokwa,Tier 3,0
+North Central,Kogi,Mopa-Muro,Tier 3,1
+North Central,Kwara,Moro,Tier 3,4
+North East,Adamawa,Mubi North,Tier 3,1
+North East,Adamawa,Mubi South,Tier 3,2
+North Central,Niger,Munya,Tier 3,6
+South West,Lagos,Mushin,Tier 3,5
+North East,Gombe,Nafada,Tier 3,0
+North East,Yobe,Nangere,Tier 3,4
+North West,Kano,Nasarawa,Tier 3,9
+North Central,Nasarawa,Nasarawa Eggon,Tier 3,2
+South South,Delta,Ndokwa East,Tier 3,9
+South South,Delta,Ndokwa West,Tier 3,6
+South South,Bayelsa,Nembe,Tier 3,2
+North East,Borno,Nganzai,Tier 3,0
+South East,Imo,Ngor Okpala,Tier 3,10
+North East,Yobe,Nguru,Tier 3,1
+North East,Bauchi,Ningi,Tier 3,6
+South East,Imo,Njaba,Tier 3,7
+South East,Anambra,Njikoka,Tier 3,2
+South East,Enugu,Nkanu East,Tier 3,3
+South East,Enugu,Nkanu West,Tier 3,0
+South East,Imo,Nkwerre,Tier 3,6
+South East,Anambra,Nnewi North,Tier 3,0
+South East,Anambra,Nnewi South,Tier 3,0
+South South,Akwa-Ibom,Nsit-Atai,Tier 3,4
+South South,Akwa-Ibom,Nsit-Ibom,Tier 3,1
+South South,Akwa-Ibom,Nsit-Ubium,Tier 3,0
+South East,Enugu,Nsukka,Tier 3,4
+North East,Adamawa,Numan,Tier 3,5
+South East,Imo,Nwangele,Tier 3,2
+South West,Ogun,Obafemi Owode,Tier 3,2
+South South,Cross-River,Obanliku,Tier 3,1
+North Central,Nasarawa,Obi,Tier 3,5
+South East,Abia,Obi Ngwa,Tier 3,0
+South South,Rivers,Obio-Akpor,Tier 3,4
+South West,Osun,Obokun,Tier 3,2
+South South,Akwa-Ibom,Obot Akara,Tier 3,0
+South East,Imo,Obowo,Tier 3,1
+South South,Cross-River,Obubra,Tier 3,10
+South South,Cross-River,Obudu,Tier 3,2
+South West,Ogun,Odeda,Tier 3,5
+South West,Ondo,Odigbo,Tier 3,4
+South West,Osun,Odo-Otin,Tier 3,0
+South West,Ogun,Odogbolu,Tier 3,3
+South South,Cross-River,Odukpani,Tier 3,1
+North Central,Kwara,Offa,Tier 3,11
+North Central,Kogi,Ofu,Tier 3,0
+South South,Rivers,Ogba-Egbema-Ndoni,Tier 3,0
+North Central,Benue,Ogbadibo,Tier 3,7
+South East,Anambra,Ogbaru,Tier 3,1
+South South,Bayelsa,Ogbia,Tier 3,2
+South West,Oyo,Ogbomosho North,Tier 3,9
+South West,Oyo,Ogbomosho South,Tier 3,8
+South West,Oyo,Ogo Oluwa,Tier 3,7
+South South,Cross-River,Ogoja,Tier 3,0
+South South,Rivers,Ogu-Bolo,Tier 3,0
+South West,Ogun,Ogun Waterside,Tier 3,3
+South East,Imo,Oguta,Tier 3,0
+South East,Abia,Ohafia,Tier 3,0
+South East,Imo,Ohaji/Egbema,Tier 3,4
+South South,Ebonyi,Ohaozara,Tier 3,0
+South South,Ebonyi,Ohaukwu,Tier 3,0
+North Central,Benue,Ohimini,Tier 3,3
+South East,Enugu,Oji River,Tier 3,0
+South West,Lagos,Ojo,Tier 3,13
+North Central,Benue,Oju,Tier 3,8
+North Central,Kwara,Oke Ero,Tier 3,17
+North Central,Kogi,Okehi,Tier 3,6
+North Central,Kogi,Okene,Tier 3,5
+South East,Imo,Okigwe,Tier 3,8
+South South,Rivers,Okirika,Tier 3,1
+South West,Ondo,Okitipupa,Tier 3,9
+South South,Akwa-Ibom,Okobo,Tier 3,2
+South South,Delta,Okpe,Tier 3,2
+North Central,Benue,Okpokwu,Tier 3,0
+South West,Osun,Ola-Oluwa,Tier 3,2
+North Central,Kogi,Olamaboro,Tier 3,0
+South West,Osun,Olorunda,Tier 3,3
+South West,Oyo,Olorunsogo,Tier 3,0
+South West,Oyo,Oluyole,Tier 3,4
+North Central,Kogi,Omala,Tier 3,0
+South South,Rivers,Omuma,Tier 3,11
+South West,Oyo,Ona Ara,Tier 3,4
+South West,Ondo,Ondo East,Tier 3,1
+South West,Ondo,Ondo West,Tier 3,4
+South South,Ebonyi,Onicha,Tier 3,4
+South East,Anambra,Onitsha North,Tier 3,0
+South East,Anambra,Onitsha South,Tier 3,0
+South South,Akwa-Ibom,Onna,Tier 3,2
+South East,Imo,Onuimo,Tier 3,7
+South South,Rivers,Opobo-Nkoro,Tier 3,0
+South South,Edo,Oredo,Tier 3,5
+South West,Oyo,Orelope,Tier 3,7
+South South,Edo,Orhionmwon,Tier 3,8
+South West,Osun,Ori-Ade,Tier 3,2
+South West,Oyo,Orire,Tier 3,7
+South East,Imo,Orlu,Tier 3,5
+South West,Osun,Orolu,Tier 3,4
+South South,Akwa-Ibom,Oron,Tier 3,1
+South East,Imo,Orsu,Tier 3,2
+South East,Imo,Oru East,Tier 3,10
+South East,Imo,Oru West,Tier 3,0
+South South,Akwa-Ibom,Oruk Anam,Tier 3,0
+South East,Anambra,Orumba North,Tier 3,13
+South East,Anambra,Orumba South,Tier 3,1
+South West,Ondo,Ose,Tier 3,10
+South South,Delta,Oshimili North,Tier 3,2
+South South,Delta,Oshimili South,Tier 3,3
+South West,Lagos,Oshodi-Isolo,Tier 3,11
+South East,Abia,Osisioma,Tier 3,0
+South West,Osun,Osogbo,Tier 3,4
+North Central,Benue,Oturkpo,Tier 3,4
+South South,Edo,Ovia North-East,Tier 3,10
+South South,Edo,Ovia South-West,Tier 3,6
+South South,Edo,Owan East,Tier 3,7
+South South,Edo,Owan West,Tier 3,7
+South East,Imo,Owerri Municipal,Tier 3,0
+South East,Imo,Owerri North,Tier 3,3
+South East,Imo,Owerri West,Tier 3,4
+South West,Ondo,Owo,Tier 3,2
+South West,Ekiti,Oye,Tier 3,0
+South East,Anambra,Oyi,Tier 3,0
+South South,Rivers,Oyigbo,Tier 3,0
+South West,Oyo,Oyo East,Tier 3,8
+South West,Oyo,Oyo West,Tier 3,8
+North Central,Kwara,Oyun,Tier 3,4
+North Central,Niger,Paikoro,Tier 3,1
+North Central,Plateau,Pankshin,Tier 3,1
+South South,Delta,Patani,Tier 3,6
+South South,Rivers,Port Harcourt,Tier 3,8
+North East,Yobe,Potiskum,Tier 3,5
+North Central,Plateau,Quaran Pan,Tier 3,0
+North Central,Niger,Rafi,Tier 3,0
+North West,Kano,Rano,Tier 3,0
+South West,Ogun,Remo North,Tier 3,1
+North West,Katsina,Rimi,Tier 3,0
+North West,Kano,Rimin Gado,Tier 3,0
+North West,Jigawa,Ringim,Tier 3,1
+North Central,Plateau,Riyom,Tier 3,1
+North West,Kano,Rogo,Tier 3,4
+North West,Jigawa,Roni,Tier 3,0
+North West,Kaduna,Sabon Gari,Tier 3,1
+South South,Bayelsa,Sagbama,Tier 3,1
+North West,Kebbi,Sakaba,Tier 3,5
+South West,Oyo,Saki East,Tier 3,7
+South West,Oyo,Saki West,Tier 3,6
+North West,Katsina,Sandamu,Tier 3,4
+North West,Kaduna,Sanga,Tier 3,8
+South South,Delta,Sapele,Tier 3,0
+North East,Taraba,Sardauna,Tier 3,0
+South West,Ogun,Shagamu,Tier 3,1
+North West,Sokoto,Shagari,Tier 3,1
+North West,Kebbi,Shanga,Tier 3,5
+North East,Borno,Shani,Tier 3,2
+North West,Kano,Shanono,Tier 3,1
+North East,Adamawa,Shelleng,Tier 3,1
+North Central,Plateau,Shendam,Tier 3,0
+North East,Bauchi,Shira,Tier 3,2
+North Central,Niger,Shiroro,Tier 3,4
+North East,Gombe,Shongom,Tier 3,1
+North West,Sokoto,Silame,Tier 3,0
+North West,Kaduna,Soba,Tier 3,0
+North West,Sokoto,Sokoto North,Tier 3,0
+North West,Sokoto,Sokoto South,Tier 3,7
+South West,Lagos,Somolu,Tier 3,6
+North East,Adamawa,Song,Tier 3,0
+South South,Bayelsa,Southern Ijaw,Tier 3,0
+North West,Jigawa,Sule Tankarkar,Tier 3,0
+North Central,Niger,Suleja,Tier 3,3
+North West,Kano,Sumaila,Tier 3,2
+North West,Kebbi,Suru,Tier 3,1
+South West,Oyo,Surulere,Tier 3,16
+North Central,Niger,Tafa,Tier 3,4
+North East,Bauchi,Tafawa Balewa,Tier 3,2
+South South,Rivers,Tai,Tier 3,1
+North West,Kano,Takai,Tier 3,1
+North East,Taraba,Takum,Tier 3,2
+North West,Zamfara,Talata-Mafara,Tier 3,1
+North West,Sokoto,Tambuwal,Tier 3,2
+North West,Sokoto,Tangaza,Tier 3,0
+North West,Kano,Tarauni,Tier 3,0
+North Central,Benue,Tarka,Tier 3,2
+North East,Yobe,Tarmuwa,Tier 3,1
+North West,Jigawa,Taura,Tier 3,0
+North West,Kano,Tofa,Tier 3,2
+North East,Bauchi,Toro,Tier 3,6
+North Central,Nasarawa,Toto,Tier 3,0
+North East,Adamawa,Toungo,Tier 3,6
+North West,Zamfara,Tsafe,Tier 3,1
+North West,Kano,Tsanyawa,Tier 3,1
+North West,Kano,Tudun Wada,Tier 3,2
+South East,Enugu,Udenu,Tier 3,0
+South East,Enugu,Udi,Tier 3,4
+South South,Delta,Udu,Tier 3,11
+South South,Akwa-Ibom,Udung-Uko,Tier 3,3
+South South,Delta,Ughelli North,Tier 3,4
+South South,Delta,Ughelli South,Tier 3,5
+South East,Abia,Ugwunagbo,Tier 3,4
+South South,Edo,Uhunmwonde,Tier 3,4
+South South,Akwa-Ibom,Ukanafun,Tier 3,1
+North Central,Benue,Ukum,Tier 3,8
+South East,Abia,Ukwa East,Tier 3,2
+South East,Abia,Ukwa West,Tier 3,6
+South South,Delta,Ukwuani,Tier 3,7
+South East,Abia,Umu Nneochi,Tier 3,0
+South East,Abia,Umuahia North,Tier 3,2
+South East,Abia,Umuahia South,Tier 3,1
+North West,Kano,Ungogo,Tier 3,1
+South South,Akwa-Ibom,Uruan,Tier 3,1
+South South,Akwa-Ibom,Urue-Offong/Oruko,Tier 3,2
+North Central,Benue,Ushongo,Tier 3,3
+North East,Taraba,Ussa,Tier 3,0
+South South,Delta,Uvwie,Tier 3,9
+South South,Akwa-Ibom,Uyo,Tier 3,7
+South East,Enugu,Uzo-Uwani,Tier 3,12
+North Central,Benue,Vandeikya,Tier 3,6
+North West,Sokoto,Wamakko,Tier 3,1
+North Central,Nasarawa,Wamba,Tier 3,1
+North West,Kano,Warawa,Tier 3,1
+North East,Bauchi,Warji,Tier 3,4
+South South,Delta,Warri North,Tier 3,7
+South South,Delta,Warri South,Tier 3,1
+South South,Delta,Warri South West,Tier 3,0
+North Central,Plateau,Wase,Tier 3,3
+North West,Kano,Wudil,Tier 3,2
+North East,Taraba,Wukari,Tier 3,6
+North West,Sokoto,Wurno,Tier 3,0
+North Central,Niger,Wushishi,Tier 3,0
+North West,Sokoto,Yabo,Tier 3,1
+North Central,Kogi,Yagba East,Tier 3,2
+North Central,Kogi,Yagba West,Tier 3,0
+South South,Cross-River,Yakurr,Tier 3,3
+South South,Cross-River,Yala,Tier 3,1
+North East,Gombe,Yamaltu/Deba,Tier 3,5
+North West,Jigawa,Yankwashi,Tier 3,1
+North West,Kebbi,Yauri,Tier 3,3
+South South,Bayelsa,Yenagoa,Tier 3,3
+South West,Ogun,Yewa North,Tier 3,0
+South West,Ogun,Yewa South,Tier 3,0
+North East,Adamawa,Yola North,Tier 3,4
+North East,Adamawa,Yola South,Tier 3,5
+North East,Taraba,Yorro,Tier 3,0
+North East,Yobe,Yunusari,Tier 3,5
+North East,Yobe,Yusufari,Tier 3,1
+North East,Bauchi,Zaki,Tier 3,0
+North West,Katsina,Zango,Tier 3,0
+North West,Kaduna,Zangon Kataf,Tier 3,6
+North West,Kaduna,Zaria,Tier 3,5
+North East,Taraba,Zing,Tier 3,3
+North West,Zamfara,Zurmi,Tier 3,3
+North West,Kebbi,Zuru,Tier 3,7
+North Central,Nasarawa,keana,Tier 3,4
+North Central,Kogi,ogori/magongo,Tier 3,4
+South East,Abia,Aba North,Tier 4,12
+South East,Abia,Aba South,Tier 4,10
+North Central,FCT/Abuja,Abaji,Tier 4,12
+South South,Akwa-Ibom,Abak,Tier 4,1
+South South,Ebonyi,Abakaliki,Tier 4,3
+South West,Ogun,Abeokuta North,Tier 4,0
+South West,Ogun,Abeokuta South,Tier 4,0
+South South,Cross-River,Abi,Tier 4,1
+South East,Imo,Aboh Mbaise,Tier 4,0
+South South,Rivers,Abua-Odual,Tier 4,0
+North Central,FCT/Abuja,Abuja Municipal Area Council,Tier 4,11
+North Central,Kogi,Adavi,Tier 4,0
+North Central,Benue,Ado,Tier 4,1
+South West,Ekiti,Ado Ekiti,Tier 4,0
+South West,Ogun,Ado-Odo/Ota,Tier 4,0
+South West,Oyo,Afijio,Tier 4,0
+South South,Ebonyi,Afikpo,Tier 4,0
+North Central,Niger,Agaie,Tier 4,0
+North Central,Benue,Agatu,Tier 4,1
+South West,Lagos,Agege,Tier 4,9
+South East,Anambra,Aguata,Tier 4,0
+South East,Imo,Ahiazu Mbaise,Tier 4,1
+South South,Rivers,Ahoada East,Tier 4,1
+South South,Rivers,Ahoada West,Tier 4,4
+South West,Osun,Aiyedaade,Tier 4,1
+South West,Osun,Aiyedire,Tier 4,0
+North Central,Kogi,Ajaokuta,Tier 4,4
+South West,Lagos,Ajeromi-Ifelodun,Tier 4,8
+North West,Kano,Ajingi,Tier 4,0
+South South,Cross-River,Akamkpa,Tier 4,0
+South West,Oyo,Akinyele,Tier 4,0
+North East,Gombe,Akko,Tier 4,0
+South West,Ondo,Akoko North-East,Tier 4,2
+South West,Ondo,Akoko North-West,Tier 4,2
+South West,Ondo,Akoko South-East,Tier 4,2
+South West,Ondo,Akoko South-West,Tier 4,2
+South South,Edo,Akoko-Edo,Tier 4,0
+South South,Cross-River,Akpabuyo,Tier 4,2
+South South,Rivers,Akuku Toru,Tier 4,8
+South West,Ondo,Akure North,Tier 4,3
+South West,Ondo,Akure South,Tier 4,0
+North Central,Nasarawa,Akwanga,Tier 4,0
+North West,Kano,Albasu,Tier 4,4
+North West,Kebbi,Aleiro,Tier 4,0
+South West,Lagos,Alimosho,Tier 4,6
+North East,Bauchi,Alkaleri,Tier 4,0
+South West,Lagos,Amuwo-Odofin,Tier 4,6
+South East,Anambra,Anambra East,Tier 4,0
+South East,Anambra,Anambra West,Tier 4,0
+South East,Anambra,Anaocha,Tier 4,6
+South South,Rivers,Andoni,Tier 4,0
+South East,Enugu,Aninri,Tier 4,1
+South South,Delta,Aniocha North,Tier 4,2
+South South,Delta,Aniocha South,Tier 4,4
+North Central,Kogi,Ankpa,Tier 4,1
+North Central,Benue,Apa,Tier 4,3
+South West,Lagos,Apapa,Tier 4,9
+North East,Taraba,Ardo Kola,Tier 4,0
+North West,Kebbi,Arewa,Tier 4,0
+North West,Kebbi,Argungu,Tier 4,0
+South East,Abia,Arochukwu,Tier 4,0
+North Central,Kwara,Asa,Tier 4,1
+South South,Rivers,Asari Toru,Tier 4,1
+North East,Borno,Askira/Uba,Tier 4,2
+South West,Osun,Atakunmosa East,Tier 4,6
+South West,Osun,Atakunmosa West,Tier 4,7
+South West,Oyo,Atiba,Tier 4,0
+South West,Oyo,Atisbo,Tier 4,0
+North West,Kebbi,Augie,Tier 4,0
+North West,Jigawa,Auyo,Tier 4,1
+North Central,Nasarawa,Awe,Tier 4,1
+South East,Enugu,Awgu,Tier 4,4
+South East,Anambra,Awka North,Tier 4,0
+South East,Anambra,Awka South,Tier 4,0
+South East,Anambra,Ayamelum,Tier 4,0
+North West,Jigawa,Babura,Tier 4,0
+South West,Lagos,Badagry,Tier 4,3
+North East,Yobe,Bade,Tier 4,0
+North West,Kebbi,Bagudo,Tier 4,0
+North West,Kano,Bagwai,Tier 4,3
+South South,Cross-River,Bakassi,Tier 4,0
+North West,Katsina,Bakori,Tier 4,0
+North West,Zamfara,Bakuka,Tier 4,0
+North East,Gombe,Balanga,Tier 4,0
+North East,Taraba,Bali,Tier 4,0
+North East,Borno,Bama,Tier 4,0
+North Central,Plateau,Barkin Ladi,Tier 4,2
+North Central,Plateau,Bassa,Tier 4,2
+North West,Katsina,Batagarawa,Tier 4,0
+North East,Bauchi,Bauchi,Tier 4,0
+North West,Katsina,Baure,Tier 4,0
+North East,Borno,Bayo,Tier 4,0
+North West,Kano,Bebeji,Tier 4,0
+South South,Cross-River,Bekwarra,Tier 4,1
+South East,Abia,Bende,Tier 4,1
+South South,Cross-River,Biase,Tier 4,0
+North West,Kano,Bichi,Tier 4,0
+North Central,Niger,Bida,Tier 4,0
+North East,Gombe,Billiri,Tier 4,0
+North West,Katsina,Bindawa,Tier 4,0
+North West,Sokoto,Binji,Tier 4,1
+North West,Kebbi,Birnin Kebbi,Tier 4,1
+North West,Jigawa,Birnin Kudu,Tier 4,0
+North West,Zamfara,Birnin Magaji/Kiyaw,Tier 4,0
+North West,Jigawa,Birniwa,Tier 4,0
+North East,Borno,Biu,Tier 4,3
+North West,Sokoto,Bodinga,Tier 4,0
+North East,Bauchi,Bogoro,Tier 4,1
+South South,Cross-River,Boki,Tier 4,0
+North Central,Plateau,Bokkos,Tier 4,1
+South West,Osun,Boluwaduro,Tier 4,0
+South South,Delta,Bomadi,Tier 4,2
+South South,Rivers,Bonny,Tier 4,7
+North Central,Niger,Borgu,Tier 4,0
+South West,Osun,Boripe,Tier 4,0
+North Central,Niger,Bosso,Tier 4,0
+South South,Bayelsa,Brass,Tier 4,0
+North West,Jigawa,Buji,Tier 4,0
+North West,Zamfara,Bukkuyum,Tier 4,4
+North West,Zamfara,Bungudu,Tier 4,0
+North West,Kano,Bunkure,Tier 4,0
+North West,Kebbi,Bunza,Tier 4,0
+North East,Yobe,Bursari,Tier 4,0
+North Central,Benue,Buruku,Tier 4,1
+South South,Delta,Burutu,Tier 4,0
+North Central,FCT/Abuja,Bwari,Tier 4,4
+South South,Cross-River,Calabar Municipal,Tier 4,1
+South South,Cross-River,Calabar South,Tier 4,1
+North Central,Niger,Chanchaga,Tier 4,5
+North West,Katsina,Charanchi,Tier 4,0
+North East,Borno,Chibok,Tier 4,0
+North West,Kaduna,Chikun,Tier 4,2
+North West,Kano,Dala,Tier 4,1
+North East,Yobe,Damaturu,Tier 4,2
+North East,Bauchi,Damban,Tier 4,0
+North West,Kano,Dambatta,Tier 4,0
+North East,Borno,Damboa,Tier 4,0
+North West,Katsina,Dan Musa,Tier 4,1
+North West,Kebbi,Dandi,Tier 4,0
+North West,Sokoto,Dange Shuni,Tier 4,0
+North West,Katsina,Danja,Tier 4,1
+North West,Kebbi,Danko wasagu,Tier 4,0
+North East,Bauchi,Darazo,Tier 4,1
+North East,Bauchi,Dass,Tier 4,1
+North West,Katsina,Daura,Tier 4,1
+North West,Kano,Dawakin Kudu,Tier 4,0
+North West,Kano,Dawakin Tofa,Tier 4,0
+South South,Rivers,Degema,Tier 4,0
+North Central,Kogi,Dekina,Tier 4,0
+North East,Adamawa,Demsa,Tier 4,0
+North East,Borno,Dikwa,Tier 4,0
+North West,Kano,Doguwa,Tier 4,0
+North Central,Nasarawa,Doma,Tier 4,0
+North East,Taraba,Donga,Tier 4,0
+North East,Gombe,Dukku,Tier 4,3
+South East,Anambra,Dunukofia,Tier 4,0
+North West,Jigawa,Dutse,Tier 4,0
+North West,Katsina,Dutsi,Tier 4,0
+North West,Katsina,Dutsin Ma,Tier 4,0
+South South,Akwa-Ibom,Eastern Obolo,Tier 4,0
+South South,Ebonyi,Ebonyi,Tier 4,1
+North Central,Niger,Edati,Tier 4,0
+South South,Ebonyi,Edda,Tier 4,0
+South West,Osun,Ede North,Tier 4,0
+South West,Osun,Ede South,Tier 4,0
+South West,Ekiti,Efon,Tier 4,0
+South West,Oyo,Egbeda,Tier 4,0
+South West,Osun,Egbedore,Tier 4,1
+South South,Edo,Egor,Tier 4,2
+South East,Imo,Ehime Mbano,Tier 4,0
+South West,Osun,Ejigbo,Tier 4,0
+South South,Bayelsa,Ekeremor,Tier 4,0
+South South,Akwa-Ibom,Eket,Tier 4,0
+North Central,Kwara,Ekiti,Tier 4,9
+South West,Ekiti,Ekiti East,Tier 4,0
+South West,Ekiti,Ekiti South-West,Tier 4,0
+South West,Ekiti,Ekiti West,Tier 4,0
+South East,Anambra,Ekwusigo,Tier 4,0
+South South,Rivers,Eleme,Tier 4,0
+South South,Rivers,Emohua,Tier 4,1
+South West,Ekiti,Emure,Tier 4,0
+South East,Enugu,Enugu East,Tier 4,5
+South East,Enugu,Enugu North,Tier 4,4
+South East,Enugu,Enugu South,Tier 4,12
+South West,Lagos,Epe,Tier 4,1
+South South,Edo,Esan Central,Tier 4,1
+South South,Edo,Esan North-East,Tier 4,0
+South South,Edo,Esan South-East,Tier 4,0
+South South,Edo,Esan West,Tier 4,0
+South West,Ondo,Ese Odo,Tier 4,1
+South South,Akwa-Ibom,Esit Eket,Tier 4,0
+South South,Akwa-Ibom,Essien Udim,Tier 4,0
+South South,Rivers,Etche,Tier 4,0
+South South,Delta,Ethiope East,Tier 4,0
+South South,Delta,Ethiope West,Tier 4,1
+South West,Lagos,Eti-Osa,Tier 4,8
+South South,Akwa-Ibom,Etim Ekpo,Tier 4,2
+South South,Akwa-Ibom,Etinan,Tier 4,2
+South South,Edo,Etsako Central,Tier 4,0
+South South,Edo,Etsako East,Tier 4,0
+South South,Edo,Etsako West,Tier 4,0
+South South,Cross-River,Etung,Tier 4,3
+South West,Ogun,Ewekoro,Tier 4,4
+South East,Enugu,Ezeagu,Tier 4,7
+South East,Imo,Ezinihitte,Tier 4,1
+South South,Ebonyi,Ezza North,Tier 4,0
+South South,Ebonyi,Ezza South,Tier 4,0
+North West,Kano,Fagge,Tier 4,2
+North West,Kebbi,Fakai,Tier 4,0
+North East,Yobe,Fika,Tier 4,0
+North East,Adamawa,Fufure,Tier 4,1
+North East,Gombe,Funakaye,Tier 4,0
+North East,Yobe,Fune,Tier 4,0
+North West,Katsina,Funtua,Tier 4,0
+North West,Kano,Gabasawa,Tier 4,2
+North West,Sokoto,Gada,Tier 4,5
+North West,Jigawa,Gagarawa,Tier 4,0
+North East,Bauchi,Gamawa,Tier 4,0
+North East,Bauchi,Ganjuwa,Tier 4,0
+North East,Adamawa,Ganye,Tier 4,3
+North West,Jigawa,Garki,Tier 4,0
+North West,Kano,Garko,Tier 4,0
+North West,Kano,Garun Mallam,Tier 4,0
+North East,Taraba,Gashaka,Tier 4,0
+North East,Taraba,Gassol,Tier 4,0
+North West,Kano,Gaya,Tier 4,0
+North Central,Niger,Gbako,Tier 4,0
+North Central,Benue,Gboko,Tier 4,0
+South West,Ekiti,Gbonyin,Tier 4,0
+North East,Yobe,Geidam,Tier 4,0
+North West,Kano,Gezawa,Tier 4,0
+North East,Bauchi,Giade,Tier 4,0
+North East,Adamawa,Girei,Tier 4,0
+North West,Kaduna,Giwa,Tier 4,1
+South South,Rivers,Gokana,Tier 4,0
+North East,Gombe,Gombe,Tier 4,4
+North East,Adamawa,Gombi,Tier 4,1
+North West,Sokoto,Goronyo,Tier 4,0
+North East,Borno,Gubio,Tier 4,0
+North West,Sokoto,Gudu,Tier 4,1
+North East,Yobe,Gujba,Tier 4,0
+North East,Yobe,Gulani,Tier 4,1
+North Central,Benue,Guma,Tier 4,11
+North West,Jigawa,Gumel,Tier 4,0
+North West,Zamfara,Gummi,Tier 4,0
+North Central,Niger,Gurara,Tier 4,0
+North West,Jigawa,Guri,Tier 4,1
+North West,Zamfara,Gusau,Tier 4,2
+North East,Adamawa,Guyuk,Tier 4,7
+North West,Sokoto,Gwadabawa,Tier 4,0
+North Central,FCT/Abuja,Gwagwalada,Tier 4,6
+North West,Kano,Gwale,Tier 4,5
+North West,Kebbi,Gwandu,Tier 4,0
+North West,Jigawa,Gwaram,Tier 4,0
+North West,Kano,Gwarzo,Tier 4,0
+North Central,Benue,Gwer East,Tier 4,0
+North Central,Benue,Gwer West,Tier 4,6
+North West,Jigawa,Gwiwa,Tier 4,0
+North East,Borno,Gwoza,Tier 4,0
+North West,Jigawa,Hadejia,Tier 4,0
+North East,Borno,Hawul,Tier 4,0
+North East,Adamawa,Hong,Tier 4,2
+South West,Oyo,Ibadan North,Tier 4,1
+South West,Oyo,Ibadan North-East,Tier 4,0
+South West,Oyo,Ibadan North-West,Tier 4,0
+South West,Oyo,Ibadan South-East,Tier 4,0
+South West,Oyo,Ibadan South-West,Tier 4,1
+North Central,Kogi,Ibaji,Tier 4,1
+South West,Oyo,Ibarapa Central,Tier 4,0
+South West,Oyo,Ibarapa East,Tier 4,0
+South West,Oyo,Ibarapa North,Tier 4,0
+South West,Lagos,Ibeju-Lekki,Tier 4,6
+South South,Akwa-Ibom,Ibeno,Tier 4,2
+South South,Akwa-Ibom,Ibesikpo Asutan,Tier 4,0
+North East,Taraba,Ibi,Tier 4,0
+South South,Akwa-Ibom,Ibiono-Ibom,Tier 4,0
+North Central,Kogi,Idah,Tier 4,0
+South West,Ondo,Idanre,Tier 4,10
+South East,Imo,Ideato North,Tier 4,2
+South East,Imo,Ideato South,Tier 4,1
+South East,Anambra,Idemili North,Tier 4,0
+South East,Anambra,Idemili South,Tier 4,3
+South West,Oyo,Ido,Tier 4,1
+South West,Ekiti,Ido Osi,Tier 4,0
+South West,Lagos,Ifako-Ijaiye,Tier 4,7
+South West,Osun,Ife Central,Tier 4,0
+South West,Osun,Ife East,Tier 4,0
+South West,Osun,Ife North,Tier 4,1
+South West,Osun,Ife South,Tier 4,3
+South West,Osun,Ifedayo,Tier 4,0
+South West,Ondo,Ifedore,Tier 4,2
+South West,Osun,Ifelodun,Tier 4,5
+South West,Ogun,Ifo,Tier 4,0
+North West,Kaduna,Igabi,Tier 4,4
+North Central,Kogi,Igalamela-Odolu,Tier 4,0
+South East,Enugu,Igbo Etiti,Tier 4,9
+South East,Enugu,Igbo Eze North,Tier 4,2
+South East,Enugu,Igbo Eze South,Tier 4,12
+South South,Edo,Igueben,Tier 4,0
+South East,Anambra,Ihiala,Tier 4,0
+South East,Imo,Ihitte/Uboma,Tier 4,0
+South West,Ogun,Ijebu East,Tier 4,0
+South West,Ogun,Ijebu North,Tier 4,2
+South West,Ogun,Ijebu North East,Tier 4,1
+South West,Ogun,Ijebu Ode,Tier 4,5
+South West,Ekiti,Ijero,Tier 4,0
+North Central,Kogi,Ijumu,Tier 4,2
+South South,Akwa-Ibom,Ika,Tier 4,0
+South South,Delta,Ika North East,Tier 4,0
+South South,Delta,Ika South,Tier 4,0
+North West,Kaduna,Ikara,Tier 4,0
+South East,Imo,Ikeduru,Tier 4,1
+South West,Lagos,Ikeja,Tier 4,6
+South West,Ogun,Ikenne,Tier 4,1
+South West,Ekiti,Ikere,Tier 4,1
+South West,Ekiti,Ikole,Tier 4,0
+South South,Cross-River,Ikom,Tier 4,0
+South South,Akwa-Ibom,Ikono,Tier 4,0
+South West,Lagos,Ikorodu,Tier 4,7
+South South,Akwa-Ibom,Ikot Abasi (village),Tier 4,0
+South South,Akwa-Ibom,Ikot Ekpene,Tier 4,4
+South South,Edo,Ikpoba Okha,Tier 4,2
+South South,Rivers,Ikwerre,Tier 4,0
+South South,Ebonyi,Ikwo,Tier 4,0
+South East,Abia,Ikwuano,Tier 4,0
+South West,Osun,Ila,Tier 4,0
+South West,Ondo,Ilaje,Tier 4,8
+South West,Ondo,Ile-Oluji/Okeigbo,Tier 4,0
+South West,Ekiti,Ilejemeje,Tier 4,0
+South West,Osun,Ilesa East,Tier 4,3
+South West,Osun,Ilesa West,Tier 4,3
+North West,Sokoto,Illela,Tier 4,0
+North Central,Kwara,Ilorin East,Tier 4,5
+North Central,Kwara,Ilorin West,Tier 4,2
+South West,Ogun,Imeko Afon,Tier 4,0
+North West,Kebbi,Ingaski,Tier 4,7
+North West,Katsina,Ingawa,Tier 4,0
+South South,Akwa-Ibom,Ini,Tier 4,0
+South West,Ogun,Ipokia,Tier 4,0
+South West,Ondo,Irele,Tier 4,0
+South West,Oyo,Irepo,Tier 4,0
+South West,Osun,Irepodun,Tier 4,14
+South West,Ekiti,Irepodun/Ifelodun,Tier 4,0
+South West,Osun,Irewole,Tier 4,0
+South West,Ekiti,Ise/Orun,Tier 4,0
+South West,Oyo,Iseyin,Tier 4,1
+South South,Ebonyi,Ishielu,Tier 4,0
+South East,Enugu,Isi Uzo,Tier 4,2
+South East,Imo,Isiala Mbano,Tier 4,0
+South East,Abia,Isiala Ngwa North,Tier 4,0
+South East,Abia,Isiala Ngwa South,Tier 4,5
+North Central,Kwara,Isin,Tier 4,7
+South West,Osun,Isokan,Tier 4,0
+South South,Delta,Isoko North,Tier 4,0
+South South,Delta,Isoko South,Tier 4,0
+South East,Imo,Isu,Tier 4,0
+South East,Abia,Isuikwuato,Tier 4,3
+North East,Bauchi,Itas/Gadau,Tier 4,0
+South West,Oyo,Itesiwaju,Tier 4,3
+South South,Akwa-Ibom,Itu,Tier 4,1
+South South,Ebonyi,Ivo,Tier 4,0
+South West,Oyo,Iwajowa,Tier 4,0
+South West,Osun,Iwo,Tier 4,3
+South South,Ebonyi,Izzi,Tier 4,0
+North West,Kaduna,Jaba,Tier 4,0
+North East,Adamawa,Jada,Tier 4,5
+North West,Jigawa,Jahun,Tier 4,1
+North East,Yobe,Jakusko,Tier 4,2
+North East,Taraba,Jalingo,Tier 4,0
+North East,Bauchi,Jama'are,Tier 4,0
+North West,Kebbi,Jega,Tier 4,1
+North West,Kaduna,Jema'a,Tier 4,0
+North East,Borno,Jere,Tier 4,0
+North Central,Plateau,Jos East,Tier 4,2
+North Central,Plateau,Jos North,Tier 4,0
+North Central,Plateau,Jos South,Tier 4,2
+North Central,Kogi,Kabba/Bunu,Tier 4,0
+North West,Kano,Kabo,Tier 4,0
+North West,Kaduna,Kachia,Tier 4,0
+North West,Kaduna,Kaduna North,Tier 4,3
+North West,Kaduna,Kaduna South,Tier 4,4
+North West,Jigawa,Kafin Hausa,Tier 4,1
+North West,Katsina,Kafur,Tier 4,2
+North East,Borno,Kaga,Tier 4,0
+North West,Kaduna,Kagarko,Tier 4,0
+North West,Katsina,Kaita,Tier 4,0
+South West,Oyo,Kajola,Tier 4,3
+North West,Kaduna,Kajuru,Tier 4,0
+North West,Kebbi,Kalgo,Tier 4,1
+North East,Gombe,Kaltungo,Tier 4,2
+North Central,Plateau,Kanam,Tier 4,0
+North Central,Plateau,Kanke,Tier 4,0
+North West,Katsina,Kankia,Tier 4,0
+North West,Kano,Kano Municipal,Tier 4,1
+North East,Yobe,Karasuwa,Tier 4,0
+North West,Kano,Karaye,Tier 4,0
+North East,Taraba,Karim Lamido,Tier 4,0
+North Central,Nasarawa,Karu,Tier 4,0
+North East,Bauchi,Katagum,Tier 4,0
+North Central,Niger,Katcha,Tier 4,0
+North West,Katsina,Katsina,Tier 4,0
+North Central,Benue,Katsina-Ala,Tier 4,3
+North West,Jigawa,Kaugama,Tier 4,0
+North West,Kaduna,Kaura,Tier 4,0
+North West,Zamfara,Kaura-Namoda,Tier 4,0
+North West,Kaduna,Kauru,Tier 4,0
+North West,Jigawa,Kazaure,Tier 4,1
+North West,Sokoto,Kebbe,Tier 4,0
+North Central,Nasarawa,Keffi,Tier 4,2
+South South,Rivers,Khana,Tier 4,5
+North West,Kano,Kibiya,Tier 4,0
+North East,Bauchi,Kirfi,Tier 4,0
+North West,Jigawa,Kiri Kasama,Tier 4,0
+North West,Kano,Kiru,Tier 4,0
+North West,Jigawa,Kiyawa,Tier 4,0
+North West,Kebbi,Koko,Tier 4,1
+North Central,Nasarawa,Kokona,Tier 4,1
+South South,Bayelsa,Kolokuma/Opokuma,Tier 4,0
+North East,Borno,Konduga,Tier 4,0
+North Central,Benue,Konshisha,Tier 4,2
+North Central,Niger,Kontagora,Tier 4,0
+South West,Lagos,Kosofe,Tier 4,16
+North Central,Kogi,Koton karfe,Tier 4,4
+North West,Kaduna,Kubau,Tier 4,0
+North West,Kaduna,Kudan,Tier 4,1
+North Central,FCT/Abuja,Kuje,Tier 4,7
+North West,Kano,Kumbotso,Tier 4,2
+North West,Kano,Kunchi,Tier 4,1
+North West,Kano,Kura,Tier 4,3
+North West,Katsina,Kurfi,Tier 4,0
+North East,Taraba,Kurmi,Tier 4,0
+North West,Katsina,Kusada,Tier 4,0
+North Central,FCT/Abuja,Kwali,Tier 4,3
+North East,Gombe,Kwami,Tier 4,0
+North Central,Benue,Kwande,Tier 4,0
+North West,Sokoto,Kware,Tier 4,0
+North East,Borno,Kwaya Kusar,Tier 4,0
+North Central,Nasarawa,Lafia,Tier 4,1
+South West,Oyo,Lagelu,Tier 4,0
+South West,Lagos,Lagos Island,Tier 4,6
+South West,Lagos,Lagos Mainland,Tier 4,7
+North East,Adamawa,Lamurde,Tier 4,7
+North Central,Plateau,Langtang North,Tier 4,0
+North Central,Plateau,Langtang South,Tier 4,0
+North Central,Niger,Lapai,Tier 4,0
+North Central,Kwara,Latiagi,Tier 4,0
+North East,Taraba,Lau,Tier 4,0
+North Central,Niger,Lavun,Tier 4,0
+North West,Kaduna,Lere,Tier 4,0
+North Central,Benue,Logo,Tier 4,6
+North Central,Kogi,Lokoja,Tier 4,0
+North East,Yobe,Machina,Tier 4,3
+North East,Adamawa,Madagali,Tier 4,0
+North West,Kano,Madobi,Tier 4,0
+North East,Borno,Mafa,Tier 4,3
+North Central,Niger,Magama,Tier 4,0
+North East,Borno,Magumeri,Tier 4,0
+North West,Katsina,Mai'Adua,Tier 4,2
+North East,Borno,Maiduguri,Tier 4,3
+North West,Jigawa,Maigatari,Tier 4,0
+North East,Adamawa,Maiha,Tier 4,0
+North West,Kebbi,Maiyama,Tier 4,1
+North West,Kaduna,Makarfi,Tier 4,4
+North West,Kano,Makoda,Tier 4,0
+North Central,Benue,Makurdi,Tier 4,0
+North West,Jigawa,Malam Madori,Tier 4,2
+North West,Katsina,Malumfashi,Tier 4,0
+North Central,Plateau,Mangu,Tier 4,0
+North West,Katsina,Mani,Tier 4,0
+North West,Zamfara,Maradun,Tier 4,1
+North Central,Niger,Mariga,Tier 4,0
+North West,Zamfara,Maru,Tier 4,0
+North Central,Niger,Mashegu,Tier 4,0
+North West,Katsina,Mashi,Tier 4,3
+North East,Adamawa,Mayo Belwa,Tier 4,2
+South East,Imo,Mbaitoli,Tier 4,1
+South South,Akwa-Ibom,Mbo,Tier 4,0
+North East,Adamawa,Michika,Tier 4,0
+North West,Jigawa,Miga,Tier 4,0
+North Central,Plateau,Mikang,Tier 4,0
+North West,Kano,Minjibir,Tier 4,3
+North East,Bauchi,Misau,Tier 4,0
+South South,Akwa-Ibom,Mkpat-Enin,Tier 4,6
+South West,Ekiti,Moba,Tier 4,0
+North Central,Niger,Mokwa,Tier 4,0
+North Central,Kogi,Mopa-Muro,Tier 4,3
+North Central,Kwara,Moro,Tier 4,0
+North East,Adamawa,Mubi North,Tier 4,0
+North East,Adamawa,Mubi South,Tier 4,0
+North Central,Niger,Munya,Tier 4,4
+South West,Lagos,Mushin,Tier 4,2
+North East,Gombe,Nafada,Tier 4,0
+North East,Yobe,Nangere,Tier 4,3
+North West,Kano,Nasarawa,Tier 4,2
+North Central,Nasarawa,Nasarawa Eggon,Tier 4,0
+South South,Delta,Ndokwa East,Tier 4,0
+South South,Delta,Ndokwa West,Tier 4,2
+South South,Bayelsa,Nembe,Tier 4,0
+North East,Borno,Nganzai,Tier 4,0
+South East,Imo,Ngor Okpala,Tier 4,3
+North East,Yobe,Nguru,Tier 4,0
+North East,Bauchi,Ningi,Tier 4,0
+South East,Imo,Njaba,Tier 4,1
+South East,Anambra,Njikoka,Tier 4,1
+South East,Enugu,Nkanu East,Tier 4,0
+South East,Enugu,Nkanu West,Tier 4,7
+South East,Imo,Nkwerre,Tier 4,0
+South East,Anambra,Nnewi North,Tier 4,0
+South East,Anambra,Nnewi South,Tier 4,2
+South South,Akwa-Ibom,Nsit-Atai,Tier 4,1
+South South,Akwa-Ibom,Nsit-Ibom,Tier 4,0
+South South,Akwa-Ibom,Nsit-Ubium,Tier 4,0
+South East,Enugu,Nsukka,Tier 4,4
+North East,Adamawa,Numan,Tier 4,1
+South East,Imo,Nwangele,Tier 4,5
+South West,Ogun,Obafemi Owode,Tier 4,3
+South South,Cross-River,Obanliku,Tier 4,0
+North Central,Nasarawa,Obi,Tier 4,6
+South East,Abia,Obi Ngwa,Tier 4,11
+South South,Rivers,Obio-Akpor,Tier 4,2
+South West,Osun,Obokun,Tier 4,1
+South South,Akwa-Ibom,Obot Akara,Tier 4,0
+South East,Imo,Obowo,Tier 4,0
+South South,Cross-River,Obubra,Tier 4,0
+South South,Cross-River,Obudu,Tier 4,0
+South West,Ogun,Odeda,Tier 4,0
+South West,Ondo,Odigbo,Tier 4,7
+South West,Osun,Odo-Otin,Tier 4,0
+South West,Ogun,Odogbolu,Tier 4,0
+South South,Cross-River,Odukpani,Tier 4,0
+North Central,Kwara,Offa,Tier 4,0
+North Central,Kogi,Ofu,Tier 4,0
+South South,Rivers,Ogba-Egbema-Ndoni,Tier 4,0
+North Central,Benue,Ogbadibo,Tier 4,0
+South East,Anambra,Ogbaru,Tier 4,3
+South South,Bayelsa,Ogbia,Tier 4,0
+South West,Oyo,Ogbomosho North,Tier 4,1
+South West,Oyo,Ogbomosho South,Tier 4,0
+South West,Oyo,Ogo Oluwa,Tier 4,2
+South South,Cross-River,Ogoja,Tier 4,11
+South South,Rivers,Ogu-Bolo,Tier 4,6
+South West,Ogun,Ogun Waterside,Tier 4,0
+South East,Imo,Oguta,Tier 4,0
+South East,Abia,Ohafia,Tier 4,0
+South East,Imo,Ohaji/Egbema,Tier 4,0
+South South,Ebonyi,Ohaozara,Tier 4,2
+South South,Ebonyi,Ohaukwu,Tier 4,0
+North Central,Benue,Ohimini,Tier 4,2
+South East,Enugu,Oji River,Tier 4,0
+South West,Lagos,Ojo,Tier 4,11
+North Central,Benue,Oju,Tier 4,2
+North Central,Kwara,Oke Ero,Tier 4,2
+North Central,Kogi,Okehi,Tier 4,0
+North Central,Kogi,Okene,Tier 4,0
+South East,Imo,Okigwe,Tier 4,0
+South South,Rivers,Okirika,Tier 4,11
+South West,Ondo,Okitipupa,Tier 4,1
+South South,Akwa-Ibom,Okobo,Tier 4,0
+South South,Delta,Okpe,Tier 4,8
+North Central,Benue,Okpokwu,Tier 4,0
+South West,Osun,Ola-Oluwa,Tier 4,0
+North Central,Kogi,Olamaboro,Tier 4,0
+South West,Osun,Olorunda,Tier 4,0
+South West,Oyo,Olorunsogo,Tier 4,0
+South West,Oyo,Oluyole,Tier 4,0
+North Central,Kogi,Omala,Tier 4,0
+South South,Rivers,Omuma,Tier 4,0
+South West,Oyo,Ona Ara,Tier 4,0
+South West,Ondo,Ondo East,Tier 4,10
+South West,Ondo,Ondo West,Tier 4,0
+South South,Ebonyi,Onicha,Tier 4,0
+South East,Anambra,Onitsha North,Tier 4,0
+South East,Anambra,Onitsha South,Tier 4,4
+South South,Akwa-Ibom,Onna,Tier 4,2
+South East,Imo,Onuimo,Tier 4,1
+South South,Rivers,Opobo-Nkoro,Tier 4,0
+South South,Edo,Oredo,Tier 4,0
+South West,Oyo,Orelope,Tier 4,0
+South South,Edo,Orhionmwon,Tier 4,0
+South West,Osun,Ori-Ade,Tier 4,8
+South West,Oyo,Orire,Tier 4,0
+South East,Imo,Orlu,Tier 4,2
+South West,Osun,Orolu,Tier 4,0
+South South,Akwa-Ibom,Oron,Tier 4,0
+South East,Imo,Orsu,Tier 4,0
+South East,Imo,Oru East,Tier 4,0
+South East,Imo,Oru West,Tier 4,0
+South South,Akwa-Ibom,Oruk Anam,Tier 4,0
+South East,Anambra,Orumba North,Tier 4,0
+South East,Anambra,Orumba South,Tier 4,0
+South West,Ondo,Ose,Tier 4,0
+South South,Delta,Oshimili North,Tier 4,6
+South South,Delta,Oshimili South,Tier 4,5
+South West,Lagos,Oshodi-Isolo,Tier 4,7
+South East,Abia,Osisioma,Tier 4,12
+South West,Osun,Osogbo,Tier 4,0
+North Central,Benue,Oturkpo,Tier 4,0
+South South,Edo,Ovia North-East,Tier 4,0
+South South,Edo,Ovia South-West,Tier 4,0
+South South,Edo,Owan East,Tier 4,0
+South South,Edo,Owan West,Tier 4,3
+South East,Imo,Owerri Municipal,Tier 4,1
+South East,Imo,Owerri North,Tier 4,1
+South East,Imo,Owerri West,Tier 4,2
+South West,Ondo,Owo,Tier 4,9
+South West,Ekiti,Oye,Tier 4,0
+South East,Anambra,Oyi,Tier 4,0
+South South,Rivers,Oyigbo,Tier 4,0
+South West,Oyo,Oyo East,Tier 4,0
+South West,Oyo,Oyo West,Tier 4,0
+North Central,Kwara,Oyun,Tier 4,7
+North Central,Niger,Paikoro,Tier 4,0
+North Central,Plateau,Pankshin,Tier 4,0
+South South,Delta,Patani,Tier 4,0
+South South,Rivers,Port Harcourt,Tier 4,0
+North East,Yobe,Potiskum,Tier 4,1
+North Central,Plateau,Quaran Pan,Tier 4,0
+North Central,Niger,Rafi,Tier 4,0
+North West,Kano,Rano,Tier 4,1
+South West,Ogun,Remo North,Tier 4,3
+North West,Katsina,Rimi,Tier 4,0
+North West,Kano,Rimin Gado,Tier 4,0
+North West,Jigawa,Ringim,Tier 4,0
+North Central,Plateau,Riyom,Tier 4,0
+North West,Kano,Rogo,Tier 4,3
+North West,Jigawa,Roni,Tier 4,0
+North West,Kaduna,Sabon Gari,Tier 4,7
+South South,Bayelsa,Sagbama,Tier 4,0
+North West,Kebbi,Sakaba,Tier 4,0
+South West,Oyo,Saki East,Tier 4,0
+South West,Oyo,Saki West,Tier 4,0
+North West,Katsina,Sandamu,Tier 4,0
+North West,Kaduna,Sanga,Tier 4,0
+South South,Delta,Sapele,Tier 4,3
+North East,Taraba,Sardauna,Tier 4,0
+South West,Ogun,Shagamu,Tier 4,0
+North West,Sokoto,Shagari,Tier 4,0
+North West,Kebbi,Shanga,Tier 4,1
+North East,Borno,Shani,Tier 4,1
+North West,Kano,Shanono,Tier 4,0
+North East,Adamawa,Shelleng,Tier 4,0
+North Central,Plateau,Shendam,Tier 4,0
+North East,Bauchi,Shira,Tier 4,0
+North Central,Niger,Shiroro,Tier 4,6
+North East,Gombe,Shongom,Tier 4,0
+North West,Sokoto,Silame,Tier 4,0
+North West,Kaduna,Soba,Tier 4,0
+North West,Sokoto,Sokoto North,Tier 4,4
+North West,Sokoto,Sokoto South,Tier 4,0
+South West,Lagos,Somolu,Tier 4,15
+North East,Adamawa,Song,Tier 4,0
+South South,Bayelsa,Southern Ijaw,Tier 4,0
+North West,Jigawa,Sule Tankarkar,Tier 4,4
+North Central,Niger,Suleja,Tier 4,0
+North West,Kano,Sumaila,Tier 4,0
+North West,Kebbi,Suru,Tier 4,0
+South West,Oyo,Surulere,Tier 4,7
+North Central,Niger,Tafa,Tier 4,5
+North East,Bauchi,Tafawa Balewa,Tier 4,1
+South South,Rivers,Tai,Tier 4,11
+North West,Kano,Takai,Tier 4,5
+North East,Taraba,Takum,Tier 4,0
+North West,Zamfara,Talata-Mafara,Tier 4,0
+North West,Sokoto,Tambuwal,Tier 4,0
+North West,Sokoto,Tangaza,Tier 4,0
+North West,Kano,Tarauni,Tier 4,0
+North Central,Benue,Tarka,Tier 4,9
+North East,Yobe,Tarmuwa,Tier 4,0
+North West,Jigawa,Taura,Tier 4,0
+North West,Kano,Tofa,Tier 4,0
+North East,Bauchi,Toro,Tier 4,2
+North Central,Nasarawa,Toto,Tier 4,0
+North East,Adamawa,Toungo,Tier 4,1
+North West,Zamfara,Tsafe,Tier 4,1
+North West,Kano,Tsanyawa,Tier 4,0
+North West,Kano,Tudun Wada,Tier 4,0
+South East,Enugu,Udenu,Tier 4,0
+South East,Enugu,Udi,Tier 4,1
+South South,Delta,Udu,Tier 4,1
+South South,Akwa-Ibom,Udung-Uko,Tier 4,0
+South South,Delta,Ughelli North,Tier 4,3
+South South,Delta,Ughelli South,Tier 4,4
+South East,Abia,Ugwunagbo,Tier 4,2
+South South,Edo,Uhunmwonde,Tier 4,2
+South South,Akwa-Ibom,Ukanafun,Tier 4,0
+North Central,Benue,Ukum,Tier 4,2
+South East,Abia,Ukwa East,Tier 4,4
+South East,Abia,Ukwa West,Tier 4,0
+South South,Delta,Ukwuani,Tier 4,2
+South East,Abia,Umu Nneochi,Tier 4,0
+South East,Abia,Umuahia North,Tier 4,3
+South East,Abia,Umuahia South,Tier 4,1
+North West,Kano,Ungogo,Tier 4,5
+South South,Akwa-Ibom,Uruan,Tier 4,1
+South South,Akwa-Ibom,Urue-Offong/Oruko,Tier 4,2
+North Central,Benue,Ushongo,Tier 4,0
+North East,Taraba,Ussa,Tier 4,0
+South South,Delta,Uvwie,Tier 4,0
+South South,Akwa-Ibom,Uyo,Tier 4,1
+South East,Enugu,Uzo-Uwani,Tier 4,0
+North Central,Benue,Vandeikya,Tier 4,2
+North West,Sokoto,Wamakko,Tier 4,1
+North Central,Nasarawa,Wamba,Tier 4,1
+North West,Kano,Warawa,Tier 4,0
+North East,Bauchi,Warji,Tier 4,0
+South South,Delta,Warri North,Tier 4,0
+South South,Delta,Warri South,Tier 4,2
+South South,Delta,Warri South West,Tier 4,1
+North Central,Plateau,Wase,Tier 4,0
+North West,Kano,Wudil,Tier 4,1
+North East,Taraba,Wukari,Tier 4,0
+North West,Sokoto,Wurno,Tier 4,0
+North Central,Niger,Wushishi,Tier 4,0
+North West,Sokoto,Yabo,Tier 4,0
+North Central,Kogi,Yagba East,Tier 4,4
+North Central,Kogi,Yagba West,Tier 4,1
+South South,Cross-River,Yakurr,Tier 4,6
+South South,Cross-River,Yala,Tier 4,10
+North East,Gombe,Yamaltu/Deba,Tier 4,1
+North West,Jigawa,Yankwashi,Tier 4,0
+North West,Kebbi,Yauri,Tier 4,5
+South South,Bayelsa,Yenagoa,Tier 4,0
+South West,Ogun,Yewa North,Tier 4,0
+South West,Ogun,Yewa South,Tier 4,0
+North East,Adamawa,Yola North,Tier 4,1
+North East,Adamawa,Yola South,Tier 4,0
+North East,Taraba,Yorro,Tier 4,1
+North East,Yobe,Yunusari,Tier 4,1
+North East,Yobe,Yusufari,Tier 4,1
+North East,Bauchi,Zaki,Tier 4,0
+North West,Katsina,Zango,Tier 4,0
+North West,Kaduna,Zangon Kataf,Tier 4,0
+North West,Kaduna,Zaria,Tier 4,5
+North East,Taraba,Zing,Tier 4,0
+North West,Zamfara,Zurmi,Tier 4,0
+North West,Kebbi,Zuru,Tier 4,0
+North Central,Nasarawa,keana,Tier 4,0
+North Central,Kogi,ogori/magongo,Tier 4,1
+South East,Abia,Aba North,Tier 5,0
+South East,Abia,Aba South,Tier 5,0
+North Central,FCT/Abuja,Abaji,Tier 5,0
+South South,Akwa-Ibom,Abak,Tier 5,0
+South South,Ebonyi,Abakaliki,Tier 5,0
+South West,Ogun,Abeokuta North,Tier 5,0
+South West,Ogun,Abeokuta South,Tier 5,0
+South South,Cross-River,Abi,Tier 5,0
+South East,Imo,Aboh Mbaise,Tier 5,0
+South South,Rivers,Abua-Odual,Tier 5,0
+North Central,FCT/Abuja,Abuja Municipal Area Council,Tier 5,0
+North Central,Kogi,Adavi,Tier 5,0
+North Central,Benue,Ado,Tier 5,0
+South West,Ekiti,Ado Ekiti,Tier 5,0
+South West,Ogun,Ado-Odo/Ota,Tier 5,0
+South West,Oyo,Afijio,Tier 5,0
+South South,Ebonyi,Afikpo,Tier 5,0
+North Central,Niger,Agaie,Tier 5,0
+North Central,Benue,Agatu,Tier 5,0
+South West,Lagos,Agege,Tier 5,0
+South East,Anambra,Aguata,Tier 5,0
+South East,Imo,Ahiazu Mbaise,Tier 5,0
+South South,Rivers,Ahoada East,Tier 5,0
+South South,Rivers,Ahoada West,Tier 5,0
+South West,Osun,Aiyedaade,Tier 5,0
+South West,Osun,Aiyedire,Tier 5,0
+North Central,Kogi,Ajaokuta,Tier 5,0
+South West,Lagos,Ajeromi-Ifelodun,Tier 5,0
+North West,Kano,Ajingi,Tier 5,0
+South South,Cross-River,Akamkpa,Tier 5,0
+South West,Oyo,Akinyele,Tier 5,0
+North East,Gombe,Akko,Tier 5,0
+South West,Ondo,Akoko North-East,Tier 5,0
+South West,Ondo,Akoko North-West,Tier 5,0
+South West,Ondo,Akoko South-East,Tier 5,0
+South West,Ondo,Akoko South-West,Tier 5,0
+South South,Edo,Akoko-Edo,Tier 5,0
+South South,Cross-River,Akpabuyo,Tier 5,0
+South South,Rivers,Akuku Toru,Tier 5,0
+South West,Ondo,Akure North,Tier 5,0
+South West,Ondo,Akure South,Tier 5,0
+North Central,Nasarawa,Akwanga,Tier 5,0
+North West,Kano,Albasu,Tier 5,0
+North West,Kebbi,Aleiro,Tier 5,0
+South West,Lagos,Alimosho,Tier 5,0
+North East,Bauchi,Alkaleri,Tier 5,0
+South West,Lagos,Amuwo-Odofin,Tier 5,0
+South East,Anambra,Anambra East,Tier 5,0
+South East,Anambra,Anambra West,Tier 5,0
+South East,Anambra,Anaocha,Tier 5,0
+South South,Rivers,Andoni,Tier 5,0
+South East,Enugu,Aninri,Tier 5,0
+South South,Delta,Aniocha North,Tier 5,0
+South South,Delta,Aniocha South,Tier 5,0
+North Central,Kogi,Ankpa,Tier 5,0
+North Central,Benue,Apa,Tier 5,0
+South West,Lagos,Apapa,Tier 5,0
+North East,Taraba,Ardo Kola,Tier 5,0
+North West,Kebbi,Arewa,Tier 5,0
+North West,Kebbi,Argungu,Tier 5,0
+South East,Abia,Arochukwu,Tier 5,0
+North Central,Kwara,Asa,Tier 5,0
+South South,Rivers,Asari Toru,Tier 5,0
+North East,Borno,Askira/Uba,Tier 5,0
+South West,Osun,Atakunmosa East,Tier 5,0
+South West,Osun,Atakunmosa West,Tier 5,0
+South West,Oyo,Atiba,Tier 5,0
+South West,Oyo,Atisbo,Tier 5,0
+North West,Kebbi,Augie,Tier 5,0
+North West,Jigawa,Auyo,Tier 5,0
+North Central,Nasarawa,Awe,Tier 5,0
+South East,Enugu,Awgu,Tier 5,0
+South East,Anambra,Awka North,Tier 5,0
+South East,Anambra,Awka South,Tier 5,0
+South East,Anambra,Ayamelum,Tier 5,0
+North West,Jigawa,Babura,Tier 5,0
+South West,Lagos,Badagry,Tier 5,0
+North East,Yobe,Bade,Tier 5,0
+North West,Kebbi,Bagudo,Tier 5,0
+North West,Kano,Bagwai,Tier 5,0
+South South,Cross-River,Bakassi,Tier 5,0
+North West,Katsina,Bakori,Tier 5,0
+North West,Zamfara,Bakuka,Tier 5,0
+North East,Gombe,Balanga,Tier 5,0
+North East,Taraba,Bali,Tier 5,0
+North East,Borno,Bama,Tier 5,0
+North Central,Plateau,Barkin Ladi,Tier 5,0
+North Central,Plateau,Bassa,Tier 5,0
+North West,Katsina,Batagarawa,Tier 5,0
+North East,Bauchi,Bauchi,Tier 5,0
+North West,Katsina,Baure,Tier 5,0
+North East,Borno,Bayo,Tier 5,0
+North West,Kano,Bebeji,Tier 5,0
+South South,Cross-River,Bekwarra,Tier 5,0
+South East,Abia,Bende,Tier 5,0
+South South,Cross-River,Biase,Tier 5,0
+North West,Kano,Bichi,Tier 5,0
+North Central,Niger,Bida,Tier 5,0
+North East,Gombe,Billiri,Tier 5,0
+North West,Katsina,Bindawa,Tier 5,0
+North West,Sokoto,Binji,Tier 5,0
+North West,Kebbi,Birnin Kebbi,Tier 5,0
+North West,Jigawa,Birnin Kudu,Tier 5,0
+North West,Zamfara,Birnin Magaji/Kiyaw,Tier 5,0
+North West,Jigawa,Birniwa,Tier 5,0
+North East,Borno,Biu,Tier 5,0
+North West,Sokoto,Bodinga,Tier 5,0
+North East,Bauchi,Bogoro,Tier 5,0
+South South,Cross-River,Boki,Tier 5,0
+North Central,Plateau,Bokkos,Tier 5,0
+South West,Osun,Boluwaduro,Tier 5,0
+South South,Delta,Bomadi,Tier 5,0
+South South,Rivers,Bonny,Tier 5,0
+North Central,Niger,Borgu,Tier 5,0
+South West,Osun,Boripe,Tier 5,0
+North Central,Niger,Bosso,Tier 5,0
+South South,Bayelsa,Brass,Tier 5,0
+North West,Jigawa,Buji,Tier 5,0
+North West,Zamfara,Bukkuyum,Tier 5,0
+North West,Zamfara,Bungudu,Tier 5,0
+North West,Kano,Bunkure,Tier 5,0
+North West,Kebbi,Bunza,Tier 5,0
+North East,Yobe,Bursari,Tier 5,0
+North Central,Benue,Buruku,Tier 5,0
+South South,Delta,Burutu,Tier 5,0
+North Central,FCT/Abuja,Bwari,Tier 5,0
+South South,Cross-River,Calabar Municipal,Tier 5,0
+South South,Cross-River,Calabar South,Tier 5,0
+North Central,Niger,Chanchaga,Tier 5,0
+North West,Katsina,Charanchi,Tier 5,0
+North East,Borno,Chibok,Tier 5,0
+North West,Kaduna,Chikun,Tier 5,0
+North West,Kano,Dala,Tier 5,0
+North East,Yobe,Damaturu,Tier 5,0
+North East,Bauchi,Damban,Tier 5,0
+North West,Kano,Dambatta,Tier 5,0
+North East,Borno,Damboa,Tier 5,0
+North West,Katsina,Dan Musa,Tier 5,0
+North West,Kebbi,Dandi,Tier 5,0
+North West,Sokoto,Dange Shuni,Tier 5,0
+North West,Katsina,Danja,Tier 5,0
+North West,Kebbi,Danko wasagu,Tier 5,0
+North East,Bauchi,Darazo,Tier 5,0
+North East,Bauchi,Dass,Tier 5,0
+North West,Katsina,Daura,Tier 5,0
+North West,Kano,Dawakin Kudu,Tier 5,0
+North West,Kano,Dawakin Tofa,Tier 5,0
+South South,Rivers,Degema,Tier 5,0
+North Central,Kogi,Dekina,Tier 5,0
+North East,Adamawa,Demsa,Tier 5,0
+North East,Borno,Dikwa,Tier 5,0
+North West,Kano,Doguwa,Tier 5,0
+North Central,Nasarawa,Doma,Tier 5,0
+North East,Taraba,Donga,Tier 5,0
+North East,Gombe,Dukku,Tier 5,0
+South East,Anambra,Dunukofia,Tier 5,0
+North West,Jigawa,Dutse,Tier 5,0
+North West,Katsina,Dutsi,Tier 5,0
+North West,Katsina,Dutsin Ma,Tier 5,0
+South South,Akwa-Ibom,Eastern Obolo,Tier 5,0
+South South,Ebonyi,Ebonyi,Tier 5,0
+North Central,Niger,Edati,Tier 5,0
+South South,Ebonyi,Edda,Tier 5,0
+South West,Osun,Ede North,Tier 5,0
+South West,Osun,Ede South,Tier 5,0
+South West,Ekiti,Efon,Tier 5,0
+South West,Oyo,Egbeda,Tier 5,0
+South West,Osun,Egbedore,Tier 5,0
+South South,Edo,Egor,Tier 5,0
+South East,Imo,Ehime Mbano,Tier 5,0
+South West,Osun,Ejigbo,Tier 5,0
+South South,Bayelsa,Ekeremor,Tier 5,0
+South South,Akwa-Ibom,Eket,Tier 5,0
+North Central,Kwara,Ekiti,Tier 5,0
+South West,Ekiti,Ekiti East,Tier 5,0
+South West,Ekiti,Ekiti South-West,Tier 5,0
+South West,Ekiti,Ekiti West,Tier 5,0
+South East,Anambra,Ekwusigo,Tier 5,0
+South South,Rivers,Eleme,Tier 5,0
+South South,Rivers,Emohua,Tier 5,0
+South West,Ekiti,Emure,Tier 5,0
+South East,Enugu,Enugu East,Tier 5,0
+South East,Enugu,Enugu North,Tier 5,0
+South East,Enugu,Enugu South,Tier 5,0
+South West,Lagos,Epe,Tier 5,0
+South South,Edo,Esan Central,Tier 5,0
+South South,Edo,Esan North-East,Tier 5,0
+South South,Edo,Esan South-East,Tier 5,0
+South South,Edo,Esan West,Tier 5,0
+South West,Ondo,Ese Odo,Tier 5,0
+South South,Akwa-Ibom,Esit Eket,Tier 5,0
+South South,Akwa-Ibom,Essien Udim,Tier 5,0
+South South,Rivers,Etche,Tier 5,0
+South South,Delta,Ethiope East,Tier 5,0
+South South,Delta,Ethiope West,Tier 5,0
+South West,Lagos,Eti-Osa,Tier 5,0
+South South,Akwa-Ibom,Etim Ekpo,Tier 5,0
+South South,Akwa-Ibom,Etinan,Tier 5,0
+South South,Edo,Etsako Central,Tier 5,0
+South South,Edo,Etsako East,Tier 5,0
+South South,Edo,Etsako West,Tier 5,0
+South South,Cross-River,Etung,Tier 5,0
+South West,Ogun,Ewekoro,Tier 5,0
+South East,Enugu,Ezeagu,Tier 5,0
+South East,Imo,Ezinihitte,Tier 5,0
+South South,Ebonyi,Ezza North,Tier 5,0
+South South,Ebonyi,Ezza South,Tier 5,0
+North West,Kano,Fagge,Tier 5,0
+North West,Kebbi,Fakai,Tier 5,0
+North East,Yobe,Fika,Tier 5,0
+North East,Adamawa,Fufure,Tier 5,0
+North East,Gombe,Funakaye,Tier 5,0
+North East,Yobe,Fune,Tier 5,0
+North West,Katsina,Funtua,Tier 5,0
+North West,Kano,Gabasawa,Tier 5,0
+North West,Sokoto,Gada,Tier 5,0
+North West,Jigawa,Gagarawa,Tier 5,0
+North East,Bauchi,Gamawa,Tier 5,0
+North East,Bauchi,Ganjuwa,Tier 5,0
+North East,Adamawa,Ganye,Tier 5,0
+North West,Jigawa,Garki,Tier 5,0
+North West,Kano,Garko,Tier 5,0
+North West,Kano,Garun Mallam,Tier 5,0
+North East,Taraba,Gashaka,Tier 5,0
+North East,Taraba,Gassol,Tier 5,0
+North West,Kano,Gaya,Tier 5,0
+North Central,Niger,Gbako,Tier 5,0
+North Central,Benue,Gboko,Tier 5,0
+South West,Ekiti,Gbonyin,Tier 5,0
+North East,Yobe,Geidam,Tier 5,0
+North West,Kano,Gezawa,Tier 5,0
+North East,Bauchi,Giade,Tier 5,0
+North East,Adamawa,Girei,Tier 5,0
+North West,Kaduna,Giwa,Tier 5,0
+South South,Rivers,Gokana,Tier 5,0
+North East,Gombe,Gombe,Tier 5,0
+North East,Adamawa,Gombi,Tier 5,0
+North West,Sokoto,Goronyo,Tier 5,0
+North East,Borno,Gubio,Tier 5,0
+North West,Sokoto,Gudu,Tier 5,0
+North East,Yobe,Gujba,Tier 5,0
+North East,Yobe,Gulani,Tier 5,0
+North Central,Benue,Guma,Tier 5,0
+North West,Jigawa,Gumel,Tier 5,0
+North West,Zamfara,Gummi,Tier 5,0
+North Central,Niger,Gurara,Tier 5,0
+North West,Jigawa,Guri,Tier 5,0
+North West,Zamfara,Gusau,Tier 5,0
+North East,Adamawa,Guyuk,Tier 5,0
+North West,Sokoto,Gwadabawa,Tier 5,0
+North Central,FCT/Abuja,Gwagwalada,Tier 5,0
+North West,Kano,Gwale,Tier 5,0
+North West,Kebbi,Gwandu,Tier 5,0
+North West,Jigawa,Gwaram,Tier 5,0
+North West,Kano,Gwarzo,Tier 5,0
+North Central,Benue,Gwer East,Tier 5,0
+North Central,Benue,Gwer West,Tier 5,0
+North West,Jigawa,Gwiwa,Tier 5,0
+North East,Borno,Gwoza,Tier 5,0
+North West,Jigawa,Hadejia,Tier 5,0
+North East,Borno,Hawul,Tier 5,0
+North East,Adamawa,Hong,Tier 5,0
+South West,Oyo,Ibadan North,Tier 5,0
+South West,Oyo,Ibadan North-East,Tier 5,0
+South West,Oyo,Ibadan North-West,Tier 5,0
+South West,Oyo,Ibadan South-East,Tier 5,0
+South West,Oyo,Ibadan South-West,Tier 5,0
+North Central,Kogi,Ibaji,Tier 5,0
+South West,Oyo,Ibarapa Central,Tier 5,0
+South West,Oyo,Ibarapa East,Tier 5,0
+South West,Oyo,Ibarapa North,Tier 5,0
+South West,Lagos,Ibeju-Lekki,Tier 5,0
+South South,Akwa-Ibom,Ibeno,Tier 5,0
+South South,Akwa-Ibom,Ibesikpo Asutan,Tier 5,0
+North East,Taraba,Ibi,Tier 5,0
+South South,Akwa-Ibom,Ibiono-Ibom,Tier 5,0
+North Central,Kogi,Idah,Tier 5,0
+South West,Ondo,Idanre,Tier 5,0
+South East,Imo,Ideato North,Tier 5,0
+South East,Imo,Ideato South,Tier 5,0
+South East,Anambra,Idemili North,Tier 5,0
+South East,Anambra,Idemili South,Tier 5,0
+South West,Oyo,Ido,Tier 5,0
+South West,Ekiti,Ido Osi,Tier 5,0
+South West,Lagos,Ifako-Ijaiye,Tier 5,0
+South West,Osun,Ife Central,Tier 5,0
+South West,Osun,Ife East,Tier 5,0
+South West,Osun,Ife North,Tier 5,0
+South West,Osun,Ife South,Tier 5,0
+South West,Osun,Ifedayo,Tier 5,0
+South West,Ondo,Ifedore,Tier 5,0
+South West,Osun,Ifelodun,Tier 5,0
+South West,Ogun,Ifo,Tier 5,0
+North West,Kaduna,Igabi,Tier 5,0
+North Central,Kogi,Igalamela-Odolu,Tier 5,0
+South East,Enugu,Igbo Etiti,Tier 5,0
+South East,Enugu,Igbo Eze North,Tier 5,0
+South East,Enugu,Igbo Eze South,Tier 5,0
+South South,Edo,Igueben,Tier 5,0
+South East,Anambra,Ihiala,Tier 5,0
+South East,Imo,Ihitte/Uboma,Tier 5,0
+South West,Ogun,Ijebu East,Tier 5,0
+South West,Ogun,Ijebu North,Tier 5,0
+South West,Ogun,Ijebu North East,Tier 5,0
+South West,Ogun,Ijebu Ode,Tier 5,0
+South West,Ekiti,Ijero,Tier 5,0
+North Central,Kogi,Ijumu,Tier 5,0
+South South,Akwa-Ibom,Ika,Tier 5,0
+South South,Delta,Ika North East,Tier 5,0
+South South,Delta,Ika South,Tier 5,0
+North West,Kaduna,Ikara,Tier 5,0
+South East,Imo,Ikeduru,Tier 5,0
+South West,Lagos,Ikeja,Tier 5,0
+South West,Ogun,Ikenne,Tier 5,0
+South West,Ekiti,Ikere,Tier 5,0
+South West,Ekiti,Ikole,Tier 5,0
+South South,Cross-River,Ikom,Tier 5,0
+South South,Akwa-Ibom,Ikono,Tier 5,0
+South West,Lagos,Ikorodu,Tier 5,0
+South South,Akwa-Ibom,Ikot Abasi (village),Tier 5,0
+South South,Akwa-Ibom,Ikot Ekpene,Tier 5,0
+South South,Edo,Ikpoba Okha,Tier 5,0
+South South,Rivers,Ikwerre,Tier 5,0
+South South,Ebonyi,Ikwo,Tier 5,0
+South East,Abia,Ikwuano,Tier 5,0
+South West,Osun,Ila,Tier 5,0
+South West,Ondo,Ilaje,Tier 5,0
+South West,Ondo,Ile-Oluji/Okeigbo,Tier 5,0
+South West,Ekiti,Ilejemeje,Tier 5,0
+South West,Osun,Ilesa East,Tier 5,0
+South West,Osun,Ilesa West,Tier 5,0
+North West,Sokoto,Illela,Tier 5,0
+North Central,Kwara,Ilorin East,Tier 5,0
+North Central,Kwara,Ilorin West,Tier 5,0
+South West,Ogun,Imeko Afon,Tier 5,0
+North West,Kebbi,Ingaski,Tier 5,0
+North West,Katsina,Ingawa,Tier 5,0
+South South,Akwa-Ibom,Ini,Tier 5,0
+South West,Ogun,Ipokia,Tier 5,0
+South West,Ondo,Irele,Tier 5,0
+South West,Oyo,Irepo,Tier 5,0
+South West,Osun,Irepodun,Tier 5,0
+South West,Ekiti,Irepodun/Ifelodun,Tier 5,0
+South West,Osun,Irewole,Tier 5,0
+South West,Ekiti,Ise/Orun,Tier 5,0
+South West,Oyo,Iseyin,Tier 5,0
+South South,Ebonyi,Ishielu,Tier 5,0
+South East,Enugu,Isi Uzo,Tier 5,0
+South East,Imo,Isiala Mbano,Tier 5,0
+South East,Abia,Isiala Ngwa North,Tier 5,0
+South East,Abia,Isiala Ngwa South,Tier 5,0
+North Central,Kwara,Isin,Tier 5,0
+South West,Osun,Isokan,Tier 5,0
+South South,Delta,Isoko North,Tier 5,0
+South South,Delta,Isoko South,Tier 5,0
+South East,Imo,Isu,Tier 5,0
+South East,Abia,Isuikwuato,Tier 5,0
+North East,Bauchi,Itas/Gadau,Tier 5,0
+South West,Oyo,Itesiwaju,Tier 5,0
+South South,Akwa-Ibom,Itu,Tier 5,0
+South South,Ebonyi,Ivo,Tier 5,0
+South West,Oyo,Iwajowa,Tier 5,0
+South West,Osun,Iwo,Tier 5,0
+South South,Ebonyi,Izzi,Tier 5,0
+North West,Kaduna,Jaba,Tier 5,0
+North East,Adamawa,Jada,Tier 5,0
+North West,Jigawa,Jahun,Tier 5,0
+North East,Yobe,Jakusko,Tier 5,0
+North East,Taraba,Jalingo,Tier 5,0
+North East,Bauchi,Jama'are,Tier 5,0
+North West,Kebbi,Jega,Tier 5,0
+North West,Kaduna,Jema'a,Tier 5,0
+North East,Borno,Jere,Tier 5,0
+North Central,Plateau,Jos East,Tier 5,0
+North Central,Plateau,Jos North,Tier 5,0
+North Central,Plateau,Jos South,Tier 5,0
+North Central,Kogi,Kabba/Bunu,Tier 5,0
+North West,Kano,Kabo,Tier 5,0
+North West,Kaduna,Kachia,Tier 5,0
+North West,Kaduna,Kaduna North,Tier 5,0
+North West,Kaduna,Kaduna South,Tier 5,0
+North West,Jigawa,Kafin Hausa,Tier 5,0
+North West,Katsina,Kafur,Tier 5,0
+North East,Borno,Kaga,Tier 5,0
+North West,Kaduna,Kagarko,Tier 5,0
+North West,Katsina,Kaita,Tier 5,0
+South West,Oyo,Kajola,Tier 5,0
+North West,Kaduna,Kajuru,Tier 5,0
+North West,Kebbi,Kalgo,Tier 5,0
+North East,Gombe,Kaltungo,Tier 5,0
+North Central,Plateau,Kanam,Tier 5,0
+North Central,Plateau,Kanke,Tier 5,0
+North West,Katsina,Kankia,Tier 5,0
+North West,Kano,Kano Municipal,Tier 5,0
+North East,Yobe,Karasuwa,Tier 5,0
+North West,Kano,Karaye,Tier 5,0
+North East,Taraba,Karim Lamido,Tier 5,0
+North Central,Nasarawa,Karu,Tier 5,0
+North East,Bauchi,Katagum,Tier 5,0
+North Central,Niger,Katcha,Tier 5,0
+North West,Katsina,Katsina,Tier 5,0
+North Central,Benue,Katsina-Ala,Tier 5,0
+North West,Jigawa,Kaugama,Tier 5,0
+North West,Kaduna,Kaura,Tier 5,0
+North West,Zamfara,Kaura-Namoda,Tier 5,0
+North West,Kaduna,Kauru,Tier 5,0
+North West,Jigawa,Kazaure,Tier 5,0
+North West,Sokoto,Kebbe,Tier 5,0
+North Central,Nasarawa,Keffi,Tier 5,0
+South South,Rivers,Khana,Tier 5,0
+North West,Kano,Kibiya,Tier 5,0
+North East,Bauchi,Kirfi,Tier 5,0
+North West,Jigawa,Kiri Kasama,Tier 5,0
+North West,Kano,Kiru,Tier 5,0
+North West,Jigawa,Kiyawa,Tier 5,0
+North West,Kebbi,Koko,Tier 5,0
+North Central,Nasarawa,Kokona,Tier 5,0
+South South,Bayelsa,Kolokuma/Opokuma,Tier 5,0
+North East,Borno,Konduga,Tier 5,0
+North Central,Benue,Konshisha,Tier 5,0
+North Central,Niger,Kontagora,Tier 5,0
+South West,Lagos,Kosofe,Tier 5,0
+North Central,Kogi,Koton karfe,Tier 5,0
+North West,Kaduna,Kubau,Tier 5,0
+North West,Kaduna,Kudan,Tier 5,0
+North Central,FCT/Abuja,Kuje,Tier 5,0
+North West,Kano,Kumbotso,Tier 5,0
+North West,Kano,Kunchi,Tier 5,0
+North West,Kano,Kura,Tier 5,0
+North West,Katsina,Kurfi,Tier 5,0
+North East,Taraba,Kurmi,Tier 5,0
+North West,Katsina,Kusada,Tier 5,0
+North Central,FCT/Abuja,Kwali,Tier 5,0
+North East,Gombe,Kwami,Tier 5,0
+North Central,Benue,Kwande,Tier 5,0
+North West,Sokoto,Kware,Tier 5,0
+North East,Borno,Kwaya Kusar,Tier 5,0
+North Central,Nasarawa,Lafia,Tier 5,0
+South West,Oyo,Lagelu,Tier 5,0
+South West,Lagos,Lagos Island,Tier 5,0
+South West,Lagos,Lagos Mainland,Tier 5,0
+North East,Adamawa,Lamurde,Tier 5,0
+North Central,Plateau,Langtang North,Tier 5,0
+North Central,Plateau,Langtang South,Tier 5,0
+North Central,Niger,Lapai,Tier 5,0
+North Central,Kwara,Latiagi,Tier 5,0
+North East,Taraba,Lau,Tier 5,0
+North Central,Niger,Lavun,Tier 5,0
+North West,Kaduna,Lere,Tier 5,0
+North Central,Benue,Logo,Tier 5,0
+North Central,Kogi,Lokoja,Tier 5,0
+North East,Yobe,Machina,Tier 5,0
+North East,Adamawa,Madagali,Tier 5,0
+North West,Kano,Madobi,Tier 5,0
+North East,Borno,Mafa,Tier 5,0
+North Central,Niger,Magama,Tier 5,0
+North East,Borno,Magumeri,Tier 5,0
+North West,Katsina,Mai'Adua,Tier 5,0
+North East,Borno,Maiduguri,Tier 5,0
+North West,Jigawa,Maigatari,Tier 5,0
+North East,Adamawa,Maiha,Tier 5,0
+North West,Kebbi,Maiyama,Tier 5,0
+North West,Kaduna,Makarfi,Tier 5,0
+North West,Kano,Makoda,Tier 5,0
+North Central,Benue,Makurdi,Tier 5,0
+North West,Jigawa,Malam Madori,Tier 5,0
+North West,Katsina,Malumfashi,Tier 5,0
+North Central,Plateau,Mangu,Tier 5,0
+North West,Katsina,Mani,Tier 5,0
+North West,Zamfara,Maradun,Tier 5,0
+North Central,Niger,Mariga,Tier 5,0
+North West,Zamfara,Maru,Tier 5,0
+North Central,Niger,Mashegu,Tier 5,0
+North West,Katsina,Mashi,Tier 5,0
+North East,Adamawa,Mayo Belwa,Tier 5,0
+South East,Imo,Mbaitoli,Tier 5,0
+South South,Akwa-Ibom,Mbo,Tier 5,0
+North East,Adamawa,Michika,Tier 5,0
+North West,Jigawa,Miga,Tier 5,0
+North Central,Plateau,Mikang,Tier 5,0
+North West,Kano,Minjibir,Tier 5,0
+North East,Bauchi,Misau,Tier 5,0
+South South,Akwa-Ibom,Mkpat-Enin,Tier 5,0
+South West,Ekiti,Moba,Tier 5,0
+North Central,Niger,Mokwa,Tier 5,0
+North Central,Kogi,Mopa-Muro,Tier 5,0
+North Central,Kwara,Moro,Tier 5,0
+North East,Adamawa,Mubi North,Tier 5,0
+North East,Adamawa,Mubi South,Tier 5,0
+North Central,Niger,Munya,Tier 5,0
+South West,Lagos,Mushin,Tier 5,0
+North East,Gombe,Nafada,Tier 5,0
+North East,Yobe,Nangere,Tier 5,0
+North West,Kano,Nasarawa,Tier 5,0
+North Central,Nasarawa,Nasarawa Eggon,Tier 5,0
+South South,Delta,Ndokwa East,Tier 5,0
+South South,Delta,Ndokwa West,Tier 5,0
+South South,Bayelsa,Nembe,Tier 5,0
+North East,Borno,Nganzai,Tier 5,0
+South East,Imo,Ngor Okpala,Tier 5,0
+North East,Yobe,Nguru,Tier 5,0
+North East,Bauchi,Ningi,Tier 5,0
+South East,Imo,Njaba,Tier 5,0
+South East,Anambra,Njikoka,Tier 5,0
+South East,Enugu,Nkanu East,Tier 5,0
+South East,Enugu,Nkanu West,Tier 5,0
+South East,Imo,Nkwerre,Tier 5,0
+South East,Anambra,Nnewi North,Tier 5,0
+South East,Anambra,Nnewi South,Tier 5,0
+South South,Akwa-Ibom,Nsit-Atai,Tier 5,0
+South South,Akwa-Ibom,Nsit-Ibom,Tier 5,0
+South South,Akwa-Ibom,Nsit-Ubium,Tier 5,0
+South East,Enugu,Nsukka,Tier 5,0
+North East,Adamawa,Numan,Tier 5,0
+South East,Imo,Nwangele,Tier 5,0
+South West,Ogun,Obafemi Owode,Tier 5,0
+South South,Cross-River,Obanliku,Tier 5,0
+North Central,Nasarawa,Obi,Tier 5,0
+South East,Abia,Obi Ngwa,Tier 5,0
+South South,Rivers,Obio-Akpor,Tier 5,0
+South West,Osun,Obokun,Tier 5,0
+South South,Akwa-Ibom,Obot Akara,Tier 5,0
+South East,Imo,Obowo,Tier 5,0
+South South,Cross-River,Obubra,Tier 5,0
+South South,Cross-River,Obudu,Tier 5,0
+South West,Ogun,Odeda,Tier 5,0
+South West,Ondo,Odigbo,Tier 5,0
+South West,Osun,Odo-Otin,Tier 5,0
+South West,Ogun,Odogbolu,Tier 5,0
+South South,Cross-River,Odukpani,Tier 5,0
+North Central,Kwara,Offa,Tier 5,0
+North Central,Kogi,Ofu,Tier 5,0
+South South,Rivers,Ogba-Egbema-Ndoni,Tier 5,0
+North Central,Benue,Ogbadibo,Tier 5,0
+South East,Anambra,Ogbaru,Tier 5,0
+South South,Bayelsa,Ogbia,Tier 5,0
+South West,Oyo,Ogbomosho North,Tier 5,0
+South West,Oyo,Ogbomosho South,Tier 5,0
+South West,Oyo,Ogo Oluwa,Tier 5,0
+South South,Cross-River,Ogoja,Tier 5,0
+South South,Rivers,Ogu-Bolo,Tier 5,0
+South West,Ogun,Ogun Waterside,Tier 5,0
+South East,Imo,Oguta,Tier 5,0
+South East,Abia,Ohafia,Tier 5,0
+South East,Imo,Ohaji/Egbema,Tier 5,0
+South South,Ebonyi,Ohaozara,Tier 5,0
+South South,Ebonyi,Ohaukwu,Tier 5,0
+North Central,Benue,Ohimini,Tier 5,0
+South East,Enugu,Oji River,Tier 5,0
+South West,Lagos,Ojo,Tier 5,0
+North Central,Benue,Oju,Tier 5,0
+North Central,Kwara,Oke Ero,Tier 5,0
+North Central,Kogi,Okehi,Tier 5,0
+North Central,Kogi,Okene,Tier 5,0
+South East,Imo,Okigwe,Tier 5,0
+South South,Rivers,Okirika,Tier 5,0
+South West,Ondo,Okitipupa,Tier 5,0
+South South,Akwa-Ibom,Okobo,Tier 5,0
+South South,Delta,Okpe,Tier 5,0
+North Central,Benue,Okpokwu,Tier 5,0
+South West,Osun,Ola-Oluwa,Tier 5,0
+North Central,Kogi,Olamaboro,Tier 5,0
+South West,Osun,Olorunda,Tier 5,0
+South West,Oyo,Olorunsogo,Tier 5,0
+South West,Oyo,Oluyole,Tier 5,0
+North Central,Kogi,Omala,Tier 5,0
+South South,Rivers,Omuma,Tier 5,0
+South West,Oyo,Ona Ara,Tier 5,0
+South West,Ondo,Ondo East,Tier 5,0
+South West,Ondo,Ondo West,Tier 5,0
+South South,Ebonyi,Onicha,Tier 5,0
+South East,Anambra,Onitsha North,Tier 5,0
+South East,Anambra,Onitsha South,Tier 5,0
+South South,Akwa-Ibom,Onna,Tier 5,0
+South East,Imo,Onuimo,Tier 5,0
+South South,Rivers,Opobo-Nkoro,Tier 5,0
+South South,Edo,Oredo,Tier 5,0
+South West,Oyo,Orelope,Tier 5,0
+South South,Edo,Orhionmwon,Tier 5,0
+South West,Osun,Ori-Ade,Tier 5,0
+South West,Oyo,Orire,Tier 5,0
+South East,Imo,Orlu,Tier 5,0
+South West,Osun,Orolu,Tier 5,0
+South South,Akwa-Ibom,Oron,Tier 5,0
+South East,Imo,Orsu,Tier 5,0
+South East,Imo,Oru East,Tier 5,0
+South East,Imo,Oru West,Tier 5,0
+South South,Akwa-Ibom,Oruk Anam,Tier 5,0
+South East,Anambra,Orumba North,Tier 5,0
+South East,Anambra,Orumba South,Tier 5,0
+South West,Ondo,Ose,Tier 5,0
+South South,Delta,Oshimili North,Tier 5,0
+South South,Delta,Oshimili South,Tier 5,0
+South West,Lagos,Oshodi-Isolo,Tier 5,0
+South East,Abia,Osisioma,Tier 5,0
+South West,Osun,Osogbo,Tier 5,0
+North Central,Benue,Oturkpo,Tier 5,0
+South South,Edo,Ovia North-East,Tier 5,0
+South South,Edo,Ovia South-West,Tier 5,0
+South South,Edo,Owan East,Tier 5,0
+South South,Edo,Owan West,Tier 5,0
+South East,Imo,Owerri Municipal,Tier 5,0
+South East,Imo,Owerri North,Tier 5,0
+South East,Imo,Owerri West,Tier 5,0
+South West,Ondo,Owo,Tier 5,0
+South West,Ekiti,Oye,Tier 5,0
+South East,Anambra,Oyi,Tier 5,0
+South South,Rivers,Oyigbo,Tier 5,0
+South West,Oyo,Oyo East,Tier 5,0
+South West,Oyo,Oyo West,Tier 5,0
+North Central,Kwara,Oyun,Tier 5,0
+North Central,Niger,Paikoro,Tier 5,0
+North Central,Plateau,Pankshin,Tier 5,0
+South South,Delta,Patani,Tier 5,0
+South South,Rivers,Port Harcourt,Tier 5,0
+North East,Yobe,Potiskum,Tier 5,0
+North Central,Plateau,Quaran Pan,Tier 5,0
+North Central,Niger,Rafi,Tier 5,0
+North West,Kano,Rano,Tier 5,0
+South West,Ogun,Remo North,Tier 5,0
+North West,Katsina,Rimi,Tier 5,0
+North West,Kano,Rimin Gado,Tier 5,0
+North West,Jigawa,Ringim,Tier 5,0
+North Central,Plateau,Riyom,Tier 5,0
+North West,Kano,Rogo,Tier 5,0
+North West,Jigawa,Roni,Tier 5,0
+North West,Kaduna,Sabon Gari,Tier 5,0
+South South,Bayelsa,Sagbama,Tier 5,0
+North West,Kebbi,Sakaba,Tier 5,0
+South West,Oyo,Saki East,Tier 5,0
+South West,Oyo,Saki West,Tier 5,0
+North West,Katsina,Sandamu,Tier 5,0
+North West,Kaduna,Sanga,Tier 5,0
+South South,Delta,Sapele,Tier 5,0
+North East,Taraba,Sardauna,Tier 5,0
+South West,Ogun,Shagamu,Tier 5,0
+North West,Sokoto,Shagari,Tier 5,0
+North West,Kebbi,Shanga,Tier 5,0
+North East,Borno,Shani,Tier 5,0
+North West,Kano,Shanono,Tier 5,0
+North East,Adamawa,Shelleng,Tier 5,0
+North Central,Plateau,Shendam,Tier 5,0
+North East,Bauchi,Shira,Tier 5,0
+North Central,Niger,Shiroro,Tier 5,0
+North East,Gombe,Shongom,Tier 5,0
+North West,Sokoto,Silame,Tier 5,0
+North West,Kaduna,Soba,Tier 5,0
+North West,Sokoto,Sokoto North,Tier 5,0
+North West,Sokoto,Sokoto South,Tier 5,0
+South West,Lagos,Somolu,Tier 5,0
+North East,Adamawa,Song,Tier 5,0
+South South,Bayelsa,Southern Ijaw,Tier 5,0
+North West,Jigawa,Sule Tankarkar,Tier 5,0
+North Central,Niger,Suleja,Tier 5,0
+North West,Kano,Sumaila,Tier 5,0
+North West,Kebbi,Suru,Tier 5,0
+South West,Oyo,Surulere,Tier 5,0
+North Central,Niger,Tafa,Tier 5,0
+North East,Bauchi,Tafawa Balewa,Tier 5,0
+South South,Rivers,Tai,Tier 5,0
+North West,Kano,Takai,Tier 5,0
+North East,Taraba,Takum,Tier 5,0
+North West,Zamfara,Talata-Mafara,Tier 5,0
+North West,Sokoto,Tambuwal,Tier 5,0
+North West,Sokoto,Tangaza,Tier 5,0
+North West,Kano,Tarauni,Tier 5,0
+North Central,Benue,Tarka,Tier 5,0
+North East,Yobe,Tarmuwa,Tier 5,0
+North West,Jigawa,Taura,Tier 5,0
+North West,Kano,Tofa,Tier 5,0
+North East,Bauchi,Toro,Tier 5,0
+North Central,Nasarawa,Toto,Tier 5,0
+North East,Adamawa,Toungo,Tier 5,0
+North West,Zamfara,Tsafe,Tier 5,0
+North West,Kano,Tsanyawa,Tier 5,0
+North West,Kano,Tudun Wada,Tier 5,0
+South East,Enugu,Udenu,Tier 5,0
+South East,Enugu,Udi,Tier 5,0
+South South,Delta,Udu,Tier 5,0
+South South,Akwa-Ibom,Udung-Uko,Tier 5,0
+South South,Delta,Ughelli North,Tier 5,0
+South South,Delta,Ughelli South,Tier 5,0
+South East,Abia,Ugwunagbo,Tier 5,0
+South South,Edo,Uhunmwonde,Tier 5,0
+South South,Akwa-Ibom,Ukanafun,Tier 5,0
+North Central,Benue,Ukum,Tier 5,0
+South East,Abia,Ukwa East,Tier 5,0
+South East,Abia,Ukwa West,Tier 5,0
+South South,Delta,Ukwuani,Tier 5,0
+South East,Abia,Umu Nneochi,Tier 5,0
+South East,Abia,Umuahia North,Tier 5,0
+South East,Abia,Umuahia South,Tier 5,0
+North West,Kano,Ungogo,Tier 5,0
+South South,Akwa-Ibom,Uruan,Tier 5,0
+South South,Akwa-Ibom,Urue-Offong/Oruko,Tier 5,0
+North Central,Benue,Ushongo,Tier 5,0
+North East,Taraba,Ussa,Tier 5,0
+South South,Delta,Uvwie,Tier 5,0
+South South,Akwa-Ibom,Uyo,Tier 5,0
+South East,Enugu,Uzo-Uwani,Tier 5,0
+North Central,Benue,Vandeikya,Tier 5,0
+North West,Sokoto,Wamakko,Tier 5,0
+North Central,Nasarawa,Wamba,Tier 5,0
+North West,Kano,Warawa,Tier 5,0
+North East,Bauchi,Warji,Tier 5,0
+South South,Delta,Warri North,Tier 5,0
+South South,Delta,Warri South,Tier 5,0
+South South,Delta,Warri South West,Tier 5,0
+North Central,Plateau,Wase,Tier 5,0
+North West,Kano,Wudil,Tier 5,0
+North East,Taraba,Wukari,Tier 5,0
+North West,Sokoto,Wurno,Tier 5,0
+North Central,Niger,Wushishi,Tier 5,0
+North West,Sokoto,Yabo,Tier 5,0
+North Central,Kogi,Yagba East,Tier 5,0
+North Central,Kogi,Yagba West,Tier 5,0
+South South,Cross-River,Yakurr,Tier 5,0
+South South,Cross-River,Yala,Tier 5,0
+North East,Gombe,Yamaltu/Deba,Tier 5,0
+North West,Jigawa,Yankwashi,Tier 5,0
+North West,Kebbi,Yauri,Tier 5,0
+South South,Bayelsa,Yenagoa,Tier 5,0
+South West,Ogun,Yewa North,Tier 5,0
+South West,Ogun,Yewa South,Tier 5,0
+North East,Adamawa,Yola North,Tier 5,0
+North East,Adamawa,Yola South,Tier 5,0
+North East,Taraba,Yorro,Tier 5,0
+North East,Yobe,Yunusari,Tier 5,0
+North East,Yobe,Yusufari,Tier 5,0
+North East,Bauchi,Zaki,Tier 5,0
+North West,Katsina,Zango,Tier 5,0
+North West,Kaduna,Zangon Kataf,Tier 5,0
+North West,Kaduna,Zaria,Tier 5,0
+North East,Taraba,Zing,Tier 5,0
+North West,Zamfara,Zurmi,Tier 5,0
+North West,Kebbi,Zuru,Tier 5,0
+North Central,Nasarawa,keana,Tier 5,0
+North Central,Kogi,ogori/magongo,Tier 5,0
