@@ -246,8 +246,8 @@ activities = ["Pre Audit", "Motorbile & Network Analysis", "Energy Audit & SE", 
 data = {
     "Hospital Count": [32, 32, 32, 32, 32, 32],
     "Hospital Collected": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
-    "Verified/Passed Check": [0, 0, 0, 0, 0, 0],
-    "Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
+    #"Verified/Passed Check": [0, 0, 0, 0, 0, 0],
+    #"Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
 }
 
 # --- Title ---
@@ -259,8 +259,8 @@ fig = go.Figure()
 colors = {
     "Hospital Count" : "#068744",
     "Hospital Collected": "#36A2EB",
-    "Verified/Passed Check": "#064c87",
-    "Unverified Data" : "#f9bc6c",
+    #"Verified/Passed Check": "#064c87",
+    #"Unverified Data" : "#f9bc6c",
 }
 
 for key in data:
