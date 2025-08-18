@@ -1,0 +1,280 @@
+Timestamp,What is the name of the hospital?,What Local Government Area is it located?,Hospital Address,Do you operate 24/7?,Opening Time?,Closing Time,Number of Daily In-patient Admissions (average),Number of Daily Out-patient Visits (average),Contact Person's Name,Contact Person's Phone Number,Contact Person's Email,Contact Person's Position,Type of Hospital/Specialization,How many departments in total operate in the hospital?,Can you provide a list of all the departments in the hospital,Number of physical buildings/Blocks within the hospital complex?,Existing Energy Service Providers (Select all available),What is your primary source of electricity,Are there any safety concerns associated with the current energy systems?,"If Yes, please describe",Do you get 24 Hours power supply?,How many Hours do you currently get from all sources?,How does the power interruption impact service delivery?,Has the hospital Previously Shut down due to electricity issues,"If you had 24/7 Electricity, Would you be able to offer more services?",What additional services would you offer if you had more electricity?,Is the hospital management open to solar adoption?,What kind of ownership model would the hospital prefer for a solar solution?,On a scale of 1-5 How would you rate the safety of this environment?,Do the hospital have a Energy/Facility Maintenance and Management team that tracks and keep energy costs and performance?,"If yes, On a scale of 1 to 10, how will you rate the experience of the Energy/Facility Management team?","If yes, how many staff members?","If yes, Are the current members of the technical team experienced enough to manage a Solar PV Solution if installed?",Can  you give an expected savings or ROI targets after solar installation?,Do you get a percentage from your monthly revenue to run operations in the hospital?,What percentage of your revenue do you use to run all operations in the hospital,What percentage of your revenue do you use to for electricity supply in the hospital,Is this amount enough to cater for the electricity supply in the Hospital Facility?,Do the hospital have a budget for energy infrastructure operations/upgrades?, what is the estimated amount allocated on a monthly basis?,Is the budget funded through the Ministry or Monthly allocation to the Hospital? ,"If No, how do the hospital fund energy infrastructure operations/upgrades?",Have you previously benefited from donor-funded energy projects?,"If Yes, provide project name and year",Is the hospital currently benefiting from any government energy subsidy or incentive?,"If Yes, specify the type"
+5/28/2025 11:06:05,Accident & Emergency,Kosofe,Lagos/Ibadan expressway tollgate Alausa ikeja ,Yes,,,20,5,Patrick Olugbenga Saheed ,8035790079,patricksaheed44@gmail.com,Chief Engr. (Elect),Trauma  Center ,15,"Medical, Nursing, Radiology, Laboratory, Health information  for medical system (HIMS), Pharmacy , Social welfare, Finance and Account, Administration, Store, ICT, Procurement, Budget and planning, Internal Audit, Engineering ",8,"Generator, Solar, IPP",IPP,No,,No,8,Service delivery without power is to a minimal,Yes,Yes,Trauma Training and seminars to all hospitals,Yes,PPA model,3,Yes,5,11,Yes,1.8 million every month,Yes,30,30,No,No,,,,Yes,60kva solar energy project and supply of 100kva JPG generator via ministry of health by the Governor,No,
+5/30/2025 14:37:04,Accident & Emergency,Kosofe,Lagos/Ibadan expressway tollgate Alausa ikeja Lagos ,Yes,,,20,5,Patrick Olugbenga Saheed ,8035790079,Patrick saheed44@gmail.com,Chief Engineer (Elect),Trauma center ,15,"Medical services, Nursing services, Radiology, Laboratory services, Health information and medical System HIMS, Pharmacy, Social welfare, Finance and Account,Administratio/HR , Procurement, ICT, Budget and planning, Internal Audit, Engineering ",8,"Generator, Solar, IPP",IPP,No,,No,8hrs,"Virtually every department of the hospital requires power, hence if power is down service delivery is poor to the nearest minimal ",Yes,Yes,Trauma Training services to all Lagos state hospitals ,Yes,PPA model,3,Yes,5,11,Yes,1.8 million Naira momthly,Yes,Nil(No revenue),Nil( No revenue),No,No,,,,Yes,60kva  Solar)inverter hybrid project and 109kva Generator via ministry of health by the Governor ,No,
+5/27/2025 23:36:39,Agbowa General Hospital,Epe,Hospital road Agbowa ,Yes,,,30,150,Mr Adeyinka Adegbuyi,8032240399,adegbuyiyinka@gmail.com,Hod engineering ,General Hospital,9,"Medical, Surgical, Pediatric,OandG, Dental, Radiology, Laboratory,, Emergency, Opthalmology ",9,"Generator, Solar",Generator,Yes,"exposed wires, Noise, Fumes, Fire Risk",No,12,"Equipment damages, poor client satisfaction due to poor power duration, surgical delays, poor staff working environment ",No,Yes,"Physiotherapy, orthopedic, ",Yes,Ownership but privately managed ,4,Yes,3,6,No,6.5 million monthly averagely,Yes,100,60,No,No,,,,No,,Yes,"fuel subsidy,"
+5/29/2025 11:48:20,Ajeromi General Hospital,Ajeromi-Ifelodun,"6 Cardoso street, Ajegunle Lagos ",Yes,,,20,600,Dr Sotunde Yetunde,8023128283,Yettycosh00@gmail.com,MD/CEO,Secondary hospital ( General Hospital),24,"Admin&HR,O&G, Pediatric, Anesthesia, Nursing, surgery, Dental, Opthalmology, pharmacy, Record, Laboratory, Dietetics, planning, Accounts, Social welfare, Radiology,GOPD, Engineering, cardiology, procurement, store, catering Audit and ICT.",2,"National Grid, Generator, Solar",National Grid,No,,No,12hrs,It's affect the hospital finances in providing alternatives ,No,Yes,"Pathology services, dialysis unit etc",Yes,outright purchase,3,Yes,8,40,Yes,No,Yes,70%,20%,No,No,,,,No,,Yes,"fuel subsidy,"
+5/29/2025 12:44:49,Apapa General Hospital,Apapa,16 Ibikunle Akintoye street Apapa ,Yes,,,5,450,Dr Lateefat Agbaje ,0810 693 2606 ,laralawal@yahoo.com,Medical Director ,General Hospital ,24,"Medicine, Surgery, Obstetrics and Gynaecology, Paediatrics, Accident and Emergency, Ophthalmology, Anaesthesia, Family Medicine, Dentistry, Physiotherapy, Community Medicine, Laboratory, Medical Imaging, pharmacy, Health Information, Administration and HR, Engineering, Accounts, Audit, Procurement,  ICT, Planning and Budget, Public Relations",9,"National Grid, Generator",National Grid,Yes,"exposed wires, Noise, Fumes, Fire Risk",No,15,It prevents optimal service delivery by disrupting services since we depend on power to run virtually all departments ,No,Yes,"We would improve on all services currently being delivered significantly, we can truly run 24hours services, Laboratory and Xray and the theatre can function adequately. Waiting time will reduce and patient flow will improve in response to it",Yes,PPA model,3,No,,,,From 5 to about 7million monthly ,Yes,80-90%,20%,No,No,,,,No,,No,
+5/30/2025 9:19:47,Apapa General Hospital,Apapa,16a ibikunle akintoye Street apapa ,Yes,,,93,426,Oluwatoyin Lawal ,8034729974,oluwatoyinlawal190@gmail.com,Head of engineering ,General Hospital ,12,"Medical
+Nursing
+Pharmacy
+Public relations
+Admin
+Procurement
+Finance & accounts
+Planning & budget
+Internal audit
+HIMS
+ICT
+Engineering ",11,"National Grid, Generator, Solar",National Grid,No,,No,18hrs,Yes,No,Yes,MCC,Yes,PPA model,4,No,,,,No,Yes,100,70,No,No,,,,Yes,NPA renovations 2020,No,
+5/28/2025 12:34:13,Asiwaju Bola Ahmed Tinubu Comprehensive Health Centre,Ajeromi-Ifelodun,1 Asemota street Alaba oro,Yes,,,4,221,Dr. Shoneye - Vaughan Olayinka,8023109258,svaughan16@yahoo.co.uk,Medical Director/CEO,Secondary health care facility,17,"O&G, Eye clinic, Dental, Pead, GOPD, Nursing, Pharmacy, Lab, Hims. Admin& HR, Fin &Acct, Audit, Engineering, Procurement, Social Welfare, Store, Budget & Plaining",1,"National Grid, Generator",Generator,No,,No,,slow down flow of service delivery,No,Yes,Medical service expansion,Yes,outright purchase,3,Yes,7,6,No,cost of diesel and maintenance will reduce drastically ,Yes,60,25,No,No,,,,No,,No,
+5/31/2025 22:20:11,Badagry General Hospital,Badagry,"Hospital Road, Badagry ",Yes,,,135,430,Mr Olakunle Okekunle ,7025685035,kuleyoke@yahoo.com,Head of Engineering Department ,Secondary Healthcare Facility ,25,"O&G, Paediatrics, Anaesthesia, Surgery, Medicine, GOPD, Ophthalmology, Dental, Physiotherapy, Radiology, Pharmacy, Laboratory/Pathology Services, Heart-to-Heart, Medical Records, Medical Social Services, Nursing, Admin&HR, Accounts and Finance, Procurement, Stores, Audit, Engineering, ICT, Catering, Environmental and Health, ",31,"National Grid, Generator, Solar",Generator,No,,No,24hours,It delays patients' turnaround time due to generators not switch on early as a result epileptic supply from national grid. 2. It depletes IGR as huge sums are spent on diesel purchased. 3. Fluctuating currents from national grid breaks down hospital equipment ,No,Yes,CT Scan and Mammogram centres,Yes,PPA model,4,No,,,,45 percent of total expenditure spent on diesel would be saved ,Yes,85 percent ,45 percent of the gross revenue ,No,No,,,,No,,No,
+5/27/2025 19:41:19,Ebute Meta General Hospital,Lagos Mainland,"120 - 126, Cemetery Street, Ebute Metta, Lagos",Yes,,,3,50,Dr Irewole-Ojo ,8055264939,firewoleojo@yahoo.com,Medical Director ,General Hospital ,25,Various ,6,"National Grid, Generator",National Grid,No,,No,20,The patients and staff become uncomfortable and results from laboratory cannot be generated ,No,Yes,Neonatal services,Yes,lease-to-own,3,No,,,,"N500,000.00 per month ",No,,,,No,,,,No,,Yes,"fuel subsidy,"
+5/29/2025 15:06:41,Gbagada General Hospital,Kosofe,"1 Hospital road, Gbagada, Lagos",Yes,,,118,1060,Ashaolu Taiwo,8139201642,ashaolutaiwo@gmail.com,Head of Engineering,Secondary/Public,24,"GEN SURGERY 
+ORTHOPAEDIC 
+MEDICINE (UROLOGY, DERMATOLOGY, ENT, NEURO)
+LABORATORY 
+PHYSIO
+DENTAL
+PATHOLOGY 
+OPHTHALMOLOGY
+ADMIN
+ACCOUNTS
+PUBLIC AFFAIRS
+PLANNING 
+NUTRITION 
+HEALTH INFORMATION 
+NURSING 
+ENGINEERING 
+DOMESTIC/ENVIRONMENT 
+ICT
+PAEDIATRIC
+PHARMACY
+HEMATOLOGY
+LABORATORY
+PROCUREMENT
+O&G",12,"National Grid, Generator",National Grid,No,,No,8hrs,It has negative effect especially during surgical operations,Yes,Yes,Intensive care unit,Yes,outright purchase,4,Yes,8,10,Yes,No,Yes,15,13,No,Yes,"4,000,000",Yes,,Yes,"Rural electrification, 2023",No,
+5/27/2025 20:54:40,General Hospital Imota,Ikorodu,"5, Ebute Ajebo street, beside Imota Police Station, Imota",Yes,,,12,200,Dr Adenike Omosun ,8084237109,adenikeomosun@gmail.com,MD/CEO,Secondary health facility ,22,"1. Medical outpatient department 
+2. Surgical outpatient department 
+3. General outpatient department 
+4. Paediatrics / child welfare & immunizations department 
+5. Obstetrics and Gynaecology department 
+6. Ophthalmology department 
+7. Accident and Emergency department
+8. Family planning department 
+9. Nutrition and Dietetics department 
+10. Laboratory department 
+11. Pharmacy department 
+12. Social Welfare department 
+13. Engineering department 
+14. Planning and Budget department 
+15. Accounts department 
+16. Administration department 
+17. Audit department 
+18. Procurement department 
+19. ICT department 
+20. Catering department 
+21. Hygienist department 
+22. Security department 
+",10,"National Grid, Generator, Solar",Generator,Yes,Electrical ,No,20,"Having a major problem commencing electronic medical records, some major life saving equipment require 24/7 light. Services in some department are hampered ",No,Yes,"Electronic medical records, high dependency care unit, neonatal care expansion ",Yes,Donation and lease to own,4,No,,,,10 million ,Yes,100,35,No,No,,,,No,,Yes,Diesel budget
+5/31/2025 22:41:01,"General Hospital Odan, Lagos",Lagos Island,"1-3 , BROAD STREET LAGOS.",Yes,,,100,400,MRS. F.O. BRAIMO,0806 270 3078,fatima_nig@yahoo.com,HEAD OF ADMIN AND HR,Secondary Healthcare/ Multi specialist facility ,43,Yes,17,"National Grid, Generator, Solar, IPP",IPP,No,,No,18-22,Very seriously affects. Wastage of  reagents which are thermal labile,No,Yes,"MRI, Endoscopy and other power related services ",Yes,PPA model,4,Yes,9,6,Yes,Not clear ,No,,,,No,,,,No,,No,
+5/30/2025 15:41:57,Harvey Road Hospital,Lagos Mainland,"8, Harvey Road Yaba, Lagos",Yes,,,Four (4),Three hundred and thirty(330),Dr (Mrs) Folasade Fadare,8023225151,Sade.fadare@yahoo.com  or.  harveyroadhospital@gmail.com,Medical Director/CEO,Secondary Healthcare Facility ,Twenty Three(23),"GOPD, SOPD, MOPD, O&G, PAEDIATRIC, ANAESTHESIA, ENT, RADIOLOGY, PHYSIOTHERAPY, ADMIN & HR, BUDGET& PLANNING, ICT, NURSING, PHARMACY, HMIS, FINANCE & ACCT, AUDIT, LABORATORY, MEDICAL SOCIAL WELFARE, ENGINEERING, STORE, PROCUREMENT,CATERING, ",Eight,"National Grid, Generator",National Grid,Yes,"exposed wires, Fire Risk",No,Daily average of 13hours on phcn and 11hours on generator ,It reduces the rate at which service is delivered ,Yes,Yes,"Offerings of dental clinic, eye clinic, and oncology clinic ",Yes,outright purchase,4,No,,,,"#30,000,000",Yes,8o %,20%,No,Yes,"#1,500,000",Yes,,No,,Yes,"fuel subsidy,"
+5/27/2025 19:49:03,Ibeju Lekki General Hospital,Ibeju-Lekki,"Lagos Road, Lekki Free Zone, Akodo, Lagos",Yes,,,35,200,Dr Ime Okon ,8033552880,imeddie1@gmail.com,Medical Director/CEO,General Hospital ,23,1. Records/HMIS 2. Accounts 3. Nursing 4. Dental 5. Eye 6. Orthopaedics 7. Radiology 8. Anaesthesia 9. Obs & Gyn 10. Paediatrics 11. Store 12. Catering 13. Admin 14. Laboratory 15. Pharmacy 16. Engineering 17. Social Welfare 18. Audit 19. Procurement 20. Security 21. Laundry 22. Drivers 23. Domestic/Hygienist ,8,Generator,Generator,Yes,Fire Risk,No,15,"Reduces effectiveness, increases waiting time for laboratory results,  and other services. Makes in-patient care not conducive enough. Staff not very comfortable at work",Yes,Yes,24 hours laboratory and radiological services which will enhance service delivery especially life-saving emergencies,Yes,lease-to-own,4,Yes,7,6,Yes,Up to N10m pee month,No,,,,No,,,,No,,No,
+5/29/2025 13:34:11,Ifako Agege General Hospital,Ifako-Ijaiye,"14,College road, Ifako Agege",Yes,,,12,750,"Dr Mustapha S.B, Amodu A. G","08023114499, 08032315024","esbeemusty@gmail.com, johnamodu1@gmail.com ","MD/CEO, Assistant Director Engineering","Obstetrics &Gynae, with General medicine&Surgery",27,"Admin &HR dept
+Dental dept
+Ophthalmology dept
+Pediatrics dept
+Anaesthesia dept
+Community health dept
+Pathology dept
+Radiology dept
+GOPD
+Physiotherapy dept
+Engineering dept
+Nursing dept
+Pharmacy dept
+Health Information dept
+Domestic Unit
+Interna Audit Unit
+Public Affairs Unit
+Nutrition and Dietetics Unit
+Finance and Account Dept
+Surgery dept
+Medical Laboratory dept
+Catering section
+Social Welfare dept
+Planning and Budget Unit
+ICT Unit
+Procurement Unit
+Store section",25 buildings/12blocks,"National Grid, Generator",National Grid,Yes,exposed wires,No,12,"Increase in waiting period, Delay in results from the Laboratory, Radiology, Laundry dept, Water supply and Central sewage processing plant. ",Yes,Yes,"Introduction of ICU unit, MRI scan service and others. ",Yes,lease-to-own,5,Yes,6,4,No,We will save over 8million naira monthly,Yes,₦120million,₦15million monthly,Yes,No,,,,No,,Yes,"fuel subsidy,"
+5/29/2025 14:09:29,Ijede General Hospital,Ikorodu,Palace road beside Egbin powerplant Ijede,Yes,,,32,540,Dr Femi Aletan ,8037123631,femialetan@gmail.com,Medical Director ,Multi-specialist/General Hospital ,31,"1. GOPD 2. Obstetrics and Gynaecology, 3. Paediatrics, 4. General Surgery, 5. Child welfare and immunization, 6. Radiology, 7. Opthalmology, 8. Medicine, 9. Family planning, 10. Physiotherapy, 11. Pharmacy, 12.Dental , 13. Nursing 14. Environmental health, 15. Medical Social Work, 16 Engineering, 17.  Procurement, 18 Laboratory, 19. ICT,  20.Public relation, 21. Budget and planning, 22. Finance and Account, 23. Store, 24. Administration and Human Resource, 25.Catering, 26. Audit. 27. Tailoring 28. Laundry 29. HIMS 30. Transport 31. Security ",10,"National Grid, Generator",National Grid,Yes,Fire Risk,No,20,"Delayed service delivery, prolonged patient waiting time, poor patient satisfaction, delayed administrative duties and damage to hospital facilities ",No,Yes,"ICU, ENT and Dialysis ",Yes,lease-to-own,4,No,,,,2Million Naira/Month,Yes,84%,9%,Yes,No,,,,No,,No,
+5/29/2025 15:32:50,Ikorodu General Hospital,Ikorodu,"TOS Benson road ,opposite ikorodu local government office",Yes,,,25,2500,Taiwo Hassan,8054304151,princetaiwohassan@gmail.com,MD/CEO,General hospital ,32,"Medicine 
+Accident and Emergency 
+Anatomical Pathology 
+Surgery 
+Dental 
+Physiotherapy
+Laboratory 
+Opthalmology
+Burns and Plastics
+Orthopedic 
+Pediatrics
+Radiology 
+Obstetrics and Gyneacology
+Anaesthesia
+Nephrology
+General Outpatient 
+Urology
+Hematology
+Pharmacy 
+Ear Nose and Throat 
+Nursing 
+Health Information Management 
+Wellness/Community Health 
+Store 
+Catering 
+Social Welfare 
+Finance and Account 
+Audit 
+Public Affairs
+Procurement 
+Administrative 
+ICT
+Engineering 
+Domestic/Laundry/tailoring 
+",24 buildings ,"National Grid, Generator, Solar",National Grid,No,,Yes,,,,,,Yes,PPA model,4,No,,,,10%,No,,,,No,,,,No,,Yes,"fuel subsidy,"
+5/30/2025 16:52:07,Ketu Ejirin General Hospital,Epe,Ketu Ejinrin Road .Ketu  Epe,Yes,,,08-Oct,50,Dr idowu  ayoola ayokunle,8033344396,idowu.ayola@gmail.com,MD/CEO,General Hospital ,10,"Medical 
+Surgical 
+Out patient 
+Nursing 
+Pharmacy 
+Laboratory 
+Social welfare 
+Domestic 
+Catherine 
+Engineering 
+Medical records 
+
+",12,"National Grid, Generator, Solar",National Grid,Yes,Fire Risk,No,12hour,Affects our services ,No,Yes,More laboratory services ,Yes,outright purchase,3,Yes,4,8,Yes,No,No,,,,No,,,,No,,Yes,"fuel subsidy,"
+5/29/2025 20:35:19,Lagos Island Maternity,Lagos Island,10 Campbell street lagos island,Yes,,,162,210,Dr Femi Omololu,8023517751,Femomololu@yahoo.com,MD/ CEO,Maternity ,22,Yes,3,"National Grid, Generator, IPP",National Grid,Yes,Fire Risk,Yes,,,,,,Yes,lease-to-own,3,Yes,8,8,Yes,"250,000,000",Yes,90℅,20℅,No,No,,,,No,,Yes,"fuel subsidy,"
+5/29/2025 16:25:01,LASUTH,Ikeja,"1-5 oba akinjobi way GRA, ikeja",Yes,,,800,3500,Engr. Ola Sadiq,8037149613,onilenlaolaiwola@gmail.com,Director engineering services ,Tertiary hospital/advance healthcare,57 departments ," (1)Units under Dept. Of Medicine- Cardiology, Respiratory, Dermatology, Neurology, Nephrology, Gastrointestinal, Clinical Pharmacology, Clinical Haematology, Rheumatology. (2)Units under department of surgery- Neurosurgery, Cardiothoracic, General surgery,  Urology. Orthopedics dept., Ear,Nose,Throat dept., Anaesthesia dept., Radiology dept., Oncology dept., Family Medicine dept., Psychiatry dept., Physiotherapy dept., Faculty of dentistry with 5 departments-Oral & maxillofacial, oral pathology & Medicine, preventive dentistry-periodontology, child dental health-orthodontics & paediatric dentistry, and Restorative Department of Haematology, Paediatric dept., O&G department, Nursing Directorate, Community Health, Emergency Medicine, Laboratory Medicine- Medical Microbiology and parasitology, Chemical pathology,  Haematology & blood, Pathology and forensic Medicine,  Transfusion,  NON-CLINIC, Admin, Laundry, Security, Transport, Catering, Tailoring, Quality Assurance, Domestic, Dietetics, Medical Social services, ICT, pharmacy, paediatrics department,",48,"National Grid, Generator, Solar, IPP",National Grid,Yes,"Noise, Fumes",No,16 hours,Negatively ,No,Yes,"Oxygen production can resume at the plant, uninterrupted EMR, reduction in breakdown of equipment, 24 hours services of blood transfusion unit.",Yes,lease-to-own,5,Yes,7,10,Yes,"About ₦35,000,000",Yes,"60%,",30%,No,Yes,No fix amount,Yes,,Yes,"Solar installation to medical emergency, surgical emergency, theatre, paediatric sickle cell building, female surgical ward and solar street lights.",No,
+5/29/2025 13:56:03,Mainland General Hospital,Lagos Mainland,1 Mainland Drive Yaba Lagos,Yes,,,5,60,Adejumo Olusola,8033502773,olusola.adejumo@lagosstate.gov.ng,MD/CEO,Infectious disease,18,"Medical, Admin& HR, Pharmacy, Nursing, Laboratory, Finance and Accounts, Medical social welfare, Engineering, Radiology, Health management info system, Audit, Store, Catering, Procurement, ICT, budget and planning and Dietetics & Nutrition  ",18,"National Grid, Generator, Solar",National Grid,Yes,"exposed wires, Fire Risk",No,16,it disrupts service delivery,No,Yes,Optimize our services and improve patients exoerience,Yes,We don't have enough funds to buy,4,Yes,3,2,No,No,Yes,84%,25%,No,No,,,,Yes,World Bank Rural Electrification 2020,No,
+5/29/2025 17:08:47,Massey Children Hospital,Lagos Island,"Massey Street, Ita-Faji, Lagos",Yes,,,20-30,150-200,Dr Olanike Olutekunbi ,8033567820,nolutekunbi500@gmail.com,Medical Director ,Paediatrics,16,"Medical, Dental, Eye Clinic, Nursing, Pharmacy, HR, Accounts, Audit, Physiotherapy, Catering, Store, Engineering, Procurement, ICT, Social welfare, Laboratory ",2,"Generator, Solar",Generator,No,,No,12,"Impacts on patient care and effectiveness. Most times there is no water in the hospital, Generators run on schedule, patients may not be attended to on time when the generator goes off. ",No,Yes,"More of our dental services, production of syrups,  for compounding on the pharmacy, staffs work in well lit wards, laboratory will run effectively, our diagnostic services will improve- X-ray, echo, ultrasound. We will give quality care to all patients especially the small babies who need incubator care, the use of CPAP machines for ventilation",Yes,Donation,4,Yes,9,6,Yes,Not less than 40%,Yes,Almost all,40-50%,No,No,,,,Yes,"NGOs- Nest 360 (2025), HEI- Cloud Energy (2024)",Yes,"fuel subsidy,"
+5/28/2025 9:38:17,MCC Amuwo Odofin,Amuwo-Odofin,"1st Gate, 1st Avenue, FestacTown, Amuwo Odofin.",Yes,,,25,615,Amusat Tolulope Shakiru,8023825791,amutil2002@gmail.com,Head of Engineering Department ,Maternal and Child Hospital ,22,"1, Obstetrics and Gynecology 2,Paediatrics 3, Anaesthesia 4, Administration 5, Nursing 6, Accounts 7, Procurement  8, Planning 9, Social Welfare 10, Audit 11, Engineering 12, Catering 13, HIMS 14, Pharmacy 15, Store 16, X-ray 17, ICT 18, Dietetics 19, Laboratory 20, Domestics 21,Transportation 22, Laundry. ",2,"National Grid, Generator",National Grid,No,,No,18,Poor Productivity and Reduced Patronage ,No,Yes,Adult and Neonatal Intensive care services ,Yes,outright purchase,4,Yes,8,30,Yes,25%,No,,,,No,,,,No,,No,
+5/29/2025 8:47:34,MCC Eti Osa,Eti-Osa,"Address: Maternal and child center ETI-osa, along Ogombo road, Abraham Adesanya Estate, Ajah, Lagos state.",Yes,,,100,100,Awolusi Oluwaseun,7031339107,seunawolusi1@gmail.com,Head of Engineering ,Maternal and Child center  ,21,"O & G unit, peadiatric unit, laboratory, pharmacy, HIM c,nursing, Engineering, radiology, Physio,store, accounting, adult,administrative,driver , procurement, social welfare, public administration office, ICT",5,"National Grid, Generator",National Grid,No,,No,12hours,Yes ,Yes,Yes,INCU,Yes,outright purchase,4,Yes,8,7,Yes,Hhhh,Yes,5%,5%,Yes,No,,,,No,,Yes,"fuel subsidy,"
+5/29/2025 12:00:17,MCC Eti Osa,Eti-Osa,"Eti Osa MCC, Abraham Adesanya, Ogombo road, Ajah",Yes,,,15,430,Adeiyi Taiwo Olugbenga ,8033514830,adeiyi@yahoo.com,MD/CEO,"Obstetrics and Gynecology, Paediatrics ",23,"Obstetrics and Gynecology 
+Paediatrics
+Administration 
+Audit
+Procurement 
+Lifestyle Medicine
+ICT
+Dietetics
+Social welfare
+Environmental 
+Accounts
+Public affairs 
+Store
+Tailoring 
+Catering
+Laboratory
+Pharmacy
+Engineering 
+Health Information Management 
+Radiology
+Physiotherapy
+Dental
+Ophthalmology ",10,"National Grid, Generator",National Grid,No,,No,20 hours,High cost of alternative power source - Diesel,No,Yes,Mortuary services,Yes,lease-to-own,4,Yes,7,5,No,10%,No,,,,Yes,A million ,Yes,,No,,No,
+5/29/2025 12:21:24,Mushin General Hospital,Mushin,48 Oliyide Mushin and 190 Itire road Pako Eleeja Bus stop,Yes,,,15,275,Taiwo Oluyemi ,"08023053719, 09093813798",drtaiwooluyemi@yahoo.com,MD/CEO,Multispecialty with Maternal and Child Centre ,22,"GOPD, SOPD, Accident and Emergency, Obstetrics and Gynaecology, Paediatrics, Dental, Eye, Physiotherapy, MOPD, Family planning, Immunisation, Admin, store, Procurement, Engineering, Theatre, Catering, Laundry, Radiology, Account, Budget and planing, Tailoring, Creche, Security ",6,"National Grid, Generator, IPP",National Grid,Yes,"exposed wires, Noise",No,About 6 to 7,"Equipment, proper ambience for optimal work and service is interrupted ",No,Yes,"Reduction in waiting time for clients 
+Orthopaedic services
+Nutrition and Dietetics 
+Neonatal Intensive care unit",Yes,PPA model,2,No,,,,Multifactorial ,No,,,,No,,,,Yes,SDG building donation at Eleeja for Maternal and Child Centre ,Yes,"fuel subsidy,"
+5/30/2025 14:02:00,Onikan Health Centre,Lagos Island,"7, King George V street Onikan Lagos ",Yes,,,30,200,Dr Madewa Adebajo ,7085032239,madebajo2@yahoo.com,MD/CEO,"Secondary Care Facility/O&G, Pediatrics, Family Medicine/General Surgery ",23,"Pediatrics, Obs&Gynae, GOPD,SOPD, Laboratory, Pharmacy, Nursing Services, Anesthesia, Engineering,  Medical Social Services, Radiology, Stores, Laundry, Procurement,  Audit, Catering, Health Information Management Services, Finance & Accounts, Admin & Human Resources, Family planning, &  ICT",6,Generator,Generator,Yes,"exposed wires, Noise, Fumes",No,23,Its unpredictability os worrisome and  can lead to poor health outcomes,No,Yes,"ICU/HDU Services, Neonatal Unit Services",Yes,lease-to-own,3,No,,,,Something significant,Yes,84 percent ,30 percent ,No,No,,,,No,,Yes,Diesel Supply from Ibile Oil & Gas
+5/29/2025 12:36:15,Orchid Road General Hospital,Eti-Osa,"Plot 101/102 Orchid Road off Lekki Expressway Eti-Osa, Lagos ",Yes,,,10,130,Dr. Olufunmilola Eso ,8033060983,funmieso@gmail.com,Medical Director ,Secondary health facility ,16,"Medical, Surgical, O&G, Paediatrics, HMIS,Laboratory, Pharmacy, Nursing, Engineering, Admin, Budget,ICT, Social Welfare, Audit,Accounts, Attendants",1,"Generator, Solar",Generator,No,,No,21,The cost implication of diesel affects purchasing ability of consumables. Secondly the period of downtimes affect patient satisfaction as it is hot and uncomfortable. The EMR is also affected as it requires power to function,No,Yes,Ophthalmology and Dental Services,Yes,We currently have solar power,3,No,,,,50%,Yes,84%,25%,No,No,,,,No,,No,
+5/30/2025 20:04:24,Orile Agege General Hospital,Agege,"3,old otta road, orile Agege, ile epo.",Yes,,,I40,1551,Akintunde Taiwo.A,8023178936,orileagegeghl@yahoo.co.uk,Deputy Director ,General Hospital/house officer's and resident rotation,32,"A/E, PEADEATRIC, LABORATORY, PHYSIOTHERAPY, ACCOUNT, PLANNING, DENTAL, RADIOLOGY, ENGINEERING, SOPD, ORTHOPEDIC, MOPD, CARDIOLOGY,G/E, PSYCHIATRIC,ANC, PLANNING,THEATRE, NURSING, HYGIENIST,ADMIN,SOCIAL,AUDITING,STORE, PROCUREMENT,HMIS,DRIVER, SECURITY,,Catering,COMMUNITY HEALTH,GOPD,",13,"National Grid, Generator",National Grid,No,,No,18 to 20 hrs ,"It,affects, hospital equipment,hospital EMR,AND THEATRE",No,Yes,"24 hrs service will be render,wish will lead to patients satisfaction ",Yes,outright purchase,5,Yes,9,14,Yes,No,Yes,85%,15%,No,No,,,,No,,No,
+06/02/2025 12:19,Randle General Hospital,Ifako-Ijaiye,"68 Randle Avenue, Surulere  Lagos ",Yes,,,3,20,Dr Olumide Sojinrin,0803 758 6791,osojinrin@yahoo.com ,Medical Director ,General Hospital ,25,"Admin/hr
+Dietetics 
+Procurement 
+Store 
+Finance and Account  
+Audit 
+Budget and planning 
+Community and environmental health 
+Medical  s9cial welfare
+Public Affairs  
+Nursing 
+Medicine 
+Clinical service and  training  
+Haematology 
+Health information management 
+Opthalmology 
+ICT
+Laboratory 
+Pharmacy 
+Surgery 
+Catering 
+Physiotherapy 
+Radiology 
+Dental 
+Engineering 
+
+",18,"National Grid, Generator, Solar",National Grid,Yes,"exposed wires, Fire Risk",Yes,,,,,,Yes,lease-to-own,3,No,,,,Yes,No,,,,No,,,,No,,No,
+5/30/2025 10:48:46,Shomolu General Hospital,Somolu,"1 Oguntolu street,Somolu ",Yes,,,40,1500,Quadri Mustapha Adebola ,8023133936,mustaphaquadri@lagosstate.gov.ng,Medical Director ,General hospital ,30,"Obstetrics &Gynaecology,Surgery,Aneasthesia,Family Medicine,General out patient,Medicine Outpatient,paediatrics,Dental,Opthalmology,Pharmacy,Laboratory,Radiology,Social welfare,nursing,Admin/HR,Nutrition &Dietetics,catering,tailoring,domestic,laundry,Transport,stores,procurement,health information,engineering,finance &accounts,internal audit,planning,public affairs,ICT,",15,"National Grid, Generator",Generator,Yes,"Noise, Fumes, Fire Risk",No,24 hours ,Disruption in service delivery ,No,Yes,"Physiotherapy,health and wellness,",Yes,Government installation/maintenance,3,Yes,8,10,Yes,Yes,No,,,,Yes,250000,No,From IGR,No,,No,
+06/02/2025 14:25,Isolo General Hospital,Oshodi-Isolo,121 Mushin Road Isolo Lagos ,Yes,,,420,35000,Dr. Saliu Olugbenga Oseni ,2.35E+12,drosenitmc@gmail.com,Medical Director/ CEO,General Hospital/ Secondary Healthcare Facility ,36,Yes,15,"National Grid, Generator, Solar",National Grid,Yes,Old generating set not optimally functioning so May require additional new one as back because the National grid is not supplying as expected even being on band A ed ,Yes,,,,,,Yes,lease-to-own,4,Yes,9,"599 Permanents, 32 Medical House Officers, 25 Corps members & Interns and 82 additional adhocs ",Yes,The nature of the hospital cannot save or make profit,Yes,100%,5-10%,Yes,No,,,,Yes,Rural Electrification Agency/ Nigeria Electrification Project (NEP),No,
+06/02/2025 15:16,MCC Gbaja,Surulere,"3, Gbaja Street, Surulere ",Yes,,,11,285,Dr Olumide Sojinrin,0803 758 6791,osojinrin@yahoo.com ,Medical Director ,Mother and child ,11,"Admin and HR
+Engineering 
+Nursing 
+Laboratory 
+Radiology 
+Health  information management 
+O&G
+Pediatrics 
+Health and environmental 
+ICT
+Pharmacy
+
+",5,"National Grid, Generator, Solar",National Grid,No,,Yes,,,,,,Yes,lease-to-own,4,Yes,7,30,Yes,Yes,No,,,,No,,,,No,,No,
+06/02/2025 15:19,Alimosho General Hospital,Alimosho,"KM 4 LASU/Isheri Road, Igando, Lagos State",Yes,,,31,1671,Dr. A.S. Soyinka,8037173567,daposoyinka@gmail.com,The Medical Director/CEO,Secondary health care facility ,32,"Paediatrics 
+Surgery
+O&G
+Medicine
+Radiology 
+Orthopedics 
+Dental
+Nursing
+Pathology
+Pharmacy
+Opthalmology 
+Haematology 
+Physiotherapy 
+Admin & HR (Sections: Catering, Transport, Laundry, Security, Tailoring, & Gardner)
+Finance & Accounts
+Store
+Audit
+Procurement 
+Environmental Health
+Planning 
+Laboratory 
+Health information Department 
+Nutrition and Dietetics 
+Social Welfare
+Engineering
+GOPD
+Accident & Emergency
+Psychiatry 
+Community Health
+ICT
+Public Affairs
+Anaesthesia 
+
+
+
+",35,"National Grid, Generator",National Grid,Yes,"Noise, Fumes",Yes,,,,,,Yes,PPA model,4,Yes,8,14,Yes,"N2O, OOO,000.00",Yes,84%,40%,No,Yes,"N35,000.000.00",No,Internally generated revenue ,No,,No,
+06/02/2025 15:36,Femi Gbajabiamila General Hospital,Surulere,Iyun street,Yes,,,1,90,Dr Olumide Sojinrin ,0803 758 6791,osojinrin@yahoo.com ,Medical Director ,General Hospital ,17,"Admin and HR 
+Dietetics and nutrition 
+Engineering 
+Health information management 
+Nursing 
+Pharmacy 
+ICT 
+Medicine
+Surgery 
+Cardiology 
+Haematology 
+Radiology 
+Laboratory 
+ENT
+Opthalmology 
+Epidemiology 
+Store
+",4,"National Grid, Generator, Solar",National Grid,No,,Yes,,,,,,Yes,lease-to-own,4,No,,,,Yes,No,,,,No,,,,No,,No,
+06/03/2025 06:06,Isolo General Hospital,Oshodi-Isolo,121 MUSHIN RD ISOLO LAGOS,Yes,,,420,35000,DR. SALIU OLUGBENGA OSENI,2.35E+12,drosenitmc@gmail.com,MEDICAL DIRECTOR/ CEO,GENERAL HOSPITAL/ SECONDARY HEALTH CARE FACILITY ,36,YES,15,"National Grid, Generator, Solar",National Grid,Yes,The existing generating sets are old so they are not optimally functioning therefore there is an urgent need for a new one to serve as a backup ,No,22-23 hours daily on the average ,Power interruption has greater impact as there is absolutely nothing to be done without power supply because of (emr) electronic medical records which is in operation ,No,Yes,"HDU, ONCOLOGY AND LAUNDRY SERVICES TO PATIENTS ",Yes,outright purchase,4,Yes,9,"599 PERMANENT STAFF , 32 MEDICAL HOUSE OFFICERS 84 PROJECTS OFFICERS ",Yes,The facility is a non profit making organization therefore there can never exist any investment o,Yes,100%,5-10%,Yes,No,,,,Yes,Rural Electrification Agency/ Nigeria Electrification Project ( NEP),No,
