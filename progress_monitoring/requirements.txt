@@ -1,4 +1,6 @@
 streamlit
 pandas
-pydeck
 plotly
+matplotlib
+numpy
+pydeck
