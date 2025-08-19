@@ -60,7 +60,6 @@ energy_audit_count =  ea_progress["Unique_Audited"].sum()
 expected_ea_count = ea_progress["Number of building at the hospital"].sum()
 
 ################################################
-
 solar_feasibility_count = solar_feasibility_df.shape[0]
 environmental_impact_count = environmental_impact_df['What is the name of the hospital?'].nunique()
 Power_Analyzer_progress_count = Power_Analyzer_progress_df.shape[0]
@@ -70,7 +69,6 @@ data_collected = (pre_audit_count + network_analysis_count + energy_audit_count 
 data_expected  =  32+32+32+expected_ea_count+64+expected_ea_count
 
 Progress = (data_collected)/data_expected * 100
-
 
 
 deficit = 100 - Progress
@@ -106,10 +104,26 @@ hospital_list["Network Analysis"] = hospital_list["What is the name of the hospi
     lambda name: "✅" if name in network_analysis_df["What is the name of the hospital?"].values else "❌"
 )
 
-# Add status column based on whether hospital name appears in audited data
-hospital_list["Energy Audit"] = hospital_list["What is the name of the hospital?"].apply(
-    lambda name: "✅" if name in energy_audit_df["What is the name of the hospital?"].values else "❌"
-)
+
+#######
+def audit_status(row):
+    if row["Unique_Audited"] == 0:
+        return "❌"
+    elif row["Unique_Audited"] < row["Number of building at the hospital"]:
+        return "🟡"
+    else:
+        return "✅"
+
+# Apply to hospital list (assuming you've merged already into `progress`)
+ea_progress["Energy Audit"] = ea_progress.apply(audit_status, axis=1)
+
+
+# Step 2: Map status back to hospital_list
+status_map = dict(zip(ea_progress["What is the name of the hospital?"], ea_progress["Energy Audit"]))
+hospital_list["Energy Audit"] = hospital_list["What is the name of the hospital?"].map(status_map)
+
+######
+
 
 # Add status column based on whether hospital name appears in audited data
 hospital_list["Solar Feasibility"] = hospital_list["What is the name of the hospital?"].apply(
@@ -284,10 +298,11 @@ import plotly.graph_objects as go
 activities = ["Pre Audit", "Motorbile & Network Analysis", "Energy Audit & SE", "Solar Feasibility", "Environmental Survey", "Power Analyzer"]
 data = {
     "Hospital Count": [32, 32, 32, 32, 32, 32],
-    "Hospital Collected": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
-    "Verified/Passed Check": [0, 0, 0, 0, 0, 0],
-    "Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
+    "Hospital Completed": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
+    #"Verified/Passed Check": [0, 0, 0, 0, 0, 0],
+    #"Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
 }
+
 
 # --- Title ---
 st.markdown("### Data Count Tracker and Quality Check")
@@ -297,7 +312,7 @@ fig = go.Figure()
 
 colors = {
     "Hospital Count" : "#068744",
-    "Hospital Collected": "#36A2EB",
+    "Hospital Completed": "#36A2EB",
     #"Verified/Passed Check": "#064c87",
     #"Unverified Data" : "#f9bc6c",
 }
