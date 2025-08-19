@@ -24,14 +24,53 @@ map_df = pd.read_csv('data/map.csv')
 # or equivalently
 pre_audit_count = pre_audit_df['What is the name of the hospital?'].nunique()
 network_analysis_count = network_analysis_df['What is the name of the hospital?'].nunique()
-energy_audit_count = energy_audit_df.shape[0]
+##################################
+# --- Step 1: Replace "Others" with Other_Name ---
+energy_audit_df["Final_Building"] = energy_audit_df.apply(
+    lambda row: row["If Others, Kindly Input Building Name"] if row["Building Name"] == "Others" else row["Building Name"], axis=1
+)
+
+# --- Step 2: Split multiple buildings separated by ";" ---
+energy_audit_df_expanded = (
+    energy_audit_df.assign(Final_Building=energy_audit_df["Final_Building"].str.split(r";\s*"))
+    .explode("Final_Building")
+    .dropna(subset=["Final_Building"])
+)
+
+# Strip whitespace
+energy_audit_df_expanded["Final_Building"] = energy_audit_df_expanded["Final_Building"].str.strip()
+
+# --- Step 3: Get unique buildings per hospital ---
+df_unique = (
+    energy_audit_df_expanded[["What is the name of the hospital?", "Final_Building"]]
+    .drop_duplicates()
+    .groupby("What is the name of the hospital?")
+    .size()
+    .reset_index(name="Unique_Audited")
+)
+
+# --- Step 4: Merge with totals and calculate % completion ---
+ea_progress = network_analysis_df.merge(df_unique, on="What is the name of the hospital?", how="left")
+ea_progress["Unique_Audited"] = ea_progress["Unique_Audited"].fillna(0).astype(int)
+ea_progress["Completion_Percent"] = (ea_progress["Unique_Audited"] / ea_progress["Number of building at the hospital"] * 100).round(2)
+
+
+energy_audit_count =  ea_progress["Unique_Audited"].sum()
+
+expected_ea_count = ea_progress["Number of building at the hospital"].sum()
+
+################################################
+
 solar_feasibility_count = solar_feasibility_df.shape[0]
 environmental_impact_count = environmental_impact_df['What is the name of the hospital?'].nunique()
 Power_Analyzer_progress_count = Power_Analyzer_progress_df.shape[0]
 
 data_collected = (pre_audit_count + network_analysis_count + energy_audit_count + solar_feasibility_count + environmental_impact_count + Power_Analyzer_progress_count)
 
-Progress = (data_collected)/192 * 100
+data_expected  =  32+32+32+expected_ea_count+64+expected_ea_count
+
+Progress = (data_collected)/data_expected * 100
+
 
 
 deficit = 100 - Progress
@@ -39,7 +78,7 @@ deficit = 100 - Progress
 
 Pre_Audit_progress = f"{round((pre_audit_count / 32) * 100)}%"
 Network_Analysis_progress =  f"{round((network_analysis_count / 32) * 100)}%"
-Energy_Audit_progress = "0%"
+Energy_Audit_progress = f"{round((energy_audit_count / expected_ea_count) * 100)}%"
 Solar_Feasibility_progress = f"0%"
 Environmental_impact_progress = f"{round((environmental_impact_count / 32) * 100)}%"
 Power_Analyzer_progress = "0%"
@@ -175,7 +214,7 @@ with col5:
     metrics = {
         "Pre Audit": Pre_Audit_progress,
         "MotorBike Survey & Network Analysis": Network_Analysis_progress,
-        "Energy Audit & SE": "0%",
+        "Energy Audit & SE": Energy_Audit_progress,
         "Solar Feasibility": "0%",
         "Environmental Survey": Environmental_impact_progress,
         "Power Analyzer": "0%"
@@ -246,8 +285,8 @@ activities = ["Pre Audit", "Motorbile & Network Analysis", "Energy Audit & SE", 
 data = {
     "Hospital Count": [32, 32, 32, 32, 32, 32],
     "Hospital Collected": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
-    #"Verified/Passed Check": [0, 0, 0, 0, 0, 0],
-    #"Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
+    "Verified/Passed Check": [0, 0, 0, 0, 0, 0],
+    "Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
 }
 
 # --- Title ---
@@ -286,7 +325,7 @@ with col1:
     st.plotly_chart(fig, use_container_width=True)
 
 with col2:
-    st.metric("Data Expected", "192")
+    st.metric("Data Expected", data_expected)
     st.metric("Data Collected", data_collected)
     st.metric("Verified Data", "0")
 
