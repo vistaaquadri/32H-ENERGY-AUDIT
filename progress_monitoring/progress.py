@@ -18,7 +18,8 @@ network_analysis_df = pd.read_csv('data/network_analysis.csv')
 energy_audit_df = pd.read_csv('data/energy_audit.csv')
 solar_feasibility_df = pd.read_csv('data/solar_feasibility.csv')
 environmental_impact_df = pd.read_csv('data/environmental_impact.csv')
-Power_Analyzer_progress_df = pd.read_csv('data/Power_Analyzer_progress.csv')
+Power_Analyzer_progress_df = pd.read_csv('data/Power_analyzer.csv')
+Power_Analyzer_count_df = pd.read_csv('data/Power_Analyzer_Count.csv')
 map_df = pd.read_csv('data/map.csv')
 
 # or equivalently
@@ -62,6 +63,9 @@ expected_ea_count = ea_progress["Number of building at the hospital"].sum()
 ################################################
 solar_feasibility_count = solar_feasibility_df.shape[0]
 environmental_impact_count = environmental_impact_df['What is the name of the hospital?'].nunique()
+
+
+
 Power_Analyzer_progress_count = Power_Analyzer_progress_df.shape[0]
 
 data_collected = (pre_audit_count + network_analysis_count + energy_audit_count + solar_feasibility_count + environmental_impact_count + Power_Analyzer_progress_count)
@@ -79,7 +83,7 @@ Network_Analysis_progress =  f"{round((network_analysis_count / 32) * 100)}%"
 Energy_Audit_progress = f"{round((energy_audit_count / expected_ea_count) * 100)}%"
 Solar_Feasibility_progress = f"0%"
 Environmental_impact_progress = f"{round((environmental_impact_count / 32) * 100)}%"
-Power_Analyzer_progress = "0%"
+Power_Analyzer_progress =  f"{round((Power_Analyzer_progress_count / 64) * 100)}%" 
 
 # Split the Geolocation column into two separate float columns
 geolocation_df = network_analysis_df.copy()
@@ -135,11 +139,21 @@ hospital_list["Environmental Impact"] = hospital_list["What is the name of the h
     lambda name: "✅" if name in environmental_impact_df["What is the name of the hospital?"].values else "❌"
 )
 
+# Count appearances of each hospital in the Power Analyzer dataset
+counts = Power_Analyzer_progress_df["What is the name of the hospital?"].value_counts()
+
+# Apply logic based on count
+hospital_list["Power Analyzer"] = hospital_list["What is the name of the hospital?"].apply(
+    lambda name: "❌" if counts.get(name, 0) == 0 
+    else "🟡" if counts.get(name, 0) == 1 
+    else "✅"
+)
+
 
 # Add status column based on whether hospital name appears in audited data
-hospital_list["Power Analyzer"] = hospital_list["What is the name of the hospital?"].apply(
-    lambda name: "✅" if name in Power_Analyzer_progress_df["What is the name of the hospital?"].values else "❌"
-)
+#hospital_list["Power Analyzer"] = hospital_list["What is the name of the hospital?"].apply(
+#    lambda name: "✅" if name in Power_Analyzer_progress_df["What is the name of the hospital?"].values else "❌"
+#)
 
 
 
