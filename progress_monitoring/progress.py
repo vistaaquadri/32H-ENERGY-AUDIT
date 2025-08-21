@@ -65,7 +65,6 @@ solar_feasibility_count = solar_feasibility_df.shape[0]
 environmental_impact_count = environmental_impact_df['What is the name of the hospital?'].nunique()
 
 
-
 Power_Analyzer_progress_count = Power_Analyzer_progress_df.shape[0]
 
 data_collected = (pre_audit_count + network_analysis_count + energy_audit_count + solar_feasibility_count + environmental_impact_count + Power_Analyzer_progress_count)
@@ -303,7 +302,11 @@ with col6:
     st.pydeck_chart(r)
 
  
-
+pre_audit_per = pre_audit_count/32 * 100
+network_analysis_per =  network_analysis_count/32 * 100
+energy_audit_per = energy_audit_count/expected_ea_count * 100
+environmental_impact_per  = environmental_impact_count/32 *100
+Power_Analyzer_progress_per = Power_Analyzer_progress_count/64 * 100
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
@@ -311,11 +314,12 @@ import plotly.graph_objects as go
 # --- Sample Data for the Bar Chart ---
 activities = ["Pre Audit", "Motorbile & Network Analysis", "Energy Audit & SE", "Solar Feasibility", "Environmental Survey", "Power Analyzer"]
 data = {
-    "Hospital Count": [32, 32, 32, 32, 32, 32],
-    "Hospital Completed": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
+    "Hospital Count": [100, 100, 100, 100, 100, 100],
+    "Hospital Completed": [pre_audit_per, network_analysis_per, energy_audit_per, 0, environmental_impact_per, Power_Analyzer_progress_per],
     #"Verified/Passed Check": [0, 0, 0, 0, 0, 0],
     #"Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
 }
+
 
 
 # --- Title ---
