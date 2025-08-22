@@ -62,6 +62,44 @@ expected_ea_count = ea_progress["Number of building at the hospital"].sum()
 
 ################################################
 solar_feasibility_count = solar_feasibility_df.shape[0]
+
+
+# --- Step 1: Replace "Others" with Other_Name ---
+solar_feasibility_df["Final_Building"] = solar_feasibility_df.apply(
+    lambda row: row["If Others, Kindly Input Building Name"] if row["Building Name"] == "Others" else row["Building Name"], axis=1
+)
+
+# --- Step 2: Split multiple buildings separated by ";" ---
+solar_feasibility_df_expanded = (
+    solar_feasibility_df.assign(Final_Building=solar_feasibility_df["Final_Building"].str.split(r";\s*"))
+    .explode("Final_Building")
+    .dropna(subset=["Final_Building"])
+)
+
+# Strip whitespace
+solar_feasibility_df_expanded["Final_Building"] = solar_feasibility_df_expanded["Final_Building"].str.strip()
+
+# --- Step 3: Get unique buildings per hospital ---
+df_unique = (
+    solar_feasibility_df_expanded[["What is the name of the hospital?", "Final_Building"]]
+    .drop_duplicates()
+    .groupby("What is the name of the hospital?")
+    .size()
+    .reset_index(name="Unique_Audited")
+)
+
+# --- Step 4: Merge with totals and calculate % completion ---
+sf_progress = network_analysis_df.merge(df_unique, on="What is the name of the hospital?", how="left")
+sf_progress["Unique_Audited"] = sf_progress["Unique_Audited"].fillna(0).astype(int)
+sf_progress["Completion_Percent"] = (sf_progress["Unique_Audited"] / sf_progress["Number of building at the hospital"] * 100).round(2)
+
+
+solar_feasibility_count =  sf_progress["Unique_Audited"].sum()
+
+expected_sf_count = sf_progress["Number of building at the hospital"].sum()
+
+
+################################################################
 environmental_impact_count = environmental_impact_df['What is the name of the hospital?'].nunique()
 
 
@@ -69,7 +107,7 @@ Power_Analyzer_progress_count = Power_Analyzer_progress_df.shape[0]
 
 data_collected = (pre_audit_count + network_analysis_count + energy_audit_count + solar_feasibility_count + environmental_impact_count + Power_Analyzer_progress_count)
 
-data_expected  =  32+32+32+expected_ea_count+64+expected_ea_count
+data_expected  =  32+32+expected_ea_count+expected_sf_count+32+64
 
 Progress = (data_collected)/data_expected * 100
 
@@ -80,7 +118,7 @@ deficit = 100 - Progress
 Pre_Audit_progress = f"{round((pre_audit_count / 32) * 100)}%"
 Network_Analysis_progress =  f"{round((network_analysis_count / 32) * 100)}%"
 Energy_Audit_progress = f"{round((energy_audit_count / expected_ea_count) * 100)}%"
-Solar_Feasibility_progress = f"0%"
+Solar_Feasibility_progress = f"{round((solar_feasibility_count / expected_sf_count) * 100)}%"
 Environmental_impact_progress = f"{round((environmental_impact_count / 32) * 100)}%"
 Power_Analyzer_progress =  f"{round((Power_Analyzer_progress_count / 64) * 100)}%" 
 
@@ -129,9 +167,18 @@ hospital_list["Energy Audit"] = hospital_list["What is the name of the hospital?
 
 
 # Add status column based on whether hospital name appears in audited data
-hospital_list["Solar Feasibility"] = hospital_list["What is the name of the hospital?"].apply(
-    lambda name: "✅" if name in solar_feasibility_df["What is the name of the hospital?"].values else "❌"
-)
+#hospital_list["Solar Feasibility"] = hospital_list["What is the name of the hospital?"].apply(
+#    lambda name: "✅" if name in solar_feasibility_df["What is the name of the hospital?"].values else "❌"
+#)
+
+# Apply to hospital list (assuming you've merged already into `progress`)
+sf_progress["Solar Feasibility"] = sf_progress.apply(audit_status, axis=1)
+
+
+# Step 2: Map status back to hospital_list
+status_map_2 = dict(zip(sf_progress["What is the name of the hospital?"], sf_progress["Solar Feasibility"]))
+hospital_list["Solar Feasibility"] = hospital_list["What is the name of the hospital?"].map(status_map_2)
+
 
 # Add status column based on whether hospital name appears in audited data
 hospital_list["Environmental Impact"] = hospital_list["What is the name of the hospital?"].apply(
@@ -172,7 +219,7 @@ hospital_list["Power Analyzer"] = hospital_list["What is the name of the hospita
 
 
 # Set page configuration
-st.set_page_config(page_title="NESIP", layout="wide")
+st.set_page_config(page_title="32H", layout="wide")
 
 # Create two columns: one for the logo, one for the title
 col1, col2 = st.columns([0.5, 6])  # Adjust column width ratio as needed
@@ -242,9 +289,9 @@ with col5:
         "Pre Audit": Pre_Audit_progress,
         "MotorBike Survey & Network Analysis": Network_Analysis_progress,
         "Energy Audit & SE": Energy_Audit_progress,
-        "Solar Feasibility": "0%",
+        "Solar Feasibility": Solar_Feasibility_progress,
         "Environmental Survey": Environmental_impact_progress,
-        "Power Analyzer": "0%"
+        "Power Analyzer": Power_Analyzer_progress
     }
 
     cols = st.columns(2)
@@ -305,6 +352,7 @@ with col6:
 pre_audit_per = pre_audit_count/32 * 100
 network_analysis_per =  network_analysis_count/32 * 100
 energy_audit_per = energy_audit_count/expected_ea_count * 100
+solar_feasibility_per = solar_feasibility_count/expected_sf_count * 100
 environmental_impact_per  = environmental_impact_count/32 *100
 Power_Analyzer_progress_per = Power_Analyzer_progress_count/64 * 100
 import streamlit as st
@@ -315,7 +363,7 @@ import plotly.graph_objects as go
 activities = ["Pre Audit", "Motorbile & Network Analysis", "Energy Audit & SE", "Solar Feasibility", "Environmental Survey", "Power Analyzer"]
 data = {
     "Hospital Count": [100, 100, 100, 100, 100, 100],
-    "Hospital Completed": [pre_audit_per, network_analysis_per, energy_audit_per, 0, environmental_impact_per, Power_Analyzer_progress_per],
+    "Hospital Completed": [pre_audit_per, network_analysis_per, energy_audit_per, solar_feasibility_per, environmental_impact_per, Power_Analyzer_progress_per],
     #"Verified/Passed Check": [0, 0, 0, 0, 0, 0],
     #"Unverified Data": [pre_audit_count, network_analysis_count, 0, 0, environmental_impact_count, 0],
 }
