@@ -18,10 +18,15 @@ library(shinyjs)
 library(slickR)
 library(leaflet)
 
-#####
+###############################################################################################################################################
+applaince_audit <- read_csv("database/Main_Audit.csv")
 
+
+
+
+###############################################################################################################################################
 # Sample hospital data
-hospital_data <- data.frame(
+hospital_data_sample <- data.frame(
   id = 1:32,
   name = paste("Hospital", LETTERS[1:3], rep(1:11, length.out = 32)),
   total_demand = rep(500, 32),
@@ -158,7 +163,7 @@ server <- function(input, output, session) {
   current_page <- reactiveVal(1)
   
   observeEvent(input$nextPage, {
-    if (current_page() * page_size < nrow(hospital_data)) {
+    if (current_page() * page_size < nrow(hospital_data_sample)) {
       current_page(current_page() + 1)
     }
   })
@@ -170,7 +175,7 @@ server <- function(input, output, session) {
   })
   
   output$page_numbers <- renderUI({
-    pages <- ceiling(nrow(hospital_data) / page_size)
+    pages <- ceiling(nrow(hospital_data_sample) / page_size)
     tagList(
       lapply(1:pages, function(i) {
         actionButton(paste0("page_", i), label = i, class = ifelse(i == current_page(), "btn-success", "btn-default"))
@@ -179,7 +184,7 @@ server <- function(input, output, session) {
   })
   
   observe({
-    pages <- ceiling(nrow(hospital_data) / page_size)
+    pages <- ceiling(nrow(hospital_data_sample) / page_size)
     lapply(1:pages, function(i) {
       observeEvent(input[[paste0("page_", i)]], {
         current_page(i)
@@ -189,8 +194,8 @@ server <- function(input, output, session) {
   
   output$hospital_cards <- renderUI({
     start <- (current_page() - 1) * page_size + 1
-    end <- min(current_page() * page_size, nrow(hospital_data))
-    rows <- split(hospital_data[start:end, ], f = ceiling(seq_len(end - start + 1) / 3))
+    end <- min(current_page() * page_size, nrow(hospital_data_sample))
+    rows <- split(hospital_data_sample[start:end, ], f = ceiling(seq_len(end - start + 1) / 3))
 
     tagList(
       lapply(rows, function(row) {
@@ -225,8 +230,8 @@ server <- function(input, output, session) {
   
   # output$hospital_cards <- renderUI({
   #   tagList(
-  #     lapply(1:nrow(hospital_data), function(i) {
-  #       hosp <- hospital_data[i, ]
+  #     lapply(1:nrow(hospital_data_sample), function(i) {
+  #       hosp <- hospital_data_sample[i, ]
   #       div(class = "card",
   #           style = "cursor:pointer;",
   #           onclick = sprintf("Shiny.setInputValue('showDetail', %d, {priority: 'event'})", hosp$id),
@@ -240,7 +245,7 @@ server <- function(input, output, session) {
   
   
   # observeEvent(input$showDetail, {
-  #   hosp <- hospital_data[hospital_data$id == input$showDetail, ]
+  #   hosp <- hospital_data_sample[hospital_data_sample$id == input$showDetail, ]
   #   output$detailContent <- renderUI({
   #     tagList(
   #       h3(hosp$name),
@@ -303,7 +308,7 @@ server <- function(input, output, session) {
   
   
   observeEvent(input$showDetail, {
-    hosp <- hospital_data[hospital_data$id == input$showDetail, ]
+    hosp <- hospital_data_sample[hospital_data_sample$id == input$showDetail, ]
     
     output$detailContent <- renderUI({
       tagList(
@@ -1375,4 +1380,37 @@ server <- function(input, output, session) {
       ylim = c(0, 120)
     )
   })
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  #################################################################################################################
+## hospital count (Unique)
+ output$hospital_count <-  renderText({
+   c <- length(unique(hospital_count$`What is the name of the hospital?`))
+   c
+ })
+  
+## LOCAL GOVERNMENT UNIQUE COUNT
+  output$lga_count <-  renderText({
+    c <- length(unique(main_audit_df$`Local Government`))
+    c
+  })
+  
+  
+  
+  
+  
+  
+  
+  
 }
