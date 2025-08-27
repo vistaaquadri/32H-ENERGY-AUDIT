@@ -19,7 +19,7 @@ energy_audit_df = pd.read_csv('data/energy_audit.csv')
 solar_feasibility_df = pd.read_csv('data/solar_feasibility.csv')
 environmental_impact_df = pd.read_csv('data/environmental_impact.csv')
 Power_Analyzer_progress_df = pd.read_csv('data/Power_analyzer.csv')
-Power_Analyzer_count_df = pd.read_csv('data/Power_Analyzer_Count.csv')
+
 map_df = pd.read_csv('data/map.csv')
 
 # or equivalently
